@@ -1,0 +1,493 @@
+# Copyright (C) 2020 Ultimate Member
+# This file is distributed under the same license as the Ultimate Member - Social Login plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - Social Login 2.3.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/um-social-login\n"
+"Last-Translator: 하나몬\n"
+"Language-Team: 한국어\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-12-16T16:25:45+02:00\n"
+"PO-Revision-Date: 2021-04-05 05:46+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: um-social-login\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.5.2; wp-5.7"
+
+#: includes/core/filters/um-social-login-providers.php:284
+msgid " Secret"
+msgstr " Secret"
+
+#: includes/core/filters/um-social-login-account.php:17
+msgid " This %s account is already linked to another user."
+msgstr "이 %s 계정은 이미 다른 사용자와 연결되어 있습니다."
+
+#: includes/core/hooks/um-mycred-social-login.php:30
+msgid "%%plural%% for connecting %s account."
+msgstr "% s 계정 연결에 대한 %%plural%%."
+
+#: includes/core/hooks/um-mycred-social-login.php:141
+msgid "%%plural%% for disconnecting %s account."
+msgstr "%s 계정 연결 해제에 대한 %%plural%%."
+
+#: includes/core/filters/um-social-login-settings.php:95
+msgid "%s Social Connect"
+msgstr "%s 소셜 연결"
+
+#: includes/admin/templates/form/register.php:62
+msgid "Add content to social overlay with a content block in the form builder."
+msgstr "양식 작성기에서 콘텐츠 블록을 사용하여 소셜 오버레이에 콘텐츠를 추가합니다."
+
+#: includes/core/filters/um-social-login-account.php:109
+msgid "ago"
+msgstr "...전에"
+
+#: includes/admin/templates/form/register.php:52
+msgid "Allow new account creation with a generated Email"
+msgstr "생성 된 이메일로 새 계정 생성 허용"
+
+#: includes/core/filters/um-social-login-providers.php:124
+#: includes/core/filters/um-social-login-providers.php:182
+msgid "API Key"
+msgstr "API Key"
+
+#: includes/core/filters/um-social-login-providers.php:125
+#: includes/core/filters/um-social-login-providers.php:183
+msgid "API Secret"
+msgstr "API Secret"
+
+#: includes/core/filters/um-social-login-providers.php:19
+#: includes/core/filters/um-social-login-providers.php:283
+msgid "App ID"
+msgstr "앱 ID"
+
+#: includes/core/filters/um-social-login-providers.php:20
+msgid "App Secret"
+msgstr "앱 시크릿 코드"
+
+#: includes/admin/templates/buttons.php:33
+msgid "Assign Role"
+msgstr "역할 할당"
+
+#: includes/core/filters/um-social-login-profile.php:79
+msgid "Award %_plural% for users connecting Social Network."
+msgstr "소셜 네트워크를 연결하는 사용자에게 %_plural%을 수여하십시오."
+
+#: includes/admin/templates/buttons.php:65
+msgid "Button Appearance"
+msgstr "버튼 모양"
+
+#: includes/admin/templates/buttons.php:115
+msgid "Button Min Width"
+msgstr "버튼 최소 너비"
+
+#: includes/admin/templates/buttons.php:123
+msgid "Button Padding"
+msgstr "버튼 패딩"
+
+#: includes/admin/templates/buttons.php:102
+msgid "Button Style"
+msgstr "버튼 스타일"
+
+#: includes/core/filters/um-social-login-providers.php:92
+#: includes/core/filters/um-social-login-providers.php:153
+#: includes/core/filters/um-social-login-providers.php:213
+#: includes/core/filters/um-social-login-providers.php:244
+msgid "Client ID"
+msgstr "클라이언트 ID"
+
+#: includes/core/filters/um-social-login-providers.php:154
+#: includes/core/filters/um-social-login-providers.php:214
+#: includes/core/filters/um-social-login-providers.php:245
+msgid "Client Secret"
+msgstr "클라이언트 보안 비밀"
+
+#: includes/core/filters/um-social-login-providers.php:93
+msgid "Client secret"
+msgstr "클라이언트 보안 비밀"
+
+#: includes/core/um-social-login-init.php:496
+msgid "Complete Registration"
+msgstr "등록 완료"
+
+#: includes/core/filters/um-social-login-account.php:93
+#: includes/core/filters/um-social-login-account.php:114
+#: includes/core/filters/um-social-login-account.php:116
+msgid "Connect to %s"
+msgstr "%s에 연결"
+
+#: includes/core/filters/um-social-login-providers.php:13
+msgid "Connect with Facebook"
+msgstr "페이스북과 연동하세요."
+
+#: includes/core/filters/um-social-login-providers.php:59
+msgid "Consumer Key"
+msgstr "Consumer Key"
+
+#: includes/core/filters/um-social-login-providers.php:60
+msgid "Consumer Secret"
+msgstr "Consumer Secret"
+
+#: includes/admin/templates/buttons.php:130
+msgid "Container Appearance"
+msgstr "컨테이너 외관"
+
+#: includes/admin/templates/buttons.php:149
+msgid "Container Margin"
+msgstr "컨테이너 마진"
+
+#: includes/admin/templates/buttons.php:141
+msgid "Container max width"
+msgstr "컨테이너 최대 너비"
+
+#: includes/admin/templates/buttons.php:157
+msgid "Container Padding"
+msgstr "컨테이너 패딩"
+
+#: includes/admin/templates/shortcode.php:5
+msgid ""
+"Copy/paste the following shortcode to embed this social login anywhere on "
+"your site or within UM forms."
+msgstr "다음 단축 코드를 복사 / 붙여 넣기하여 사이트 또는 UM 양식 내에이 소셜 로그인을 포함합니다."
+
+#: includes/core/filters/um-social-login-profile.php:85
+msgid "Deduct %_plural% for users disconnecting Social Network."
+msgstr "소셜 네트워크 연결을 끊은 사용자에 대해 % _plural %를 공제합니다."
+
+#: includes/core/filters/um-social-login-account.php:105
+msgid "Disconnect"
+msgstr "연결 해제"
+
+#: includes/admin/templates/form/register.php:53
+msgid "Do not link accounts and prevent from account creation"
+msgstr "계정 연결 금지 및 계정 생성 방지"
+
+#: includes/core/class-social-login-disconnect.php:49
+msgid "Ehh! hacking?"
+msgstr "Ehh! 해킹?"
+
+#: includes/admin/templates/buttons.php:12
+msgid "Enable <b>%s</b>"
+msgstr "%s 활성화"
+
+#: includes/core/filters/um-social-login-settings.php:66
+msgid "Enable/disable the Social account tab in account page"
+msgstr "계정 페이지에서 소셜 계정 탭 활성화 / 비활성화"
+
+#: includes/core/filters/um-social-login-providers.php:12
+msgid "Facebook"
+msgstr "페이스북"
+
+#: includes/admin/templates/buttons.php:107
+msgid "Floated"
+msgstr "떠 다니는"
+
+#: includes/admin/templates/buttons.php:88
+msgid "Font Size"
+msgstr "글꼴 크기"
+
+#: includes/admin/templates/buttons.php:24
+msgid "General Settings"
+msgstr "일반 설정"
+
+#: includes/core/filters/um-social-login-providers.php:206
+msgid "Github"
+msgstr "깃허브"
+
+#: includes/core/filters/um-social-login-providers.php:85
+msgid "Google"
+msgstr "구글"
+
+#. Author URI of the plugin
+msgid "http://ultimatemember.com/"
+msgstr "http://ultimatemember.com/"
+
+#. Plugin URI of the plugin
+msgid "http://ultimatemember.com/extensions/social-login"
+msgstr "http://ultimatemember.com/extensions/social-login"
+
+#: includes/admin/templates/buttons.php:96
+msgid "Icon Size"
+msgstr "아이콘 크기"
+
+#: includes/core/filters/um-social-login-providers.php:146
+msgid "Instagram"
+msgstr "인스타그램"
+
+#: includes/admin/templates/buttons.php:52
+msgid "Integration Type"
+msgstr "통합 유형"
+
+#: includes/admin/templates/buttons.php:46
+msgid "Keep user signed in?"
+msgstr "사용자 로그인을 유지 하시겠습니까?"
+
+#: includes/admin/templates/form/register.php:50
+msgid "Link Accounts & Login immediately"
+msgstr "계정 연결 및 즉시 로그인"
+
+#: includes/admin/templates/form/register.php:51
+msgid "Link Accounts & Redirect to Login page"
+msgstr "계정 연결 및 로그인 페이지로 리디렉션"
+
+#: includes/core/filters/um-social-login-providers.php:117
+msgid "LinkedIn"
+msgstr "링크드인"
+
+#: includes/admin/templates/form/login.php:15
+#: includes/admin/templates/form/register.php:16
+#: includes/admin/templates/form/register.php:26
+#: includes/admin/templates/form/register.php:65
+msgid "No"
+msgstr "아니오"
+
+#: includes/admin/templates/form/register.php:39
+msgid "No - I want One-step process"
+msgstr "아니요-원스텝 프로세스를 원합니다."
+
+#: includes/admin/templates/metabox.php:54
+msgid "Not enough data to show visual stats"
+msgstr "시각적 통계를 표시하기에 데이터가 충분하지 않습니다."
+
+#: includes/admin/templates/buttons.php:105
+msgid "One button per line"
+msgstr "한 줄에 하나의 버튼"
+
+#: includes/core/um-social-login-init.php:564
+msgid "One of the scopes is not authorized by your developer application."
+msgstr "개발자 애플리케이션에서 범위 중 하나를 승인하지 않았습니다."
+
+#: includes/core/class-social-login-admin.php:158
+msgid "Options"
+msgstr "옵션"
+
+#: includes/admin/templates/form/register.php:13
+msgid ""
+"Please note only one registration form can be used for social overlay and "
+"this form should only be used for completion of social registration and not "
+"regular registration"
+msgstr "소셜 오버레이에는 하나의 등록 양식 만 사용할 수 있으며이 양식은 정기 등록이 아닌 소셜 등록 완료에만 사용해야합니다."
+
+#: includes/admin/templates/buttons.php:5
+msgid "Provider Settings"
+msgstr "공급자 설정"
+
+#: includes/admin/templates/buttons.php:106
+msgid "Responsive"
+msgstr "반응형"
+
+#: includes/core/class-social-login-admin.php:159
+msgid "Shortcode"
+msgstr "숏코드"
+
+#: includes/admin/templates/buttons.php:40
+msgid "Show for logged-in users?"
+msgstr "로그인 한 사용자에게 표시 하시겠습니까?"
+
+#: includes/admin/templates/buttons.php:74
+msgid "Show icon in the social login button?"
+msgstr "소셜 로그인 버튼에 아이콘을 표시 하시겠습니까?"
+
+#: includes/admin/templates/buttons.php:80
+msgid "Show label in the social login button?"
+msgstr "소셜 로그인 버튼에 라벨을 표시 하시겠습니까?"
+
+#: includes/core/filters/um-social-login-settings.php:77
+msgid "Show social connect on login forms"
+msgstr "로그인 양식에 소셜 연결 표시"
+
+#: includes/core/filters/um-social-login-settings.php:71
+msgid "Show social connect on registration forms"
+msgstr "등록 양식에 소셜 연결 표시"
+
+#: includes/admin/templates/form/login.php:12
+#: includes/admin/templates/form/register.php:23
+msgid "Show social connect on this form?"
+msgstr "이 양식에 소셜 연결을 표시 하시겠습니까?"
+
+#: includes/admin/templates/form/register.php:60
+msgid "Show splash screen"
+msgstr "시작 화면 표시"
+
+#: includes/core/filters/um-social-login-settings.php:78
+msgid "Show/hide social connect on all login forms by default"
+msgstr "기본적으로 모든 로그인 양식에서 소셜 연결 표시 / 숨기기"
+
+#: includes/core/filters/um-social-login-settings.php:72
+msgid "Show/hide social connect on all registration forms by default"
+msgstr "기본적으로 모든 등록 양식에서 소셜 연결 표시 / 숨기기"
+
+#: includes/core/filters/um-social-login-providers.php:207
+msgid "Sign in with Github"
+msgstr "깃허브로 로그인"
+
+#: includes/core/filters/um-social-login-providers.php:86
+msgid "Sign in with Google"
+msgstr "구글로 로그인"
+
+#: includes/core/filters/um-social-login-providers.php:147
+msgid "Sign in with Instagram"
+msgstr "인스타그램으로 로그인"
+
+#: includes/core/filters/um-social-login-providers.php:118
+msgid "Sign in with LinkedIn"
+msgstr "링크드인으로 로그인"
+
+#: includes/core/filters/um-social-login-providers.php:53
+msgid "Sign in with Twitter"
+msgstr "트위터로 로그인"
+
+#: includes/core/filters/um-social-login-providers.php:176
+msgid "Sign in with VK"
+msgstr "VK로 로그인"
+
+#: includes/core/filters/um-social-login-providers.php:277
+msgid "Sign in with WeChat"
+msgstr "WeChat으로 로그인"
+
+#: includes/core/filters/um-social-login-providers.php:238
+msgid "Sign in with Wordpress"
+msgstr "워드프레스로 로그인"
+
+#: includes/core/filters/um-social-login-settings.php:65
+msgid "Social Account Tab"
+msgstr "소셜 계정 탭"
+
+#: includes/core/filters/um-social-login-account.php:56
+msgid "Social Connect"
+msgstr "소셜 연결"
+
+#: includes/core/actions/um-social-login-admin.php:10
+#: includes/core/actions/um-social-login-admin.php:11
+#: includes/core/class-social-login-admin.php:79
+#: includes/core/filters/um-social-login-settings.php:60
+msgid "Social Login"
+msgstr "소셜 로그인"
+
+#: includes/core/class-social-login-admin.php:44
+msgid "Social Login - Sync Field"
+msgstr "소셜 로그인-동기화 필드"
+
+#: includes/core/filters/um-social-login-settings.php:52
+msgid "Social Login License Key"
+msgstr "소셜 로그인-동기화 필드"
+
+#: includes/core/class-social-login-setup.php:90
+msgid "Social Registration"
+msgstr "소셜 로그인"
+
+#. Description of the plugin
+msgid "Social registration and login for Ultimate Member plugin."
+msgstr "얼티밋 멤버 플러그인에 대한 소셜 등록 및 로그인."
+
+#: includes/core/class-social-login-admin.php:99
+msgid "Social Signups"
+msgstr "소셜 가입"
+
+#: um-social-login.php:41 um-social-login.php:57
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr "%s 확장이 제대로 작동하려면 얼티밋 멤버 플러그인을 활성화해야합니다. 여기에서 다운로드 할 수 있습니다."
+
+#: includes/core/filters/um-social-login-providers.php:52
+msgid "Twitter"
+msgstr "트위터"
+
+#: includes/admin/templates/form/register.php:36
+msgid ""
+"Two-step registration allows users to check the field values from Social "
+"Network APIs before they can submit the register form. One-step Registration "
+"submits the details automatically after authenticating Social Network "
+"accounts."
+msgstr ""
+"2 단계 등록을 통해 사용자는 등록 양식을 제출하기 전에 소셜 네트워크 API에서 필드 값을 확인할 수 있습니다. One-step "
+"Registration은 소셜 네트워크 계정을 인증 한 후 자동으로 세부 정보를 제출합니다."
+
+#. Author of the plugin
+msgid "Ultimate Member"
+msgstr "얼티밋 멤버"
+
+#: includes/core/filters/um-social-login-profile.php:78
+msgid "Ultimate Member - Connect Social Account"
+msgstr "얼티밋 멤버-소셜 계정 연결"
+
+#: includes/core/filters/um-social-login-profile.php:84
+msgid "Ultimate Member - Disconnect Social Account"
+msgstr "얼티밋 멤버-소셜 계정 연결 해제"
+
+#. Plugin Name of the plugin
+msgid "Ultimate Member - Social Login"
+msgstr "얼티밋 멤버-소셜 로그인"
+
+#: includes/core/filters/um-social-login-profile.php:101
+msgid "Ultimate Member - Social Login Connect"
+msgstr "얼티밋 멤버-소셜 로그인 연결"
+
+#: includes/admin/templates/form/register.php:12
+msgid "Use this form in the overlay?"
+msgstr "오버레이에서이 양식을 사용 하시겠습니까?"
+
+#: includes/admin/templates/form/register.php:34
+msgid "Use Two-step Registration"
+msgstr "2 단계 등록 사용"
+
+#: includes/core/filters/um-social-login-settings.php:14
+msgid "user connects with %s"
+msgstr "사용자가 %s와 연결"
+
+#: includes/core/filters/um-social-login-settings.php:31
+msgid "user disconnects from %s"
+msgstr "사용자가 %s에서 연결을 끊습니다."
+
+#: includes/core/filters/um-social-login-providers.php:175
+msgid "Vkontakte"
+msgstr "브깐딱쩨"
+
+#: includes/core/um-social-login-init.php:560
+msgid "We were unable to request application access permissions."
+msgstr "애플리케이션 액세스 권한을 요청할 수 없습니다."
+
+#: includes/core/filters/um-social-login-providers.php:276
+msgid "WeChat"
+msgstr "위챗"
+
+#: includes/admin/templates/form/register.php:46
+msgid "When Social Account's Email is already registered"
+msgstr "소셜 계정의 이메일이 이미 등록 된 경우"
+
+#: includes/core/filters/um-social-login-providers.php:237
+msgid "Wordpress"
+msgstr "워드프레스"
+
+#: includes/admin/templates/form/login.php:16
+#: includes/admin/templates/form/register.php:17
+#: includes/admin/templates/form/register.php:27
+#: includes/admin/templates/form/register.php:38
+#: includes/admin/templates/form/register.php:64
+msgid "Yes"
+msgstr "네"
+
+#: includes/core/um-social-login-init.php:576
+msgid ""
+"You're not allowed to create a new account with the email address added to "
+"your social account.  Please login and link your social account in the "
+"Account page."
+msgstr "소셜 계정에 추가 된 이메일 주소로 새 계정을 만들 수 없습니다. 계정 페이지에서 로그인하고 소셜 계정을 연결하십시오."
+
+#: includes/core/um-social-login-init.php:572
+msgid "Your social account is already linked to the site."
+msgstr "소셜 계정이 이미 사이트에 연결되어 있습니다."
+
+#: includes/core/um-social-login-init.php:568
+msgid ""
+"Your social account is not yet linked to the site. Please login below with "
+"your username and password or <a href=\"%s\">click here</a> to register with "
+"your social account.."
+msgstr ""
+"소셜 계정이 아직 사이트에 연결되지 않았습니다. 아래에서 사용자 이름과 비밀번호로 로그인하거나 <a href=\"%s\">여기</a>를 "
+"클릭하여 소셜 계정에 등록하세요.!"

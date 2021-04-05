@@ -1,0 +1,3584 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Statistics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-04 08:37+0000\n"
+"PO-Revision-Date: 2021-04-05 05:55+0000\n"
+"Last-Translator: 하나\n"
+"Language-Team: 한국어\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6\n"
+"X-Domain: wp-statistics"
+
+#: includes/admin/templates/settings/visitor-ip.php:18
+msgid "$_SERVER"
+msgstr "$ _SERVER"
+
+#: includes/admin/class-wp-statistics-admin-ajax.php:106
+#, php-format
+msgid "%s agent data deleted successfully."
+msgstr "%s 에이전트 데이터가 성공적으로 삭제되었습니다."
+
+#: includes/class-wp-statistics-purge.php:46
+#: includes/class-wp-statistics-purge.php:76
+#: includes/class-wp-statistics-purge.php:87
+#: includes/class-wp-statistics-purge.php:97
+#: includes/class-wp-statistics-purge.php:160
+#, php-format
+msgid "%s data older than %s days purged successfully."
+msgstr "%s 일보다 오래된 %s 데이터가 성공적으로 제거되었습니다."
+
+#: includes/admin/class-wp-statistics-admin-ajax.php:180
+#, php-format
+msgid "%s IP data deleted successfully."
+msgstr "%s IP 데이터가 성공적으로 삭제되었습니다."
+
+#: includes/admin/class-wp-statistics-admin-ajax.php:144
+#, php-format
+msgid "%s platform data deleted successfully."
+msgstr "%s 플랫폼 데이터가 성공적으로 삭제되었습니다."
+
+#: includes/class-wp-statistics-purge.php:216
+#, php-format
+msgid "%s records purged successfully."
+msgstr "%s 레코드가 성공적으로 제거되었습니다."
+
+#: includes/admin/meta-box/wp-statistics-meta-box-platforms.php:101
+#: includes/admin/meta-box/wp-statistics-meta-box-browsers.php:166
+#, php-format
+msgid "%s Statistics from %s to %s"
+msgstr "%s %s에서 %s까지의 통계"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-platforms.php:99
+#: includes/admin/meta-box/wp-statistics-meta-box-browsers.php:164
+#, php-format
+msgid "%s Statistics in the last %s days"
+msgstr "%s : 지난 %s일 동안의 통계"
+
+#: includes/class-wp-statistics-db.php:134
+#, php-format
+msgid "%s table data deleted successfully."
+msgstr "%s 테이블 데이터가 성공적으로 삭제되었습니다."
+
+#: includes/admin/templates/settings/exclusions.php:134
+#: includes/admin/templates/settings/exclusions.php:142
+#, php-format
+msgid "(%1$sISO 3166 Country Codes%2$s)"
+msgstr "(%1$sISO 3166 국가 코드 %2$s)"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-summary.php:35
+msgid "(Adjustment)"
+msgstr "(조정)"
+
+#: includes/admin/class-wp-statistics-admin-notices.php:119
+msgid ","
+msgstr ","
+
+#: includes/admin/templates/optimization/resources.php:201
+msgid ", created on "
+msgstr ", 에 만든"
+
+#: includes/admin/class-wp-statistics-admin-template.php:214
+msgid "1 Year"
+msgstr "일년"
+
+#: includes/admin/class-wp-statistics-admin-template.php:207
+msgid "10 Days"
+msgstr "10일"
+
+#: includes/admin/class-wp-statistics-admin-template.php:210
+msgid "2 Months"
+msgstr "2개월"
+
+#: includes/admin/class-wp-statistics-admin-template.php:208
+msgid "20 Days"
+msgstr "20일"
+
+#: includes/admin/class-wp-statistics-admin-template.php:211
+msgid "3 Months"
+msgstr "3개월"
+
+#: includes/admin/class-wp-statistics-admin-template.php:209
+msgid "30 Days"
+msgstr "30일"
+
+#: includes/class-wp-statistics-exclusion.php:28
+msgid "404"
+msgstr "404"
+
+#: includes/class-wp-statistics-pages.php:364
+msgid "404 not found"
+msgstr "404 찾을 수 없음"
+
+#: includes/admin/class-wp-statistics-admin-template.php:212
+msgid "6 Months"
+msgstr "6개월"
+
+#: includes/admin/class-wp-statistics-admin-template.php:213
+msgid "9 Months"
+msgstr "9개월"
+
+#: includes/class-wp-statistics.php:254
+msgid "</strong> or greater."
+msgstr "이상."
+
+#: includes/admin/templates/settings/maintenance.php:24
+msgid ""
+"A WP Cron job will be run daily to purge any data older than a set number of "
+"days."
+msgstr "WP Cron 작업은 설정된 일 수보다 오래된 데이터를 제거하기 위해 매일 실행됩니다."
+
+#: includes/admin/templates/settings/maintenance.php:53
+msgid ""
+"A WP Cron job will be run daily to purge any users statistics data where the "
+"user has more than the defined number of hits in a day (aka they are "
+"probably a bot)."
+msgstr ""
+"WP Cron 작업은 매일 실행되어 사용자가 하루에 정의 된 히트 수보다 많은 사용자 통계 데이터를 제거합니다. (일명 봇일 수 있음)"
+
+#: includes/admin/templates/settings.php:20
+msgid "About"
+msgstr "어바웃"
+
+#: includes/admin/class-wp-statistics-admin-ajax.php:115
+#: includes/admin/class-wp-statistics-admin-ajax.php:152
+#: includes/admin/class-wp-statistics-admin-ajax.php:188
+#: includes/admin/class-wp-statistics-admin-ajax.php:218
+#: includes/admin/class-wp-statistics-admin-ajax.php:235
+#: includes/admin/class-wp-statistics-admin-ajax.php:260
+#: includes/admin/class-wp-statistics-admin-ajax.php:289
+msgid "Access denied!"
+msgstr "접근 불가!"
+
+#: includes/admin/templates/add-ons.php:52
+msgid "Activate Add-On"
+msgstr "애드온 활성화"
+
+#: includes/admin/templates/add-ons.php:35
+msgid "Active"
+msgstr "유효한"
+
+#: includes/admin/templates/settings/exclusions.php:91
+msgid "Add"
+msgstr "추가"
+
+#: includes/admin/templates/settings/general.php:326
+msgid ""
+"Add a total line to charts with multiple values, like the search engine "
+"referrals"
+msgstr "검색 엔진 추천과 같이 여러 값이있는 차트에 전체 선을 추가합니다."
+
+#: includes/admin/templates/settings/notifications.php:23
+msgid ""
+"Add email addresses you want to receive reports and separate them with a "
+"comma."
+msgstr "보고서를 받을 이메일 주소를 추가하고 쉼표로 구분합니다."
+
+#: includes/admin/templates/settings/general.php:280
+msgid "Add Page Title to Empty Search Words:"
+msgstr "빈 검색 단어에 페이지 제목 추가 :"
+
+#: includes/admin/templates/settings/exclusions.php:134
+msgid ""
+"Add the country codes (one per line, two letters each) to exclude them from "
+"statistics collection."
+msgstr "국가 코드 (한 줄에 하나씩, 각각 두 글자)를 추가하여 통계 수집에서 제외합니다."
+
+#: includes/admin/templates/settings/exclusions.php:142
+msgid ""
+"Add the country codes (one per line, two letters each) to include them in "
+"statistics collection."
+msgstr "국가 코드 (한 줄에 하나씩, 각각 두 글자)를 추가하여 통계 수집에 포함합니다."
+
+#: includes/admin/pages/class-wp-statistics-admin-page-plugins.php:99
+msgid "Add-On activated."
+msgstr "애드온이 활성화되었습니다."
+
+#: includes/admin/pages/class-wp-statistics-admin-page-plugins.php:109
+msgid "Add-On deactivated."
+msgstr "애드온이 비활성화되었습니다."
+
+#: includes/class-wp-statistics-menus.php:299
+#: includes/class-wp-statistics-menus.php:300
+msgid "Add-Ons"
+msgstr "애드온"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:252
+msgid "Address"
+msgstr "주소"
+
+#: includes/admin/templates/settings/notifications.php:164
+msgid "Admin Notices"
+msgstr "관리자 공지"
+
+#: includes/class-wp-statistics-exclusion.php:25
+msgid "Admin Page"
+msgstr "관리자 페이지"
+
+#: includes/admin/templates/settings/general.php:219
+msgid "After Content"
+msgstr "컨텐츠 후"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:259
+msgid "Agent"
+msgstr "에이전트"
+
+#: includes/class-wp-statistics-exclusion.php:17
+msgid "Ajax"
+msgstr "Ajax"
+
+#: includes/class-wp-statistics-widget.php:323
+#: includes/admin/class-wp-statistics-admin-template.php:220
+#: includes/admin/class-wp-statistics-admin-assets.php:275
+#: includes/admin/pages/class-wp-statistics-admin-page-tags.php:61
+#: includes/admin/pages/class-wp-statistics-admin-page-visitors.php:58
+#: includes/admin/pages/class-wp-statistics-admin-page-category.php:60
+#: includes/admin/pages/class-wp-statistics-admin-page-authors.php:58
+#: includes/admin/pages/class-wp-statistics-admin-page-words.php:44
+#: includes/admin/templates/optimization/purging.php:216
+#: includes/admin/templates/optimization/database.php:50
+#: includes/admin/templates/pages/refer.url.php:3
+#: includes/admin/templates/pages/top.refer.php:4
+msgid "All"
+msgstr "모두"
+
+#: includes/admin/templates/optimization/purging.php:219
+msgid "All data table will be lost."
+msgstr "모든 데이터 테이블이 손실됩니다."
+
+#: includes/admin/templates/settings/notifications.php:169
+msgid "All Notices:"
+msgstr "모든 통지 :"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-settings.php:551
+msgid "All settings reset."
+msgstr "모든 설정이 재설정됩니다."
+
+#: includes/admin/templates/pages/exclusions.php:31
+#: includes/admin/templates/pages/hits.php:37
+msgid "All Time Total:"
+msgstr "전체 시간 합계 :"
+
+#: includes/admin/templates/pages/tag.php:53
+#: includes/admin/templates/pages/author.php:53
+#: includes/admin/templates/pages/category.php:53
+msgid "All Time Visits:"
+msgstr "모든 시간 방문 :"
+
+#: includes/admin/templates/optimization/purging.php:279
+msgid "All visitor data will be lost for this agent type."
+msgstr "이 에이전트 유형에 대한 모든 방문자 데이터가 손실됩니다."
+
+#: includes/admin/templates/optimization/purging.php:320
+msgid "All visitor data will be lost for this IP."
+msgstr "이 IP에 대한 모든 방문자 데이터가 손실됩니다."
+
+#: includes/admin/templates/optimization/purging.php:305
+msgid "All visitor data will be lost for this platform type."
+msgstr "이 플랫폼 유형에 대한 모든 방문자 데이터가 손실됩니다."
+
+#: includes/admin/templates/settings/privacy.php:29
+msgid "Also, it disables the \"Store entire user agent string\" setting."
+msgstr "또한 \"전체 사용자 에이전트 문자열 저장\"설정을 비활성화합니다."
+
+#: includes/admin/class-wp-statistics-admin-assets.php:280
+msgid ""
+"An error occurred while connecting to WordPress REST API. It seems blocked "
+"by one of your plugins or your theme."
+msgstr "워드프레스 REST API에 연결하는 동안 오류가 발생했습니다. 플러그인 또는 테마 중 하나에 의해 차단된 것 같습니다."
+
+#: includes/admin/templates/settings/about.php:131
+msgid "And a few things to double-check:"
+msgstr "다시 확인해야 할 몇 가지 사항 :"
+
+#: includes/admin/templates/settings/privacy.php:13
+msgid "Anonymize IP Addresses:"
+msgstr "IP 주소 익명화 :"
+
+#: includes/admin/templates/settings/notifications.php:141
+msgid ""
+"Any shortcode supported by your installation of WordPress, include all "
+"shortcodes for WP Statistics (see the documentation for a list of codes "
+"available) are supported in the body of the message. Here are some examples:"
+msgstr ""
+"워드프레스 설치에서 지원하는 모든 단축 코드는 WP 통계에 대한 모든 단축 코드를 포함합니다. (사용 가능한 코드 목록은 설명서 참조). "
+"여기 예시들이 있습니다 :"
+
+#: includes/admin/templates/settings/about.php:142
+msgid "Are you getting a blank or incomplete page displayed in your browser?"
+msgstr "브라우저에 비어 있거나 불완전한 페이지가 표시됩니까?"
+
+#: includes/admin/templates/optimization/purging.php:10
+#: includes/admin/templates/optimization/purging.php:42
+#: includes/admin/templates/optimization/purging.php:73
+#: includes/admin/templates/optimization/purging.php:104
+#: includes/admin/templates/optimization/purging.php:137
+#: includes/admin/templates/optimization/purging.php:170
+msgid "Are you sure?"
+msgstr "확실해?"
+
+#: includes/class-wp-statistics-search-engine.php:37
+msgid "Ask.com"
+msgstr "Ask.com"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-authors.php:39
+msgid "Author Statistics"
+msgstr "저자 통계"
+
+#: includes/admin/templates/pages/author.php:6
+#: includes/admin/templates/pages/author.php:9
+msgid "Author Statistics Chart"
+msgstr "저자 통계 차트"
+
+#: includes/admin/templates/pages/author.php:23
+#: includes/admin/templates/pages/author.php:26
+msgid "Author Statistics Summary"
+msgstr "저자 통계 요약"
+
+#: includes/class-wp-statistics-menus.php:250
+msgid "Authors"
+msgstr "저자"
+
+#: includes/class-wp-statistics-search-engine.php:47
+msgid "Baidu"
+msgstr "바이두"
+
+#: includes/admin/templates/optimization/resources.php:170
+msgid "BCMath PHP extension"
+msgstr "BCMath PHP 확장"
+
+#: includes/admin/templates/settings/general.php:218
+msgid "Before Content"
+msgstr "내용 전"
+
+#: includes/class-wp-statistics-search-engine.php:57
+msgid "Bing"
+msgstr "빙"
+
+#: includes/class-wp-statistics-exclusion.php:21
+msgid "Broken Link"
+msgstr "브라우저"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:254
+#: includes/admin/meta-box/wp-statistics-meta-box-browsers.php:162
+#: includes/admin/templates/optimization/resources.php:236
+#: includes/admin/templates/pages/words.php:26
+#: includes/admin/templates/pages/top-visitors.php:18
+#: includes/admin/templates/pages/online.php:11
+#: includes/admin/templates/pages/visitors.php:25
+#: includes/admin/templates/pages/refer.url.php:31
+msgid "Browser"
+msgstr "브라우저"
+
+#: includes/class-wp-statistics-user-agent.php:31
+msgctxt "Browser"
+msgid "Unknown"
+msgstr "알 수 없음"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-browsers.php:37
+msgid "Browser Statistics"
+msgstr "브라우저"
+
+#: includes/class-wp-statistics-menus.php:257
+#: includes/admin/class-wp-statistics-admin-assets.php:244
+#: includes/admin/class-wp-statistics-admin-network.php:68
+msgid "Browsers"
+msgstr "브라우저"
+
+#: includes/admin/templates/add-ons.php:56
+msgid "Buy Add-On"
+msgstr "애드온 구매"
+
+#: includes/admin/templates/settings/privacy.php:29
+msgid ""
+"By enabling this option, you cannot recover the IP addresses in the future "
+"to find out location information, and IP addresses will not be stored in the "
+"database but instead used a unique hash."
+msgstr ""
+"이 옵션을 활성화하면 나중에 위치 정보를 찾기 위해 IP 주소를 복구 할 수 없으며, IP 주소는 데이터베이스에 저장되지 않고 대신 "
+"고유한 해시를 사용합니다."
+
+#: includes/admin/templates/settings/general.php:226
+msgid "Cache Plugin"
+msgstr "캐시 플러그인"
+
+#: includes/class-wp-statistics-menus.php:236
+msgid "Categories"
+msgstr "카테고리"
+
+#: includes/class-wp-statistics-helper.php:754
+msgid "Category"
+msgstr "카테고리"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-category.php:39
+msgid "Category Statistics"
+msgstr "카테고리 통계"
+
+#: includes/admin/templates/pages/category.php:6
+#: includes/admin/templates/pages/category.php:9
+msgid "Category Statistics Chart"
+msgstr "카테고리 통계 차트"
+
+#: includes/admin/templates/pages/category.php:23
+#: includes/admin/templates/pages/category.php:26
+msgid "Category Statistics Summary"
+msgstr "카테고리 통계 요약"
+
+#: includes/admin/templates/pages/exclusions.php:26
+#: includes/admin/templates/pages/hits.php:29
+msgid "Chart Total:"
+msgstr "차트 합계 :"
+
+#: includes/admin/templates/pages/category.php:48
+msgid "Chart Visits:"
+msgstr "차트 방문 :"
+
+#: includes/admin/templates/settings/general.php:316
+msgid "Charts"
+msgstr "차트"
+
+#: includes/admin/templates/settings/general.php:27
+msgid "Check for Online Users Every:"
+msgstr "온라인 사용자 확인 간격 :"
+
+#: includes/admin/templates/settings/general.php:221
+msgid "Choose the position to show Hits."
+msgstr "조회수를 표시 할 위치를 선택하십시오."
+
+#: includes/class-wp-statistics-user-agent.php:51
+msgid "Chrome"
+msgstr "크롬"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:255
+#: includes/admin/templates/pages/words.php:31
+#: includes/admin/templates/pages/top-visitors.php:23
+#: includes/admin/templates/pages/online.php:16
+#: includes/admin/templates/pages/visitors.php:30
+msgid "City"
+msgstr "도시"
+
+#: includes/admin/templates/optimization/purging.php:220
+msgid "Clear now!"
+msgstr "지금 삭제하세요!"
+
+#: includes/class-wp-statistics-search-engine.php:67
+msgid "clearch.org"
+msgstr "clearch.org"
+
+#: includes/admin/templates/settings.php:16
+msgid "CLI"
+msgstr "CLI"
+
+#: includes/admin/templates/settings/externals.php:177
+msgid "Click button to download the update."
+msgstr "업데이트를 다운로드하려면 버튼을 클릭하십시오."
+
+#: includes/class-wp-statistics-install.php:318
+msgid "Click here to rate and review this plugin on WordPress.org"
+msgstr "WordPress.org에서 이 플러그인을 평가하고 검토하려면 여기를 클릭하십시오."
+
+#: includes/class-wp-statistics-install.php:316
+msgid "Click here to visit the plugin on WordPress.org"
+msgstr "WordPress.org에서 플러그인을 방문하려면 여기를 클릭하세요."
+
+#: includes/admin/templates/optimization/resources.php:209
+msgid "Client Info"
+msgstr "클라이언트 정보"
+
+#: includes/admin/templates/optimization/resources.php:214
+msgid "Client IP"
+msgstr "클라이언트 IP"
+
+#: includes/class-wp-statistics.php:81
+msgid "Cloning is forbidden."
+msgstr "복제는 금지되어 있습니다."
+
+#: includes/admin/templates/settings/general.php:104
+msgid "Coefficient per Visitor:"
+msgstr "방문자 당 계수 :"
+
+#: includes/admin/templates/settings/about.php:53
+#, php-format
+msgid ""
+"Come visit our great new %swebsite%s and keep up to date on the latest news "
+"about WP Statistics."
+msgstr "새로운 %swebsite%s를 방문하여 WP 통계에 대한 최신 뉴스를 확인하십시오."
+
+#: includes/admin/templates/settings/wp-cli.php:19
+msgid "Commands"
+msgstr "명령"
+
+#: includes/class-wp-statistics-shortcode.php:179
+#: includes/class-wp-statistics-widget.php:164
+#: includes/class-wp-statistics-widget.php:352
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:44
+msgid "Comment Average"
+msgstr "댓글 평균"
+
+#: includes/class-wp-statistics-shortcode.php:175
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:40
+msgid "Comment Count"
+msgstr "댓글 수"
+
+#: includes/admin/templates/settings/notifications.php:10
+msgid "Common Report Options"
+msgstr "공통 보고서 옵션"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:271
+#: includes/admin/templates/pages/tag.php:32
+#: includes/admin/templates/pages/tag.php:79
+#: includes/admin/templates/pages/author.php:32
+#: includes/admin/templates/pages/author.php:79
+#: includes/admin/templates/pages/category.php:32
+#: includes/admin/templates/pages/category.php:79
+msgid "Count"
+msgstr "카운트"
+
+#: includes/class-wp-statistics-menus.php:229
+#: includes/admin/class-wp-statistics-admin-network.php:67
+msgid "Countries"
+msgstr "국가"
+
+#: includes/admin/templates/optimization/updates.php:22
+msgid "Countries:"
+msgstr "국가 :"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:247
+#: includes/admin/templates/pages/words.php:28
+#: includes/admin/templates/pages/top-visitors.php:20
+#: includes/admin/templates/pages/online.php:13
+#: includes/admin/templates/pages/visitors.php:27
+#: includes/admin/templates/pages/refer.url.php:33
+#: includes/admin/templates/pages/top.refer.php:24
+msgid "Country"
+msgstr "국가"
+
+#: includes/defines/country-codes.php:6
+msgctxt "Country"
+msgid "Unknown"
+msgstr "알 수 없음"
+
+#: includes/admin/templates/settings/externals.php:105
+msgid "Country Code for Private IP Addresses:"
+msgstr "개인 IP 주소에 대한 국가 코드 :"
+
+#: includes/class-wp-statistics-exclusion.php:19
+msgid "Crawler Detect"
+msgstr "크롤러 감지"
+
+#: includes/admin/templates/settings/exclusions.php:112
+msgid "Create a new Honey Pot page"
+msgstr "새 Honey Pot 페이지 생성"
+
+#: includes/class-wp-statistics-exclusion.php:18
+msgid "Cron job"
+msgstr "크론 작업"
+
+#: includes/admin/templates/optimization/resources.php:126
+msgid "cURL not installed"
+msgstr "cURL이 설치되지 않았습니다."
+
+#: includes/admin/templates/optimization/resources.php:118
+msgid "cURL Version"
+msgstr "cURL 버전"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-summary.php:34
+msgid "Current Time and Date"
+msgstr "현재 시간 및 날짜"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-online.php:34
+msgid "Currently, there are no online users on the site."
+msgstr "현재 사이트에는 온라인 사용자가 없습니다."
+
+#: includes/admin/class-wp-statistics-admin-assets.php:266
+msgid "Custom"
+msgstr "커스텀"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-visitors.php:158
+msgid "Custom filter"
+msgstr "맞춤 필터"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:241
+msgid "Daily Total"
+msgstr "일일 합계"
+
+#: includes/admin/templates/settings.php:13
+#: includes/admin/templates/settings/overview-display.php:13
+msgid "Dashboard"
+msgstr "계기반"
+
+#: includes/admin/templates/settings/overview-display.php:18
+msgid "Dashboard Widgets:"
+msgstr "대시 보드 위젯 :"
+
+#: includes/admin/templates/optimization/purging.php:200
+msgid "Data"
+msgstr "데이터"
+
+#: includes/admin/templates/optimization.php:9
+msgid "Database"
+msgstr "데이터베이스"
+
+#: includes/admin/templates/optimization/resources.php:199
+msgid "Database file does not exist."
+msgstr "데이터베이스 파일이 없습니다."
+
+#: includes/class-wp-statistics-purge.php:167
+#: includes/class-wp-statistics-purge.php:227
+msgid "Database pruned on"
+msgstr "정리된 데이터베이스"
+
+#: includes/admin/templates/optimization/database.php:5
+msgid "Database Setup"
+msgstr "데이터베이스 설정"
+
+#: includes/class-wp-statistics-install.php:479
+msgid "Database upgrade operation completed!"
+msgstr "데이터베이스 업그레이드 작업 완료!"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:242
+#: includes/admin/templates/pages/words.php:33
+#: includes/admin/templates/pages/top-visitors.php:2
+#: includes/admin/templates/pages/top-visitors.php:25
+#: includes/admin/templates/pages/visitors.php:34
+#: includes/admin/templates/pages/refer.url.php:35
+msgid "Date"
+msgstr "날짜"
+
+#: includes/admin/templates/optimization/purging.php:233
+#: includes/admin/templates/settings/maintenance.php:35
+msgid "Days"
+msgstr "일"
+
+#: includes/admin/templates/add-ons.php:48
+msgid "Deactivate Add-On"
+msgstr "애드온 비활성화"
+
+#: includes/admin/templates/optimization/purging.php:264
+msgid "Delete Agents:"
+msgstr "에이전트 삭제 :"
+
+#: includes/admin/templates/optimization/purging.php:314
+msgid "Delete IP:"
+msgstr "IP 삭제 :"
+
+#: includes/admin/templates/optimization/purging.php:280
+#: includes/admin/templates/optimization/purging.php:306
+#: includes/admin/templates/optimization/purging.php:321
+msgid "Delete now!"
+msgstr "지금 삭제하세요!"
+
+#: includes/admin/templates/optimization/purging.php:288
+msgid "Delete Platforms:"
+msgstr "플랫폼 삭제 :"
+
+#: includes/admin/templates/optimization/purging.php:259
+msgid "Delete User Agent Types"
+msgstr "사용자 에이전트 유형 삭제"
+
+#: includes/admin/templates/optimization/purging.php:235
+msgid "Delete user statistics data older than the selected number of days."
+msgstr "선택한 일 수 보다 오래된 사용자 통계 데이터를 삭제합니다."
+
+#: includes/admin/templates/optimization/purging.php:251
+msgid ""
+"Delete user statistics data where the user has more than the defined number "
+"of hits in a day."
+msgstr "사용자가 하루에 정의 된 조회수보다 많은 사용자 통계 데이터를 삭제합니다."
+
+#: includes/admin/templates/settings/about.php:147
+msgid "Did you view the source for the page and check for any fatal errors?"
+msgstr "페이지의 소스를보고 치명적인 오류가 있는지 확인 했습니까?"
+
+#: includes/admin/templates/settings/overview-display.php:23
+#: includes/admin/templates/settings/overview-display.php:39
+#: includes/admin/templates/settings/general.php:164
+#: includes/admin/templates/settings/general.php:175
+#: includes/admin/templates/settings/general.php:309
+msgid "Disable"
+msgstr "비활성화"
+
+#: includes/admin/templates/settings/general.php:310
+#, php-format
+msgid "Disable %s from data collection and reporting."
+msgstr "데이터 수집 및 보고에서 %s을(를) 비활성화합니다."
+
+#: includes/admin/templates/settings/general.php:292
+msgid ""
+"Disabling all search engines is not allowed. Doing so will result in all "
+"search engines being active."
+msgstr "모든 검색 엔진을 비활성화하는 것은 허용되지 않습니다. 그렇게하면 모든 검색 엔진이 활성화됩니다."
+
+#: includes/admin/templates/settings/general.php:212
+msgid "Display position:"
+msgstr "표시 위치 :"
+
+#: includes/admin/templates/settings/about.php:141
+msgid "Do you have all the required PHP extensions installed?"
+msgstr "필요한 모든 PHP 확장이 설치되어 있습니까?"
+
+#: includes/admin/templates/settings/about.php:115
+msgid "Documentation"
+msgstr "선적 서류 비치"
+
+#: includes/admin/templates/settings/general.php:239
+msgid "Don't forget to clear your enabled plugin cache."
+msgstr "활성화된 플러그인 캐시를 지우는 것을 잊지 마십시오."
+
+#: includes/class-wp-statistics-menus.php:306
+#: includes/class-wp-statistics-menus.php:307
+#: includes/admin/templates/settings/about.php:33
+msgid "Donate"
+msgstr "기부"
+
+#: includes/admin/class-wp-statistics-admin-notices.php:92
+msgid "Donate Now!"
+msgstr "지금 기부하세요!"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:352
+msgid "Done"
+msgstr "끝"
+
+#: includes/admin/templates/settings/externals.php:86
+msgid ""
+"Download of the GeoIP database will be scheduled for 2 days after the first "
+"Tuesday of the month."
+msgstr "GeoIP 데이터베이스 다운로드는 매월 첫 번째 화요일 이후 2일 동안 예약됩니다."
+
+#: includes/admin/templates/settings/externals.php:215
+msgid ""
+"Download of the Matomo Referrer Spam Blacklist database will be scheduled "
+"for once a week."
+msgstr "Matomo Referrer Spam Blacklist 데이터베이스의 다운로드는 일주일에 한 번 예약됩니다."
+
+#: includes/class-wp-statistics-search-engine.php:77
+msgid "DuckDuckGo"
+msgstr "덕덕고"
+
+#: includes/admin/templates/settings/visitor-ip.php:139
+msgid "e.g. <code>HTTP_CF_CONNECTING_IP</code> in CloudFlare."
+msgstr "예 : CloudFlare의 HTTP_CF_CONNECTING_IP."
+
+#: includes/admin/templates/settings/access-level.php:69
+msgid ""
+"Each of the above cascades the rights upwards in the default WordPress "
+"configuration. For example, selecting publish_posts grants the right to "
+"Authors, Editors, Admins, and Super Admins."
+msgstr ""
+"위의 각각은 기본 워드프레스 구성에서 권한을 위쪽으로 계단식으로 배열합니다. 예를 들어 publish_posts를 선택하면 작성자, "
+"편집자, 관리자 및 최고 관리자에게 권한이 부여됩니다."
+
+#: includes/class-wp-statistics-user-agent.php:54
+msgid "Edge"
+msgstr "가장자리"
+
+#: includes/admin/templates/settings/notifications.php:118
+#: includes/admin/templates/pages/online.php:45
+msgid "Email"
+msgstr "이메일"
+
+#: includes/admin/templates/settings/notifications.php:15
+msgid "Email Addresses:"
+msgstr "이메일 주소 :"
+
+#: includes/admin/templates/optimization/purging.php:205
+msgid "Empty Table:"
+msgstr "빈 테이블 :"
+
+#: includes/admin/templates/settings/exclusions.php:12
+#: includes/admin/templates/settings/exclusions.php:66
+#: includes/admin/templates/settings/exclusions.php:101
+#: includes/admin/templates/settings/exclusions.php:121
+#: includes/admin/templates/settings/maintenance.php:23
+#: includes/admin/templates/settings/maintenance.php:52
+#: includes/admin/templates/settings/wp-cli.php:13
+#: includes/admin/templates/settings/wp-cli.php:26
+#: includes/admin/templates/settings/wp-cli.php:38
+#: includes/admin/templates/settings/wp-cli.php:49
+#: includes/admin/templates/settings/notifications.php:38
+#: includes/admin/templates/settings/notifications.php:50
+#: includes/admin/templates/settings/notifications.php:66
+#: includes/admin/templates/settings/notifications.php:174
+#: includes/admin/templates/settings/general.php:20
+#: includes/admin/templates/settings/general.php:44
+#: includes/admin/templates/settings/general.php:60
+#: includes/admin/templates/settings/general.php:75
+#: includes/admin/templates/settings/general.php:86
+#: includes/admin/templates/settings/general.php:97
+#: includes/admin/templates/settings/general.php:122
+#: includes/admin/templates/settings/general.php:133
+#: includes/admin/templates/settings/general.php:149
+#: includes/admin/templates/settings/general.php:187
+#: includes/admin/templates/settings/general.php:200
+#: includes/admin/templates/settings/general.php:269
+#: includes/admin/templates/settings/general.php:285
+#: includes/admin/templates/settings/general.php:325
+#: includes/admin/templates/settings/privacy.php:17
+#: includes/admin/templates/settings/privacy.php:28
+#: includes/admin/templates/settings/privacy.php:40
+#: includes/admin/templates/settings/externals.php:23
+#: includes/admin/templates/settings/externals.php:42
+#: includes/admin/templates/settings/externals.php:59
+#: includes/admin/templates/settings/externals.php:98
+#: includes/admin/templates/settings/externals.php:163
+#: includes/admin/templates/settings/externals.php:190
+msgid "Enable"
+msgstr "활성화"
+
+#: includes/admin/templates/settings/notifications.php:39
+msgid "Enable it to send a report whenever the GeoIP database is updated."
+msgstr "GeoIP 데이터베이스가 업데이트될 때마다 보고서를 보내도록 활성화합니다."
+
+#: includes/admin/templates/settings/notifications.php:51
+msgid "Enable it to send a report whenever the pruning of the database is run."
+msgstr "데이터베이스 정리가 실행될 때마다 보고서를 보내도록 활성화합니다."
+
+#: includes/admin/templates/settings/general.php:201
+msgid "Enable it to show hits in content"
+msgstr "콘텐츠에 히트를 표시하려면 활성화"
+
+#: includes/admin/templates/settings/general.php:134
+msgid "Enable or disable this feature"
+msgstr "이 기능 활성화 또는 비활성화"
+
+#: includes/admin/templates/settings/general.php:21
+msgid "Enable this feature to show online users"
+msgstr "온라인 사용자를 표시하려면 이 기능을 활성화하십시오."
+
+#: includes/admin/templates/settings/exclusions.php:102
+msgid "Enable this option for identifying robots by the Honey Pot page."
+msgstr "Honey Pot 페이지에서 로봇을 식별하려면 이 옵션을 활성화하십시오."
+
+#: includes/admin/templates/settings/general.php:237
+msgid "Enable this option if you use WordPress Cache Plugins."
+msgstr "워드프레스 캐시 플러그인을 사용하는 경우 이 옵션을 활성화합니다."
+
+#: includes/admin/templates/settings/general.php:176
+msgid "Enable this option to add Hits Column"
+msgstr "조회 컬럼을 추가하려면 이 옵션을 활성화하십시오."
+
+#: includes/admin/templates/settings/general.php:123
+msgid "Enable this option to count the Pages visits"
+msgstr "페이지 방문수를 계산하려면 이 옵션을 활성화하십시오."
+
+#: includes/admin/templates/settings/externals.php:164
+msgid ""
+"Enable this option to download The Matomo Referrer Spam Blacklist database "
+"and detect referrer spam."
+msgstr ""
+"이 옵션을 활성화하여 The Matomo Referrer Spam Blacklist 데이터베이스를 다운로드하고 리퍼러 스팸을 감지합니다."
+
+#: includes/admin/templates/settings/externals.php:30
+msgid ""
+"Enable this option to get more information and location (country) from a "
+"visitor."
+msgstr "방문자로부터 더 많은 정보와 위치(국가)를 얻으려면 이 옵션을 활성화합니다."
+
+#: includes/admin/templates/settings/general.php:45
+msgid ""
+"Enable this option to ignore the exclusion settings and record all online "
+"users (including self referrals and robots). Should only be used for "
+"troubleshooting."
+msgstr ""
+"제외 설정을 무시하고 모든 온라인 사용자 (자기 추천 및 로봇 포함)를 기록하려면 이 옵션을 활성화합니다. 문제 해결에만 사용해야합니다."
+
+#: includes/admin/templates/settings/general.php:87
+msgid ""
+"Enable this option to receive a report of each user’s visits to the pages"
+msgstr "이 옵션을 활성화하면 각 사용자의 페이지 방문 보고서를 받을 수 있습니다."
+
+#: includes/admin/templates/settings/notifications.php:67
+msgid "Enable this option to receive stats report via email"
+msgstr "이메일을 통해 통계 보고서를 받으려면 이 옵션을 활성화하십시오."
+
+#: includes/admin/templates/settings/general.php:150
+msgid "Enable this option to remove everything after the “?” in a URL"
+msgstr "URL에서 \"?\"뒤의 모든 항목을 제거하려면 이 옵션을 활성화하십시오. "
+
+#: includes/admin/templates/settings/externals.php:48
+msgid "Enable this option to see visitors'city name"
+msgstr "방문자의 도시 이름을 보려면 이 옵션을 활성화하십시오."
+
+#: includes/admin/templates/settings/notifications.php:175
+msgid ""
+"Enable this option to show all notices and suggestions from WP-Statistics in "
+"the admin."
+msgstr "관리자에서 WP 통계의 모든 알림 및 제안을 표시하려면 이 옵션을 활성화합니다."
+
+#: includes/admin/templates/settings/general.php:188
+msgid ""
+"Enable this option to show hits metabox chart on the edit page of all post "
+"types"
+msgstr "모든 게시물 유형의 편집 페이지에 조회 메타 박스 차트를 표시하려면 이 옵션을 활성화합니다."
+
+#: includes/admin/templates/settings/general.php:98
+msgid ""
+"Enable this option to show the list of user visits, link in the WordPress "
+"admin user list page."
+msgstr "사용자 방문 목록을 표시하려면 이 옵션을 활성화하고 워드프레스 관리자 사용자 목록 페이지에 링크합니다."
+
+#: includes/admin/templates/settings/general.php:76
+msgid ""
+"Enable this option to show the number of Page Hits (It is the number of "
+"unique users which have visited your site)"
+msgstr "페이지 조회 수를 표시하려면이 옵션을 활성화합니다. (사이트를 방문한 고유 사용자 수)"
+
+#: includes/admin/templates/settings/general.php:61
+msgid "Enable this option to show the number of Page Views"
+msgstr "페이지 뷰 수를 표시하려면이 옵션을 활성화하십시오."
+
+#: includes/admin/templates/settings/externals.php:99
+msgid ""
+"Enable this option to update any missing GeoIP data after downloading a new "
+"database."
+msgstr "새 데이터베이스를 다운로드 한 후 누락 된 GeoIP 데이터를 업데이트하려면이 옵션을 활성화합니다."
+
+#: includes/admin/templates/settings/wp-cli.php:9
+msgid "Enable WP-CLI:"
+msgstr "WP-CLI 활성화 :"
+
+#: includes/admin/templates/settings/maintenance.php:18
+#: includes/admin/templates/settings/maintenance.php:47
+msgid "Enabled:"
+msgstr "활성화 됨 :"
+
+#: includes/class-wp-statistics-shortcode.php:213
+msgid "English"
+msgstr "영어"
+
+#: includes/admin/templates/settings/notifications.php:138
+msgid "Enter the contents of the report."
+msgstr "보고서 내용을 입력합니다."
+
+#: includes/class-wp-statistics-geoip.php:339
+#, php-format
+msgid "Error could not open destination GeoIP database for writing %s"
+msgstr "%s을(를) 쓰기 위해 대상 GeoIP 데이터베이스를 열 수 없습니다."
+
+#: includes/class-wp-statistics-geoip.php:330
+#, php-format
+msgid "Error could not open downloaded GeoIP database for reading: %s"
+msgstr "읽기 위해 다운로드 한 GeoIP 데이터베이스를 열 수 없습니다. %s"
+
+#: includes/class-wp-statistics-geoip.php:294
+#, php-format
+msgid ""
+"Error creating GeoIP database directory, make sure your web server has "
+"permissions to create directories in: %s"
+msgstr ""
+"GeoIP 데이터베이스 디렉터리를 만드는 동안 오류가 발생했습니다. 웹 서버에 %s에 디렉터리를 만들 수 있는 권한이 있는지 확인하십시오."
+
+#: includes/class-wp-statistics-geoip.php:315
+#, php-format
+msgid "Error downloading GeoIP database from: %s - %s"
+msgstr "다음에서 GeoIP 데이터베이스 다운로드 오류 : %s - %s"
+
+#: includes/class-wp-statistics-install.php:517
+msgid "Error occurred during operation. Please refresh the page."
+msgstr "작동 중 오류가 발생했습니다. 페이지를 새로 고침하세요."
+
+#: includes/class-wp-statistics-geoip.php:303
+#, php-format
+msgid ""
+"Error setting permissions of the GeoIP database directory, make sure your "
+"web server has permissions to write to directories in : %s"
+msgstr ""
+"GeoIP 데이터베이스 디렉터리의 권한을 설정하는 동안 오류가 발생했습니다. 웹 서버에 %s의 디렉터리에 대한 쓰기 권한이 있는지 "
+"확인하십시오."
+
+#: includes/class-wp-statistics-geoip.php:264
+msgid "Error the gzopen() function do not exist!"
+msgstr "gzopen() 함수가 존재하지 않습니다!"
+
+#: includes/class-wp-statistics-geoip.php:281
+#, php-format
+msgid "Error to get %s from %s"
+msgstr "%s을(를) %s에서 가져 오는 동안 오류가 발생했습니다."
+
+#: includes/admin/pages/class-wp-statistics-admin-page-settings.php:523
+msgid "Error Updating Referrer Spam Blacklist."
+msgstr "리퍼러 스팸 블랙리스트를 업데이트하는 동안 오류가 발생했습니다."
+
+#: includes/class-wp-statistics-db.php:138
+#, php-format
+msgid "Error, %s not emptied!"
+msgstr "오류, %s이(가) 비워지지 않았습니다!"
+
+#: includes/admin/templates/settings/exclusions.php:34
+#: includes/admin/templates/settings/exclusions.php:166
+#: includes/admin/templates/settings/exclusions.php:173
+#: includes/admin/templates/settings/exclusions.php:180
+msgid "Exclude"
+msgstr "들어오지 못하게 하다."
+
+#: includes/admin/templates/settings/exclusions.php:35
+#, php-format
+msgid "Exclude %s role from data collection."
+msgstr "데이터 수집에서 %s 역할을 제외합니다."
+
+#: includes/admin/templates/settings/exclusions.php:181
+msgid "Exclude any URL that returns a \"404 - Not Found\" message."
+msgstr "\"404-찾을 수 없음\"메시지를 반환하는 모든 URL을 제외합니다."
+
+#: includes/admin/templates/settings/exclusions.php:167
+msgid "Exclude the login page for registering as a hit."
+msgstr "조회로 등록하기 위해 로그인 페이지를 제외합니다."
+
+#: includes/admin/templates/settings/exclusions.php:174
+msgid "Exclude the RSS feeds for registering as a hit."
+msgstr "조회로 등록하기 위해 RSS 피드를 제외합니다."
+
+#: includes/admin/templates/settings/exclusions.php:18
+msgid "Exclude User Roles"
+msgstr "사용자 역할 제외"
+
+#: includes/admin/templates/settings/exclusions.php:178
+msgid "Excluded 404 Pages:"
+msgstr "제외된 404 페이지 :"
+
+#: includes/admin/templates/settings/exclusions.php:131
+msgid "Excluded Countries:"
+msgstr "제외 국가 :"
+
+#: includes/admin/templates/settings/exclusions.php:151
+msgid "Excluded Hosts:"
+msgstr "제외된 호스트 :"
+
+#: includes/admin/templates/settings/exclusions.php:82
+msgid "Excluded IP Address List:"
+msgstr "제외된 IP 주소 목록 :"
+
+#: includes/admin/templates/settings/exclusions.php:164
+msgid "Excluded Login Page:"
+msgstr "제외된 로그인 페이지 :"
+
+#: includes/admin/templates/settings/exclusions.php:171
+msgid "Excluded RSS Feeds:"
+msgstr "제외된 RSS 피드 :"
+
+#: includes/class-wp-statistics-exclusion.php:29
+msgid "Excluded URL"
+msgstr "제외 된 URL"
+
+#: includes/admin/templates/settings/exclusions.php:185
+msgid "Excluded URLs:"
+msgstr "제외 된 URL :"
+
+#: includes/class-wp-statistics-meta-box.php:208
+#: includes/class-wp-statistics-menus.php:278
+#: includes/admin/class-wp-statistics-admin-network.php:70
+#: includes/admin/templates/settings.php:15
+#: includes/admin/templates/settings/exclusions.php:5
+#: includes/admin/templates/pages/exclusions.php:22
+msgid "Exclusions"
+msgstr "제외"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-exclusions.php:64
+#, php-format
+msgid "Exclusions from %s to %s"
+msgstr "%s에서 %s로 제외"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-exclusions.php:62
+#, php-format
+msgid "Exclusions in the last %s days"
+msgstr "지난 %s일 동안의 제외"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-exclusions.php:35
+msgid "Exclusions Statistics"
+msgstr "제외 통계"
+
+#: includes/admin/templates/optimization.php:7
+#: includes/admin/templates/optimization/export.php:9
+msgid "Export"
+msgstr "익스포트"
+
+#: includes/admin/templates/optimization/export.php:14
+msgid "Export from:"
+msgstr "다음에서 내보내기 :"
+
+#: includes/admin/templates/optimization/export.php:33
+msgid "Export To:"
+msgstr "내보내기 :"
+
+#: includes/admin/templates/plugins.php:2
+msgid "Extensions for WP-Statistics"
+msgstr "WP 통계에 대한 확장"
+
+#: includes/admin/templates/settings.php:17
+msgid "Externals"
+msgstr "외관"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-optimization.php:128
+#, php-format
+msgid "Failed to repair the %1$s table. Error: %2$s"
+msgstr "%1$s 테이블을 복구하지 못했습니다. 오류 : %2$s"
+
+#: includes/admin/templates/settings/about.php:108
+msgid "FAQs"
+msgstr "자주 묻는 질문"
+
+#: includes/class-wp-statistics-exclusion.php:27
+#: includes/class-wp-statistics-pages.php:355
+msgid "Feed"
+msgstr "피드"
+
+#: includes/admin/templates/settings/about.php:38
+#, php-format
+msgid ""
+"Feel like showing us how much you enjoy WP Statistics? Drop by our "
+"%sdonation%s page and show us some love!"
+msgstr "WP 통계를 얼마나 좋아하는지 보여주고 싶습니까? %sdonation%s 페이지에 들러서 사랑을 보여주세요!"
+
+#: includes/admin/templates/optimization/resources.php:185
+msgid "File Info"
+msgstr "정보 파일"
+
+#: includes/admin/templates/settings/visitor-ip.php:138
+msgid ""
+"Fill this field if your server uses the custom key in <code>$_SERVER</code> "
+"for getting IP."
+msgstr "서버가 IP를 얻기 위해 $ _SERVER의 사용자 정의 키를 사용하는 경우이 필드를 채우십시오."
+
+#: includes/admin/class-wp-statistics-admin-assets.php:274
+msgid "Filter"
+msgstr "필터"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-visitors.php:207
+msgid "Filters"
+msgstr "필터"
+
+#: includes/class-wp-statistics-user-agent.php:52
+msgid "Firefox"
+msgstr "파이어폭스"
+
+#: includes/admin/templates/settings/externals.php:67
+msgid "First Tuesday of next month"
+msgstr "다음 달 첫 번째 화요일"
+
+#: includes/class-wp-statistics-schedule.php:157
+#: includes/admin/templates/settings/externals.php:64
+msgid "First Tuesday of this month"
+msgstr "이번 달 첫 번째 화요일"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:246
+msgid "Flag"
+msgstr "국기"
+
+#: includes/admin/templates/settings/exclusions.php:86
+msgid ""
+"For IPv4 addresses, both 192.168.0.0/24 and 192.168.0.0/255.255.255.0 "
+"formats are acceptable. To specify an IP address, use a subnet value of 32 "
+"or 255.255.255.255."
+msgstr ""
+"IPv4 주소의 경우 192.168.0.0/24 및 192.168.0.0/255.255.255.0 형식이 모두 허용됩니다. IP 주소를 "
+"지정하려면 서브넷 값 32 또는 255.255.255.255를 사용하십시오."
+
+#: includes/admin/templates/settings/exclusions.php:87
+msgid "For IPv6 addresses, use the fc00::/7 format."
+msgstr "IPv6 주소의 경우 fc00 :: / 7 형식을 사용합니다."
+
+#: includes/admin/templates/settings/exclusions.php:63
+msgid "Force Robot List Update After Upgrades:"
+msgstr "업그레이드 후 로봇 목록 업데이트 강제 :"
+
+#: includes/admin/templates/settings/exclusions.php:67
+msgid ""
+"Force the robot list to reset itself to the default after WP-Statistics "
+"updated. Note that any custom robots added to the list will be lost if this "
+"option is enabled."
+msgstr ""
+"WP 통계가 업데이트 된 후 로봇 목록이 기본값으로 재설정되도록 강제합니다. 이 옵션을 사용하면 목록에 추가된 모든 사용자 지정 로봇이 "
+"손실됩니다."
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:60
+msgid "Format"
+msgstr "포맷"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:268
+msgid "from"
+msgstr "from"
+
+#: includes/admin/templates/settings.php:9
+msgid "General"
+msgstr "일반"
+
+#: includes/class-wp-statistics-exclusion.php:32
+msgid "GeoIP"
+msgstr "GeoIP"
+
+#: includes/admin/templates/settings/externals.php:36
+msgid "GeoIP City:"
+msgstr "GeoIP 도시 :"
+
+#: includes/admin/templates/settings/externals.php:119
+msgid "GeoIP collection is disabled due to the following reasons:"
+msgstr "다음과 같은 이유로 GeoIP 수집이 비활성화되었습니다."
+
+#: includes/admin/class-wp-statistics-admin-notices.php:85
+#, php-format
+msgid ""
+"GeoIP collection is not enabled. Please go to <a href=\"%s\">setting page</a>"
+" to enable GeoIP for getting more information and location (country) from "
+"the visitor."
+msgstr ""
+"GeoIP 수집이 활성화되지 않았습니다. 방문자로부터 더 많은 정보와 위치 (국가)를 얻으려면 설정 페이지로 이동하여 GeoIP를 "
+"활성화하십시오."
+
+#: includes/admin/templates/settings/externals.php:129
+msgid ""
+"GeoIP collection requires the BC Math PHP extension and it is not loaded on "
+"your version of PHP!"
+msgstr "GeoIP 컬렉션에는 BC Math PHP 확장이 필요하며 사용자의 PHP 버전에로드되지 않습니다!"
+
+#: includes/admin/templates/settings/externals.php:123
+msgid ""
+"GeoIP collection requires the cURL PHP extension and it is not loaded on "
+"your version of PHP!"
+msgstr "GeoIP 컬렉션에는 cURL PHP 확장이 필요하며 사용자의 PHP 버전에로드되지 않습니다!"
+
+#: includes/admin/templates/settings/externals.php:17
+msgid "GeoIP Collection:"
+msgstr "GeoIP 컬렉션 :"
+
+#: includes/admin/templates/optimization/resources.php:190
+msgid "GeoIP Database"
+msgstr "GeoIP 데이터베이스"
+
+#: includes/class-wp-statistics-geoip.php:354
+msgid "GeoIP Database updated successfully!"
+msgstr "GeoIP 데이터베이스가 성공적으로 업데이트되었습니다!"
+
+#: includes/admin/templates/settings/exclusions.php:127
+msgid "GeoIP Exclusions"
+msgstr "GeoIP 제외"
+
+#: includes/admin/templates/optimization/updates.php:17
+msgid "GeoIP Options"
+msgstr "GeoIP 옵션"
+
+#: includes/admin/templates/settings/externals.php:4
+msgid "GeoIP Settings"
+msgstr "GeoIP 설정"
+
+#: includes/class-wp-statistics-geoip.php:374
+msgid "GeoIP update on"
+msgstr "GeoIP 업데이트"
+
+#: includes/admin/templates/settings/notifications.php:33
+msgid "GeoIP:"
+msgstr "GeoIP :"
+
+#: includes/admin/templates/optimization/resources.php:154
+msgid "GMP PHP extension"
+msgstr "GMP PHP 확장"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:269
+#: includes/admin/templates/layout/date.range.php:56
+#: includes/admin/templates/pages/top-visitors.php:5
+msgid "Go"
+msgstr "적용"
+
+#: includes/class-wp-statistics-search-engine.php:87
+msgid "Google"
+msgstr "구글"
+
+#: includes/admin/templates/optimization/updates.php:38
+#: includes/admin/templates/settings/privacy.php:24
+msgid "Hash IP Addresses:"
+msgstr "해시 IP 주소 :"
+
+#: includes/admin/templates/settings/about.php:151
+msgid "Have you checked your PHP and web server error logs?"
+msgstr "PHP 및 웹 서버 오류 로그를 확인 했습니까?"
+
+#: includes/admin/templates/settings/about.php:140
+msgid "Have you double checked the plugin settings?"
+msgstr "플러그인 설정을 다시 확인 했습니까?"
+
+#: includes/admin/templates/settings/about.php:113
+#, php-format
+msgid "Have you read the %sdocumentation%s?"
+msgstr "%s문서%s를 읽었습니까?"
+
+#: includes/admin/templates/settings/about.php:106
+#, php-format
+msgid "Have you read the %sFAQs%s?"
+msgstr "%sFAQs%s를 읽었습니까?"
+
+#: includes/admin/templates/settings/about.php:120
+#, php-format
+msgid "Have you search the %ssupport forum%s for a similar issue?"
+msgstr "유사한 문제를 %s 지원 포럼 %s에서 검색하셨습니까?"
+
+#: includes/admin/templates/settings/about.php:124
+msgid "Have you search the Internet for any error messages you are receiving?"
+msgstr "수신한 오류 메시지를 인터넷에서 검색 했습니까?"
+
+#: includes/admin/class-wp-statistics-admin-notices.php:92
+msgid "Have you thought about donating to WP Statistics?"
+msgstr " WP 통계에 기부하는 것에 대해 생각해 보셨습니까?"
+
+#: includes/admin/templates/settings/about.php:135
+msgid "Have you tried disabling any other plugins you may have installed?"
+msgstr "설치했을 수 있는 다른 플러그인을 비활성화 해보셨습니까?"
+
+#: includes/admin/templates/settings/about.php:139
+msgid "Have you tried using the default WordPress theme?"
+msgstr "기본 워드프레스 테마를 사용해 보셨습니까?"
+
+#: includes/admin/class-wp-statistics-admin-notices.php:71
+msgid "Here is an error associated with Connecting WordPress Rest API"
+msgstr "다음은 워드프레스 REST API 연결과 관련된 오류입니다."
+
+#: includes/admin/templates/settings/general.php:264
+msgid "Hide Admin Notices About Non-active Features:"
+msgstr "비활성 기능에 대한 관리자 알림 숨기기 :"
+
+#: includes/admin/templates/settings/access-level.php:68
+msgid ""
+"Hint: manage_network = Super Admin Network, manage_options = Administrator, "
+"edit_others_posts = Editor, publish_posts = Author, edit_posts = Contributor,"
+" read = Everyone."
+msgstr ""
+"힌트 : manage_network = 최고 관리자 네트워크, manage_options = 관리자, edit_others_posts = "
+"편집자, publish_posts = 작성자, edit_posts = 기여자, 읽기 = 모든 사람."
+
+#: includes/admin/templates/optimization.php:11
+msgid "Historical"
+msgstr "역사적인"
+
+#: includes/admin/templates/optimization/historical.php:15
+msgid "Historical Values"
+msgstr "역사적 가치"
+
+#: includes/class-wp-statistics-meta-box.php:115
+#: includes/class-wp-statistics-meta-box.php:192
+#: includes/admin/pages/class-wp-statistics-admin-page-hits.php:34
+msgid "Hit Statistics"
+msgstr "조회수 통계"
+
+#: includes/admin/class-wp-statistics-admin-notices.php:110
+msgid "hit tracking"
+msgstr "조회수 추적"
+
+#: includes/class-wp-statistics-menus.php:180
+#: includes/admin/class-wp-statistics-admin-assets.php:258
+#: includes/admin/class-wp-statistics-admin-post.php:60
+#: includes/admin/class-wp-statistics-admin-taxonomy.php:56
+#: includes/admin/class-wp-statistics-admin-taxonomy.php:63
+#: includes/admin/class-wp-statistics-admin-network.php:60
+#: includes/admin/templates/optimization/purging.php:249
+#: includes/admin/templates/settings/maintenance.php:64
+#: includes/admin/templates/pages/top-visitors.php:30
+msgid "Hits"
+msgstr "조회수"
+
+#: includes/admin/templates/settings/general.php:159
+msgid "Hits Chart"
+msgstr "조회수 차트"
+
+#: includes/admin/templates/settings/general.php:171
+msgid "Hits Column"
+msgstr "조회수 열"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-hits.php:93
+#: includes/admin/meta-box/wp-statistics-meta-box-pages-chart.php:72
+#, php-format
+msgid "Hits from %s to %s"
+msgstr "%s에서 %s로 조회수"
+
+#: includes/admin/templates/settings/general.php:194
+msgid "Hits in Single Page:"
+msgstr "단일 페이지의 조회수 :"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-pages-chart.php:70
+#, php-format
+msgid "Hits in the in the last %s days"
+msgstr "지난 %s일 동안의 조회수"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-hits.php:91
+#, php-format
+msgid "Hits in the last %s days"
+msgstr "지난 %s일 동안의 조회수"
+
+#: includes/admin/templates/settings/general.php:182
+msgid "Hits Metabox Chart:"
+msgstr "조회수 메타 박스 차트 :"
+
+#: includes/class-wp-statistics-frontend.php:154
+#, php-format
+msgid "Hits: %s"
+msgstr "조회수 : %s"
+
+#: includes/class-wp-statistics-pages.php:342
+msgid "Home Page"
+msgstr "홈 페이지"
+
+#: includes/admin/templates/settings/exclusions.php:107
+msgid "Honey Pot Post ID"
+msgstr "Honey pot 포스트 ID"
+
+#: includes/class-wp-statistics-exclusion.php:33
+msgid "Honeypot"
+msgstr "Honey pot"
+
+#: includes/admin/templates/settings/exclusions.php:147
+msgid "Host Exclusions"
+msgstr "호스트 제외"
+
+#: includes/class-wp-statistics-exclusion.php:31
+msgid "Host name"
+msgstr "호스트 이름"
+
+#: includes/admin/templates/settings/about.php:134
+msgid "How's your memory_limit in php.ini?"
+msgstr "php.ini의 memory_limit는 어떻습니까?"
+
+#. Author URI of the plugin
+msgid "https://veronalabs.com/"
+msgstr "https://veronalabs.com/"
+
+#. URI of the plugin
+msgid "https://wp-statistics.com/"
+msgstr "https://wp-statistics.com/"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:249
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:62
+#: includes/admin/templates/pages/online.php:44
+#: includes/admin/templates/pages/pages.php:38
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/templates/settings/general.php:286
+msgid ""
+"If a search engine is identified as the referrer but it does not include the "
+"search query this option will substitute the page title in quotes preceded "
+"by \"~:\" as the search query to help identify what the user may have been "
+"searching for."
+msgstr ""
+"검색 엔진이 참조 자로 식별되었지만 검색 쿼리가 포함되지 않은 경우 이 옵션은 사용자가 검색했을 수 있는 내용을 식별하는데 도움이 되도록 "
+"검색 쿼리로 앞에 \"~ :\"가 붙은 따옴표로 묶인 페이지 제목을 대체합니다."
+
+#: includes/admin/templates/optimization/database.php:16
+msgid ""
+"If for some reason your installation of WP Statistics is missing the "
+"database tables or other core items, this will re-execute the install "
+"process."
+msgstr "어떤 이유로 WP 통계 설치에 데이터베이스 테이블 또는 기타 핵심 항목이 누락된 경우 설치 프로세스가 다시 실행됩니다."
+
+#: includes/admin/templates/optimization/resources.php:180
+msgid ""
+"If the BCMath PHP extension is loaded, either GMP or BCMath is required for "
+"the GeoIP database to be read successfully."
+msgstr "BCMath PHP 확장이로드 된 경우 GeoIP 데이터베이스를 성공적으로 읽으려면 GMP 또는 BCMath가 필요합니다."
+
+#: includes/admin/templates/optimization/resources.php:164
+msgid ""
+"If the GMP Math PHP extension is loaded, either GMP or BCMath is required "
+"for the GeoIP database to be read successfully."
+msgstr "GMP Math PHP 확장이로드 된 경우 GeoIP 데이터베이스를 성공적으로 읽으려면 GMP 또는 BCMath가 필요합니다."
+
+#: includes/admin/templates/optimization/resources.php:148
+msgid ""
+"If the gzopen() function is installed. The gzopen() function is required for "
+"the GeoIP database to be downloaded successfully."
+msgstr "gzopen() 함수가 설치된 경우. GeoIP 데이터베이스를 성공적으로 다운로드하려면 gzopen() 함수가 필요합니다."
+
+#: includes/admin/templates/settings/access-level.php:70
+#, php-format
+msgid ""
+"If you need a more robust solution to delegate access, you might want to "
+"look at %s Capability Manager Enhanced %s in the WordPress plugin directory."
+msgstr ""
+"액세스 권한을 위임하기위한보다 강력한 솔루션이 필요한 경우 워드프레스 플러그인 디렉토리에서 %s Capability Manager "
+"Enhanced %s를 살펴볼 수 있습니다."
+
+#: includes/admin/templates/settings/privacy.php:8
+#, php-format
+msgid ""
+"If you want to delete visitor data, please <a href=\"%s\">click here</a>."
+msgstr "방문자 데이터를 삭제하려면 여기를 클릭하십시오."
+
+#: includes/admin/templates/add-ons.php:39
+msgid "Inactive"
+msgstr "비활성"
+
+#: includes/admin/templates/optimization/export.php:55
+msgid "Include a header row as the first line of the exported file."
+msgstr "내 보낸 파일의 첫 번째 줄로 헤더 행을 포함합니다."
+
+#: includes/admin/templates/optimization/export.php:50
+msgid "Include Header Row:"
+msgstr "헤더 행 포함 :"
+
+#: includes/admin/templates/settings/general.php:321
+msgid "Include Totals:"
+msgstr "합계 포함 :"
+
+#: includes/admin/templates/settings/exclusions.php:139
+msgid "Included Countries:"
+msgstr "포함 된 국가 :"
+
+#: includes/admin/templates/optimization/database.php:14
+msgid "Install Now!"
+msgstr "지금 설치!"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-optimization.php:61
+msgid "Install routine complete."
+msgstr "설치 루틴이 완료되었습니다."
+
+#: includes/admin/templates/optimization/resources.php:143
+#: includes/admin/templates/optimization/resources.php:159
+#: includes/admin/templates/optimization/resources.php:175
+msgid "Installed"
+msgstr "설치됨"
+
+#: includes/class-wp-statistics-shortcode.php:214
+msgid "International"
+msgstr "국제적인"
+
+#: includes/class-wp-statistics-user-agent.php:53
+msgid "Internet Explorer"
+msgstr "인터넷 익스플로러"
+
+#: includes/admin/templates/settings/maintenance.php:36
+#: includes/admin/templates/settings/maintenance.php:65
+msgid "Invalid values will disable the daily maintenance."
+msgstr "잘못된 값은 일일 유지 관리를 비활성화합니다."
+
+#: includes/admin/class-wp-statistics-admin-assets.php:256
+#: includes/admin/templates/pages/words.php:34
+#: includes/admin/templates/pages/top-visitors.php:26
+#: includes/admin/templates/pages/online.php:18
+#: includes/admin/templates/pages/visitors.php:38
+#: includes/admin/templates/pages/refer.url.php:30
+msgid "IP"
+msgstr "IP"
+
+#: includes/admin/templates/optimization/updates.php:33
+msgid "IP Addresses"
+msgstr "IP 주소"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-optimization.php:49
+msgid "IP Addresses replaced with hash values."
+msgstr "해시 값으로 대체 된 IP 주소."
+
+#: includes/admin/templates/settings/externals.php:9
+#, php-format
+msgid "IP location services are provided by data created by %s."
+msgstr "IP 위치 서비스는 % s에서 생성한 데이터로 제공됩니다."
+
+#: includes/class-wp-statistics-exclusion.php:22
+msgid "IP Match"
+msgstr "IP 일치"
+
+#: includes/admin/templates/settings/exclusions.php:41
+msgid "IP/Robot Exclusions"
+msgstr "IP / 로봇 제외"
+
+#: includes/admin/templates/optimization/resources.php:98
+msgid ""
+"Is PHP compiled with IPv6 support. You may see warning messages in your PHP "
+"log if it is not and you receive HTTP headers with IPv6 addresses in them."
+msgstr ""
+"PHP는 IPv6 지원으로 컴파일됩니다. 그렇지 않은 경우 PHP 로그에 경고 메시지가 표시되고 IPv6 주소가 포함 된 HTTP 헤더를 "
+"수신 할 수 있습니다."
+
+#: includes/admin/templates/optimization/resources.php:83
+msgid "Is PHP Safe Mode active. The GeoIP code is not supported in Safe Mode."
+msgstr "PHP 안전 모드가 활성화되어 있습니까? GeoIP 코드는 안전 모드에서 지원되지 않습니다."
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:57
+msgid "Is the time frame (time periods) for the statistic"
+msgstr "통계의 기간(기간)입니다."
+
+#: includes/admin/templates/settings/exclusions.php:13
+msgid ""
+"It generates a lot of data, not only actual user visits but also shows the "
+"total number of your site’s hits."
+msgstr "실제 사용자 방문뿐만 아니라 사이트의 총 조회 수를 비롯하여 많은 데이터를 생성합니다."
+
+#: includes/admin/templates/settings/exclusions.php:56
+msgid ""
+"It is a list of words (one per line) to match against to detect robots. "
+"Entries must be at least four characters long, or they will be ignored."
+msgstr "로봇을 감지하기 위해 일치시킬 단어 목록 (한 줄에 하나씩)입니다. 항목은 4자 이상이어야합니다. 그렇지 않으면 무시됩니다."
+
+#: includes/class-wp-statistics-install.php:530
+msgid "Item processed"
+msgstr "처리된 항목"
+
+#: includes/class-wp-statistics-widget.php:257
+msgid "Items"
+msgstr "아이템"
+
+#: includes/admin/templates/optimization/resources.php:104
+msgid "jQuery Version"
+msgstr "jQuery 버전"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:238
+msgid "Last 30 Days (Month)"
+msgstr "지난 30일(월)"
+
+#: includes/class-wp-statistics-widget.php:79
+#: includes/class-wp-statistics-widget.php:285
+msgid "Last 30 Days Visits"
+msgstr "지난 30일 방문"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:239
+msgid "Last 365 Days (Year)"
+msgstr "지난 365일(년)"
+
+#: includes/class-wp-statistics-widget.php:86
+#: includes/class-wp-statistics-widget.php:289
+msgid "Last 365 Days Visits"
+msgstr "지난 365일 방문"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:237
+msgid "Last 7 Days (Week)"
+msgstr "지난 7일(주)"
+
+#: includes/class-wp-statistics-widget.php:72
+#: includes/class-wp-statistics-widget.php:281
+msgid "Last 7 Days Visits"
+msgstr "지난 7일 방문"
+
+#: includes/class-wp-statistics-shortcode.php:181
+#: includes/class-wp-statistics-widget.php:178
+#: includes/class-wp-statistics-widget.php:360
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:46
+msgid "Last Post Date"
+msgstr "마지막 게시 날짜"
+
+#: includes/class-wp-statistics-meta-box.php:147
+#: includes/admin/pages/class-wp-statistics-admin-page-words.php:36
+msgid "Latest Search Words"
+msgstr "최신 검색어"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:251
+#: includes/admin/templates/pages/pages.php:40
+#: includes/admin/templates/pages/refer.url.php:29
+msgid "Link"
+msgstr "링크"
+
+#: includes/class-wp-statistics-exclusion.php:24
+#: includes/class-wp-statistics-pages.php:358
+msgid "Login Page"
+msgstr "로그인 페이지"
+
+#: includes/admin/templates/settings.php:18
+msgid "Maintenance"
+msgstr "유지"
+
+#: includes/admin/templates/settings/about.php:128
+msgid "Make sure you have access to your PHP error logs."
+msgstr "PHP 오류 로그에 액세스 할 수 있는지 확인하십시오."
+
+#: includes/admin/templates/settings/overview-display.php:29
+#: includes/admin/templates/pages/online.php:47
+#: includes/admin/templates/pages/refer.url.php:53
+msgid "Map"
+msgstr "지도"
+
+#: includes/admin/templates/settings/overview-display.php:34
+msgid "Map Display:"
+msgstr "지도 표시 :"
+
+#: includes/admin/templates/settings/externals.php:146
+msgid "Matomo Referrer Spam Blacklist Settings"
+msgstr "Matomo 리퍼러 스팸 블랙리스트 설정"
+
+#: includes/admin/templates/settings/externals.php:158
+msgid "Matomo Referrer Spam Blacklist Usage:"
+msgstr "Matomo Referrer Spam Blacklist 사용법 :"
+
+#: includes/admin/templates/optimization/resources.php:10
+#: includes/admin/templates/optimization/resources.php:14
+msgid "Memory usage in PHP"
+msgstr "PHP의 메모리 사용량"
+
+#: includes/admin/templates/settings/notifications.php:133
+msgid "Message body:"
+msgstr "메시지 본문 :"
+
+#: includes/admin/templates/optimization/purging.php:251
+#: includes/admin/templates/settings/maintenance.php:65
+msgid "Minimum value is 10 hits."
+msgstr "최소값은 10회입니다."
+
+#: includes/admin/templates/optimization/purging.php:235
+msgid "Minimum value is 30 days."
+msgstr "최소값은 30일입니다."
+
+#: includes/admin/templates/settings/general.php:245
+msgid "Miscellaneous"
+msgstr "여러 가지 잡다한"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:264
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:54
+msgid "Month"
+msgstr "월"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:230
+msgid "More Details"
+msgstr "자세한 내용은"
+
+#: includes/admin/templates/meta-box/about.php:14
+msgid "More Info"
+msgstr "더 많은 정보"
+
+#: includes/class-wp-statistics-widget.php:252
+msgid "Name"
+msgstr "이름"
+
+#: includes/admin/templates/settings/externals.php:62
+#: includes/admin/templates/settings/externals.php:193
+msgid "Next update will be"
+msgstr "다음 업데이트는"
+
+#: includes/admin/templates/optimization/resources.php:80
+#: includes/admin/templates/optimization/resources.php:96
+#: includes/admin/templates/settings/general.php:255
+msgid "No"
+msgstr "아니요"
+
+#: includes/admin/class-wp-statistics-admin-ajax.php:108
+msgid "No agent data found to remove!"
+msgstr "제거 할 에이전트 데이터가 없습니다!"
+
+#: includes/admin/templates/settings/visitor-ip.php:91
+#: includes/admin/templates/settings/visitor-ip.php:130
+msgid "No available data."
+msgstr "사용 가능한 데이터가 없습니다."
+
+#: includes/admin/class-wp-statistics-admin-assets.php:270
+#: includes/admin/templates/pages/pages.php:32
+msgid "No data to display"
+msgstr "표시할 데이터 없음"
+
+#: includes/admin/templates/pages/top-visitors.php:14
+msgid "No information is available for this day."
+msgstr "이 날에 대한 정보가 없습니다."
+
+#: includes/admin/templates/pages/words.php:21
+#: includes/admin/templates/pages/visitors.php:21
+#: includes/admin/templates/pages/refer.url.php:25
+#: includes/admin/templates/pages/top.refer.php:15
+msgid "No information is available."
+msgstr "정보가 없습니다."
+
+#: includes/admin/class-wp-statistics-admin-ajax.php:182
+msgid "No IP address data found to remove!"
+msgstr "제거할 IP 주소 데이터가 없습니다!"
+
+#: includes/admin/class-wp-statistics-admin-ajax.php:146
+msgid "No platform data found to remove!"
+msgstr "제거할 플랫폼 데이터가 없습니다!"
+
+#: includes/class-wp-statistics-purge.php:48
+#: includes/class-wp-statistics-purge.php:78
+#: includes/class-wp-statistics-purge.php:89
+#: includes/class-wp-statistics-purge.php:99
+#: includes/class-wp-statistics-purge.php:162
+#, php-format
+msgid "No records found to purge from %s!"
+msgstr "%s에서 제거 할 레코드가 없습니다!"
+
+#: includes/class-wp-statistics-purge.php:220
+msgid "No visitors found to purge."
+msgstr "제거 할 방문자가 없습니다."
+
+#: includes/class-wp-statistics-shortcode.php:212
+msgid "None"
+msgstr "없음"
+
+#: includes/admin/templates/add-ons.php:41
+#: includes/admin/templates/optimization/resources.php:145
+#: includes/admin/templates/optimization/resources.php:161
+#: includes/admin/templates/optimization/resources.php:177
+msgid "Not installed"
+msgstr "설치되지 않음"
+
+#: includes/admin/templates/optimization/historical.php:20
+msgid ""
+"Note: As you have just purged the database you must reload this page for "
+"these numbers to be correct."
+msgstr "참고 : 방금 데이터베이스를 제거했으므로 이 숫자가 정확하려면 이 페이지를 다시 로드해야합니다."
+
+#: includes/admin/templates/settings/exclusions.php:189
+msgid ""
+"Note: This option will NOT handle URL parameters (anything after the ?), "
+"only to the script name. Entries less than two characters will be ignored."
+msgstr ""
+"참고 :이 옵션은 URL 매개 변수 (? 뒤의 모든 항목)를 처리하지 않고 스크립트 이름에 대해서만 처리합니다. 2자 미만의 항목은 "
+"무시됩니다."
+
+#: includes/admin/templates/settings/exclusions.php:155
+msgid ""
+"Note: This option will NOT perform a reverse DNS lookup on each page load "
+"but instead cache the provided hostnames’ IP address for one hour. If you "
+"exclude dynamically assigned hosts, you may find some overlap when the host "
+"changes its IP address and when the cache is updated, resulting in some hits "
+"recorded."
+msgstr ""
+"참고 : 이 옵션은 각 페이지로드에서 역방향 DNS 조회를 수행하지 않고 대신 제공된 호스트 이름의 IP 주소를 1시간 동안 캐시합니다. "
+"동적으로 할당된 호스트를 제외하면 호스트가 IP 주소를 변경하고 캐시가 업데이트 될 때 일부 겹침이 발견되어 일부 적중이 기록 될 수 "
+"있습니다."
+
+#: includes/admin/templates/settings/notifications.php:126
+#, php-format
+msgid "Note: To send SMS text messages please install the %s plugin."
+msgstr "참고 : SMS 문자 메시지를 보내려면 %s 플러그인을 설치하십시오."
+
+#: includes/admin/templates/settings.php:12
+msgid "Notifications"
+msgstr "알림"
+
+#: includes/class-wp-statistics-shortcode.php:203
+msgid "Number Format"
+msgstr "숫자 형식"
+
+#: includes/admin/templates/optimization/historical.php:30
+#, php-format
+msgid ""
+"Number of historical number of visitors to the site (current value is %s)."
+msgstr "사이트 방문자 수 (현재 값은 %s)입니다."
+
+#: includes/admin/templates/optimization/historical.php:40
+#, php-format
+msgid ""
+"Number of historical number of visits to the site (current value is %s)."
+msgstr "사이트에 대한 과거 방문 횟수 (현재 값은 %s)입니다."
+
+#: includes/admin/meta-box/wp-statistics-meta-box-post.php:62
+msgid "Number of Hits"
+msgstr "조회수"
+
+#: includes/class-wp-statistics-purge.php:223
+#: includes/admin/class-wp-statistics-admin-ajax.php:284
+msgid "Number of hits must be greater than or equal to 10!"
+msgstr "적중 수는 10이상이어야 합니다!"
+
+#: includes/admin/templates/pages/author.php:39
+msgid "Number of posts by author:"
+msgstr "작성자의 게시물 수 :"
+
+#: includes/admin/templates/pages/tag.php:39
+msgid "Number of posts in tag:"
+msgstr "태그의 게시물 수 :"
+
+#: includes/admin/templates/optimization/resources.php:38
+msgid "Number of rows"
+msgstr "행 수"
+
+#: includes/admin/templates/optimization/resources.php:34
+#, php-format
+msgid "Number of rows in the %s table"
+msgstr "%s 테이블의 행 수"
+
+#: includes/class-wp-statistics-menus.php:187
+#: includes/admin/class-wp-statistics-admin-network.php:61
+msgid "Online"
+msgstr "온라인"
+
+#: includes/admin/templates/pages/online.php:19
+msgid "Online For"
+msgstr "온라인"
+
+#: includes/class-wp-statistics-admin-bar.php:53
+#: includes/admin/templates/settings/notifications.php:143
+msgid "Online User"
+msgstr "온라인 사용자"
+
+#: includes/admin/class-wp-statistics-admin-notices.php:105
+msgid "online user tracking"
+msgstr "온라인 사용자 추적"
+
+#: includes/admin/templates/settings/general.php:15
+msgid "Online User:"
+msgstr "온라인 사용자 :"
+
+#: includes/class-wp-statistics-meta-box.php:178
+#: includes/class-wp-statistics-shortcode.php:168
+#: includes/class-wp-statistics-widget.php:37
+#: includes/class-wp-statistics-widget.php:261
+#: includes/admin/class-wp-statistics-admin-assets.php:232
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:33
+#: includes/admin/pages/class-wp-statistics-admin-page-online.php:25
+#: includes/admin/templates/settings/general.php:10
+msgid "Online Users"
+msgstr "온라인 사용자"
+
+#: includes/admin/templates/settings/privacy.php:41
+msgid ""
+"Only enable it for debugging. If the IP hashes are enabled, this option will "
+"be disabled automatically."
+msgstr "디버깅을 위해서만 활성화하십시오. IP 해시가 활성화 된 경우이 옵션은 자동으로 비활성화됩니다."
+
+#: includes/class-wp-statistics-user-agent.php:55
+msgid "Opera"
+msgstr "오페라"
+
+#: includes/class-wp-statistics-menus.php:285
+#: includes/admin/class-wp-statistics-admin-network.php:71
+msgid "Optimization"
+msgstr "최적화"
+
+#: includes/admin/templates/optimization/database.php:27
+msgid "Optimize Table:"
+msgstr "테이블 최적화 :"
+
+#: includes/admin/class-wp-statistics-admin-network.php:51
+msgid "Options"
+msgstr "옵션"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-browsers.php:123
+msgid "Other"
+msgstr "그외"
+
+#: includes/class-wp-statistics-menus.php:174
+#: includes/admin/class-wp-statistics-admin-network.php:29
+#: includes/admin/class-wp-statistics-admin-network.php:29
+#: includes/admin/class-wp-statistics-admin-network.php:59
+msgid "Overview"
+msgstr "대시보드"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:262
+#: includes/admin/templates/pages/online.php:20
+#: includes/admin/templates/pages/visitors.php:44
+msgid "Page"
+msgstr "페이지"
+
+#: includes/admin/class-wp-statistics-admin-template.php:171
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr "%1$s / %2$s 페이지"
+
+#: includes/class-wp-statistics-shortcode.php:174
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:39
+msgid "Page Count"
+msgstr "페이지 수"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-pages.php:108
+msgid "Page Statistics"
+msgstr "페이지 통계"
+
+#: includes/class-wp-statistics-shortcode.php:171
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:36
+msgid "Page Visits"
+msgstr "페이지 방문"
+
+#: includes/class-wp-statistics-menus.php:222
+#: includes/admin/class-wp-statistics-admin-network.php:65
+msgid "Pages"
+msgstr "페이지"
+
+#: includes/admin/templates/settings/general.php:113
+msgid "Pages and Posts"
+msgstr "페이지 및 게시물"
+
+#: includes/class-wp-statistics-meta-box.php:203
+msgid "Pages Hits"
+msgstr "페이지 조회수"
+
+#: includes/admin/templates/settings/general.php:118
+msgid "Pages:"
+msgstr "페이지 :"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:272
+msgid "Percentage"
+msgstr "백분율"
+
+#: includes/admin/templates/optimization/resources.php:89
+msgid "PHP IPv6 Enabled"
+msgstr "PHP IPv6 활성화"
+
+#: includes/admin/templates/optimization/resources.php:20
+msgid "PHP Memory Limit"
+msgstr "PHP 메모리 제한"
+
+#: includes/admin/templates/optimization/resources.php:73
+msgid "PHP Safe Mode"
+msgstr "PHP 안전 모드"
+
+#: includes/admin/templates/settings/externals.php:135
+msgid ""
+"PHP safe mode detected! GeoIP collection is not supported with PHP's safe "
+"mode enabled!"
+msgstr "PHP 안전 모드가 감지되었습니다! PHP의 안전 모드가 활성화된 상태에서는 GeoIP 수집이 지원되지 않습니다!"
+
+#: includes/admin/templates/optimization/resources.php:62
+msgid "PHP Version"
+msgstr "PHP 버전"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:260
+#: includes/admin/templates/optimization/resources.php:261
+#: includes/admin/templates/pages/top-visitors.php:27
+#: includes/admin/templates/pages/visitors.php:39
+msgid "Platform"
+msgstr "플랫폼"
+
+#: includes/class-wp-statistics-user-agent.php:32
+msgctxt "Platform"
+msgid "Unknown"
+msgstr "알 수 없음"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-platforms.php:37
+msgid "Platform Statistics"
+msgstr "플랫폼 통계"
+
+#: includes/class-wp-statistics-menus.php:264
+#: includes/admin/meta-box/wp-statistics-meta-box-platforms.php:99
+#: includes/admin/meta-box/wp-statistics-meta-box-platforms.php:101
+msgid "Platforms"
+msgstr "플랫폼"
+
+#: includes/admin/templates/settings/visitor-ip.php:56
+msgid "Please check your internet connection and try again."
+msgstr "인터넷 연결을 확인하고 다시 시도하십시오."
+
+#: includes/admin/class-wp-statistics-admin-notices.php:44
+#, php-format
+msgid ""
+"Please enable %1$sCache Settings%2$s in the WP-Statistics plugin or delete "
+"the WP_CACHE value from the wp-config.php file if you do not have any "
+"WordPress cache plugins enabled."
+msgstr ""
+"WP 통계 플러그인에서 %1$sCache Settings %2$s를 활성화하거나 워드프레스 캐시 플러그인이 활성화되지 않은 경우 wp-"
+"config.php 파일에서 WP_CACHE 값을 삭제하십시오."
+
+#: includes/admin/class-wp-statistics-admin-assets.php:277
+msgid "Please enter a valid ip."
+msgstr "유효한 IP를 입력하십시오."
+
+#: includes/admin/class-wp-statistics-admin-notices.php:75
+#, php-format
+msgid ""
+"Please Flushing rewrite rules or activate WordPress REST API for performance "
+"WP-Statistics Plugin Cache / Go %1$sSettings->Permalinks%2$s"
+msgstr ""
+"재 작성 규칙을 플러시하거나 성능을 위해 워드프레스 REST API를 활성화하십시오. WP 통계 Plugin Cache / Go "
+"%1$sSettings->Permalinks%2$s"
+
+#: includes/admin/templates/optimization/purging.php:210
+#: includes/admin/templates/optimization/purging.php:269
+#: includes/admin/templates/optimization/purging.php:293
+#: includes/admin/templates/optimization/database.php:44
+#: includes/admin/templates/optimization/export.php:19
+#: includes/admin/templates/optimization/export.php:38
+#: includes/admin/templates/settings/notifications.php:83
+#: includes/admin/templates/settings/notifications.php:117
+#: includes/admin/templates/settings/general.php:217
+msgid "Please select"
+msgstr "선택해 주세요."
+
+#: includes/class-wp-statistics-purge.php:172
+msgid "Please select a value over 30 days."
+msgstr "30일 이상의 값을 선택하십시오."
+
+#: includes/admin/templates/optimization/database.php:35
+msgid "Please select database table"
+msgstr "데이터베이스 테이블을 선택하십시오."
+
+#: includes/admin/class-wp-statistics-admin-ajax.php:112
+#: includes/admin/class-wp-statistics-admin-ajax.php:149
+#: includes/admin/class-wp-statistics-admin-ajax.php:185
+#: includes/admin/class-wp-statistics-admin-ajax.php:207
+msgid "Please select the desired items."
+msgstr "원하는 항목을 선택하세요."
+
+#: includes/admin/templates/optimization/database.php:52
+msgid "Please select the table you would like to optimize and repair"
+msgstr "최적화하고 수리 할 테이블을 선택하십시오."
+
+#: includes/admin/class-wp-statistics-admin-assets.php:276
+msgid "Please select the time efficiency."
+msgstr "시간 효율성을 선택하세요."
+
+#: includes/admin/class-wp-statistics-admin-assets.php:278
+msgid "Please Wait ..."
+msgstr "기다려주십시오..."
+
+#: includes/admin/templates/settings/externals.php:93
+msgid "Populate Missing GeoIP After Updating GeoIP DB:"
+msgstr "GeoIP DB 업데이트 후 누락 된 GeoIP 채우기 :"
+
+#: includes/class-wp-statistics-pages.php:367
+msgid "Post Archive"
+msgstr "포스트 아카이브"
+
+#: includes/class-wp-statistics-shortcode.php:178
+#: includes/class-wp-statistics-widget.php:157
+#: includes/class-wp-statistics-widget.php:348
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:43
+msgid "Post Average"
+msgstr "포스트 평균"
+
+#: includes/class-wp-statistics-shortcode.php:173
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:38
+msgid "Post Count"
+msgstr "게시물 수"
+
+#: includes/class-wp-statistics-shortcode.php:218
+msgid "Post/Page ID"
+msgstr "게시물 / 페이지 ID"
+
+#: includes/admin/templates/meta-box/about.php:20
+msgid "Power by VeronaLabs"
+msgstr "VeronaLabs의 전원"
+
+#: includes/admin/templates/settings.php:11
+msgid "Privacy"
+msgstr "은둔"
+
+#: includes/admin/templates/settings/privacy.php:4
+msgid "Privacy and Data Protection"
+msgstr "개인 정보 보호 및 데이터 보호"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:58
+msgid "Provider"
+msgstr "공급자"
+
+#: includes/admin/templates/settings/notifications.php:45
+msgid "Pruning:"
+msgstr "전정 :"
+
+#: includes/admin/templates/settings/maintenance.php:30
+msgid "Purge Data Older Than:"
+msgstr "다음보다 오래된 데이터 제거 :"
+
+#: includes/admin/templates/settings/maintenance.php:41
+msgid "Purge High Hit Count Visitors Daily"
+msgstr "매일 높은 히트 수 방문자 제거"
+
+#: includes/admin/templates/optimization/purging.php:236
+#: includes/admin/templates/optimization/purging.php:252
+msgid "Purge now!"
+msgstr "지금 제거하십시오!"
+
+#: includes/admin/templates/settings/maintenance.php:13
+msgid "Purge Old Data Daily"
+msgstr "매일 오래된 데이터 제거"
+
+#: includes/admin/templates/optimization/purging.php:228
+msgid "Purge records older than:"
+msgstr "다음보다 오래된 레코드 제거 :"
+
+#: includes/admin/templates/settings/maintenance.php:59
+msgid "Purge Visitors More Than:"
+msgstr "다음보다 많은 방문자 제거 :"
+
+#: includes/admin/templates/optimization/purging.php:244
+msgid "Purge visitors with more than:"
+msgstr "다음을 초과하는 방문자 제거 :"
+
+#: includes/admin/templates/optimization.php:8
+msgid "Purging"
+msgstr "퍼징"
+
+#: includes/class-wp-statistics-meta-box.php:77
+msgid "Quick Stats"
+msgstr "빠른 통계"
+
+#: includes/class-wp-statistics-search-engine.php:117
+msgid "Qwant"
+msgstr "Qwant"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:245
+msgid "Rank"
+msgstr "순위"
+
+#: includes/admin/templates/meta-box/about.php:8
+msgid "Rate & Review"
+msgstr "평가 및 검토"
+
+#: includes/admin/templates/settings/about.php:63
+msgid "Rate and Review at WordPress.org"
+msgstr "WordPress.org에서 평가 및 검토"
+
+#: includes/class-wp-statistics-install.php:318
+msgid "Rate this plugin"
+msgstr "이 플러그인 평가"
+
+#: includes/admin/templates/pages/top.refer.php:19
+msgid "Rating"
+msgstr "순위"
+
+#: includes/admin/templates/optimization/database.php:10
+msgid "Re-run Install:"
+msgstr "설치를 다시 실행하십시오."
+
+#: includes/class-wp-statistics-meta-box.php:164
+#: includes/admin/pages/class-wp-statistics-admin-page-visitors.php:36
+msgid "Recent Visitors"
+msgstr "최근 방문자"
+
+#: includes/admin/templates/settings/general.php:39
+msgid "Record All Users:"
+msgstr "모든 사용자 기록 :"
+
+#: includes/admin/templates/settings/exclusions.php:9
+msgid "Record Exclusions:"
+msgstr "기록 제외 :"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-referring.php:36
+#: includes/admin/templates/pages/top.refer.php:26
+msgid "References"
+msgstr "참고"
+
+#: includes/class-wp-statistics-shortcode.php:182
+#: includes/admin/class-wp-statistics-admin-assets.php:257
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:47
+#: includes/admin/templates/pages/words.php:35
+#: includes/admin/templates/pages/top-visitors.php:29
+#: includes/admin/templates/pages/online.php:21
+#: includes/admin/templates/pages/visitors.php:48
+msgid "Referrer"
+msgstr "리퍼러"
+
+#: includes/class-wp-statistics-exclusion.php:26
+msgid "Referrer Spam"
+msgstr "리퍼러 스팸"
+
+#: includes/admin/templates/settings/externals.php:152
+#, php-format
+msgid "Referrer spam blacklist is provided by Matomo, available from %s."
+msgstr "리퍼러 스팸 블랙리스트는 %s에서 사용할 수있는 Matomo에서 제공합니다."
+
+#: includes/class-wp-statistics-menus.php:201
+#: includes/admin/class-wp-statistics-admin-network.php:62
+msgid "Referrers"
+msgstr "리퍼러"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-refer.php:79
+#, php-format
+msgid "Referring site: %s"
+msgstr "참조 사이트 : %s"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:231
+msgid "Reload"
+msgstr "새로 고침"
+
+#: includes/admin/templates/optimization/database.php:22
+msgid "Repair and Optimization Database Tables"
+msgstr "수리 및 최적화 데이터베이스 테이블"
+
+#: includes/admin/templates/optimization/updates.php:43
+msgid ""
+"Replace IP addresses in the database with hash values, you will not be able "
+"to recover the IP addresses in the future to populate location information "
+"afterwards and this may take a while"
+msgstr ""
+"데이터베이스의 IP 주소를 해시 값으로 바꾸십시오. 나중에 위치 정보를 채우기 위해 나중에 IP 주소를 복구 할 수 없으며 시간이 걸릴 "
+"수 있습니다."
+
+#: includes/admin/class-wp-statistics-admin-template.php:94
+#: includes/admin/pages/class-wp-statistics-admin-page-tags.php:25
+#: includes/admin/pages/class-wp-statistics-admin-page-category.php:25
+#: includes/admin/pages/class-wp-statistics-admin-page-authors.php:25
+msgid "Request is not valid."
+msgstr "요청이 유효하지 않습니다."
+
+#: includes/admin/templates/settings/access-level.php:58
+msgid "Required User Level to Manage WP Statistics:"
+msgstr "WP 통계를 관리하는 데 필요한 사용자 수준 :"
+
+#: includes/admin/templates/settings/access-level.php:38
+msgid "Required User Level to View WP Statistics:"
+msgstr "WP 통계를 보는 데 필요한 사용자 수준 :"
+
+#: includes/admin/templates/settings.php:19
+#: includes/admin/templates/settings/reset.php:14
+msgid "Reset"
+msgstr "초기화"
+
+#: includes/admin/templates/settings/reset.php:15
+msgid ""
+"Reset all the options to default. Resetting the options will remove all user "
+"and global settings but will keep all other data. This action cannot be "
+"undone. Note: For multisite installs, this will reset all sites to the "
+"default settings."
+msgstr ""
+"모든 옵션을 기본값으로 재설정하십시오. 옵션을 재설정하면 모든 사용자 및 전역 설정이 제거되지만 다른 모든 데이터는 유지됩니다. 이 "
+"작업은 취소 할 수 없습니다. 참고 : 다중 사이트 설치의 경우 모든 사이트를 기본 설정으로 재설정합니다."
+
+#: includes/admin/templates/settings/reset.php:9
+msgid "Reset Options:"
+msgstr "재설정 옵션 :"
+
+#: includes/admin/templates/settings/exclusions.php:57
+msgid "Reset to Default"
+msgstr "기본값으로 재설정"
+
+#: includes/admin/templates/optimization/resources.php:5
+msgid "Resources"
+msgstr "자원"
+
+#: includes/admin/templates/optimization.php:6
+msgid "Resources/Information"
+msgstr "리소스 / 정보"
+
+#: includes/class-wp-statistics-exclusion.php:20
+msgid "Robot"
+msgstr "로봇"
+
+#: includes/admin/templates/settings/exclusions.php:45
+msgid "Robot List:"
+msgstr "로봇 목록 :"
+
+#: includes/class-wp-statistics-exclusion.php:34
+msgid "Robot threshold"
+msgstr "로봇 임계 값"
+
+#: includes/admin/templates/settings/exclusions.php:73
+msgid "Robot Visit Threshold:"
+msgstr "로봇 방문 임계 값 :"
+
+#: includes/admin/templates/settings.php:14
+msgid "Roles"
+msgstr "역할"
+
+#: includes/admin/templates/optimization/resources.php:37
+msgid "Row"
+msgid_plural "Rows"
+msgstr[0] "열"
+msgstr[1] ""
+
+#: includes/admin/templates/optimization/database.php:55
+msgid "Run Now!"
+msgstr "지금 실행하세요!"
+
+#: includes/class-wp-statistics-user-agent.php:56
+msgid "Safari"
+msgstr "사파리"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-settings.php:546
+msgid "Saved Settings."
+msgstr "저장된 설정."
+
+#: includes/admin/templates/settings/externals.php:54
+msgid "Schedule Monthly Update of GeoIP DB:"
+msgstr "GeoIP DB의 월별 업데이트 예약 :"
+
+#: includes/admin/templates/settings/externals.php:185
+msgid "Schedule weekly update of Matomo Referrer Spam Blacklist DB:"
+msgstr "Matomo Referrer Spam Blacklist DB의 주간 업데이트 일정 :"
+
+#: includes/admin/templates/settings/notifications.php:78
+msgid "Schedule:"
+msgstr "시간표 :"
+
+#: includes/class-wp-statistics-search-engine.php:151
+msgctxt "Search Engine"
+msgid "Unknown"
+msgstr "알 수 없음"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-searches.php:34
+msgid "Search Engine Referral Statistics"
+msgstr "검색 엔진 추천 통계"
+
+#: includes/class-wp-statistics-meta-box.php:139
+#: includes/class-wp-statistics-widget.php:115
+#: includes/class-wp-statistics-widget.php:305
+#: includes/admin/meta-box/wp-statistics-meta-box-summary.php:33
+msgid "Search Engine Referrals"
+msgstr "검색 엔진 추천"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-search.php:69
+#, php-format
+msgid "Search engine referrals from %s to %s"
+msgstr "%s에서 %s로의 검색 엔진 추천"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-search.php:67
+#, php-format
+msgid "Search engine referrals in the last %s days"
+msgstr "지난 %s일 동안의 검색 엔진 추천"
+
+#: includes/class-wp-statistics-menus.php:215
+#: includes/admin/templates/settings/general.php:275
+msgid "Search Engines"
+msgstr "검색 엔진"
+
+#: includes/class-wp-statistics-pages.php:361
+msgid "Search Page"
+msgstr "검색 페이지"
+
+#: includes/class-wp-statistics-shortcode.php:196
+msgid "Search Provider"
+msgstr "검색 공급자"
+
+#: includes/class-wp-statistics-menus.php:208
+#: includes/admin/class-wp-statistics-admin-network.php:63
+msgid "Search Words"
+msgstr "단어 검색"
+
+#: includes/class-wp-statistics-shortcode.php:172
+#: includes/admin/class-wp-statistics-admin-network.php:64
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:37
+msgid "Searches"
+msgstr "검색"
+
+#: includes/admin/templates/settings/general.php:32
+msgid "Seconds"
+msgstr "초"
+
+#: includes/admin/templates/settings/access-level.php:67
+#, php-format
+msgid ""
+"See the %sWordPress Roles and Capabilities%s page for details on capability "
+"levels."
+msgstr "기능 수준에 대한 자세한 내용은 %s 워드프레스 역할 및 기능 %s 페이지를 참조하십시오."
+
+#: includes/admin/templates/layout/date.range.php:16
+msgid "Select"
+msgstr "선택"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-authors.php:51
+msgid "Select Author"
+msgstr "저자 선택"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-category.php:51
+msgid "Select Category"
+msgstr "카테고리 선택"
+
+#: includes/admin/templates/settings/notifications.php:124
+msgid "Select delivery method for statistical report."
+msgstr "통계 보고서 전달 방법을 선택합니다."
+
+#: includes/admin/templates/settings/notifications.php:106
+msgid "Select how often to receive statistical report."
+msgstr "통계 보고서 수신 빈도를 선택하십시오."
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:50
+msgid "Select item ..."
+msgstr "물품을 고르시오..."
+
+#: includes/admin/templates/layout/select.php:5
+msgid "Select Page"
+msgstr "페이지 선택"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-tags.php:52
+msgid "Select Tag"
+msgstr "태그 선택"
+
+#: includes/admin/templates/optimization/export.php:44
+msgid "Select the output file type."
+msgstr "출력 파일 유형을 선택하십시오."
+
+#: includes/class-wp-statistics-shortcode.php:165
+msgid "Select the statistic you wish to display."
+msgstr "표시하려는 통계를 선택하십시오."
+
+#: includes/admin/templates/optimization/export.php:27
+msgid "Select the table for the output file."
+msgstr "출력 파일에 대한 테이블을 선택하십시오."
+
+#: includes/class-wp-statistics-widget.php:310
+msgid "Select type of search engine"
+msgstr "검색 엔진 유형 선택"
+
+#: includes/admin/templates/settings/general.php:258
+msgid "Select Yes to show stats in the admin menu bar"
+msgstr "예를 선택하여 관리 메뉴 표시 줄에 통계를 표시합니다."
+
+#: includes/class-wp-statistics-exclusion.php:23
+msgid "Self Referral"
+msgstr "자기 추천"
+
+#: includes/admin/templates/settings/notifications.php:112
+msgid "Send reports via:"
+msgstr "다음을 통해 보고서 보내기 :"
+
+#: includes/admin/templates/optimization/resources.php:271
+msgid "Server Info"
+msgstr "서버 정보"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-referring.php:35
+#: includes/admin/templates/pages/top.refer.php:22
+msgid "Server IP"
+msgstr "서버 IP"
+
+#: includes/class-wp-statistics-menus.php:292
+#: includes/class-wp-statistics-install.php:299
+#: includes/admin/class-wp-statistics-admin-network.php:72
+msgid "Settings"
+msgstr "설정"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:356
+msgid "Show a different month"
+msgstr "다른 달 보기"
+
+#: includes/admin/templates/settings/wp-cli.php:28
+msgid "Show a summary of statistics."
+msgstr "통계 요약을 표시합니다."
+
+#: includes/admin/templates/settings/visitor-ip.php:141
+msgid "Show all <code>$_SERVER</code> in your server."
+msgstr "서버에있는 모든 $ _SERVER를 표시합니다."
+
+#: includes/admin/templates/settings/general.php:165
+msgid "Show Hits Chart in the WordPress page/post editor."
+msgstr "워드프레스 페이지 / 게시물 편집기에서 조회수 차트를 표시합니다."
+
+#: includes/admin/templates/settings/wp-cli.php:50
+msgid "Show list of Visitors."
+msgstr "방문자 목록을 표시합니다."
+
+#: includes/class-wp-statistics-widget.php:16
+msgid "Show site stats in sidebar."
+msgstr "사이드바에 사이트 통계를 표시합니다."
+
+#: includes/admin/templates/settings/general.php:250
+msgid "Show Stats in Menu Bar:"
+msgstr "메뉴 모음에 통계 표시 :"
+
+#: includes/admin/templates/settings/wp-cli.php:39
+msgid "Show Users Online List."
+msgstr "사용자 온라인 목록을 표시합니다."
+
+#: includes/admin/class-wp-statistics-admin-network.php:50
+msgid "Site"
+msgstr "사이트"
+
+#: includes/admin/templates/pages/top.refer.php:21
+msgid "Site Title"
+msgstr "사이트 제목"
+
+#: includes/admin/templates/pages/top.refer.php:20
+msgid "Site Url"
+msgstr "사이트 URL"
+
+#: includes/admin/templates/settings/exclusions.php:160
+msgid "Site URL Exclusions"
+msgstr "사이트 URL 제외"
+
+#: includes/admin/templates/settings/notifications.php:120
+msgid "SMS"
+msgstr "SMS"
+
+#: includes/class-wp-statistics-shortcode.php:176
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:41
+msgid "Spam Count"
+msgstr "스팸 수"
+
+#: includes/admin/templates/optimization/export.php:56
+msgid "Start Now!"
+msgstr "지금 시작하세요!"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:32
+msgid "Stat"
+msgstr "상태"
+
+#: includes/class-wp-statistics-shortcode.php:162
+msgid "Statistic"
+msgstr "통계량"
+
+#: includes/class-wp-statistics-schedule.php:229
+#: includes/admin/templates/settings/notifications.php:56
+msgid "Statistical reporting"
+msgstr "통계 보고"
+
+#: includes/admin/templates/settings/notifications.php:61
+msgid "Statistical Reports:"
+msgstr "통계 보고서 :"
+
+#. Base ID
+#: includes/class-wp-statistics-menus.php:167
+#: includes/class-wp-statistics-widget.php:15
+#: includes/admin/class-wp-statistics-admin-network.php:26
+#: includes/admin/class-wp-statistics-admin-network.php:26
+msgid "Statistics"
+msgstr "통계"
+
+#: includes/admin/templates/add-ons.php:32
+msgid "Status:"
+msgstr "상태 :"
+
+#: includes/admin/templates/settings/about.php:154
+msgid "Still not having any luck?"
+msgstr "아직 운이 없으신가요?"
+
+#: includes/admin/templates/settings/privacy.php:35
+msgid "Store Entire User Agent String:"
+msgstr "전체 사용자 에이전트 문자열 저장 :"
+
+#: includes/admin/templates/settings/general.php:144
+msgid "Strip URL Parameters:"
+msgstr "URL 매개 변수 제거 :"
+
+#: includes/admin/templates/postbox.php:11
+msgid "Subscribe"
+msgstr "구독"
+
+#: includes/admin/templates/postbox.php:4
+msgid "Subscribe to Newsletter"
+msgstr "뉴스 레터 구독"
+
+#: includes/admin/templates/postbox.php:8
+msgid "Subscribe to our mailing list for get any news of the WP-Statistics"
+msgstr "WP 통계에 대한 뉴스를 얻으려면 메일 링리스트를 구독하십시오."
+
+#: includes/admin/pages/class-wp-statistics-admin-page-optimization.php:142
+#, php-format
+msgid "Successfully optimized the %s table."
+msgstr "%s 테이블을 성공적으로 최적화했습니다."
+
+#: includes/admin/pages/class-wp-statistics-admin-page-optimization.php:126
+#, php-format
+msgid "Successfully repaired the %s table."
+msgstr "%s 테이블을 성공적으로 복구했습니다."
+
+#: includes/class-wp-statistics-meta-box.php:84
+msgid "Summary"
+msgstr "요약"
+
+#: includes/admin/templates/settings/wp-cli.php:23
+msgid "Summary:"
+msgstr "요약 :"
+
+#: includes/admin/templates/settings/about.php:94
+msgid "Support"
+msgstr "지원"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-tags.php:40
+msgid "Tag Statistics"
+msgstr "태그 통계"
+
+#: includes/admin/templates/pages/tag.php:6
+#: includes/admin/templates/pages/tag.php:9
+msgid "Tag Statistics Chart"
+msgstr "태그 통계 차트"
+
+#: includes/admin/templates/pages/tag.php:23
+#: includes/admin/templates/pages/tag.php:26
+msgid "Tag Statistics Summary"
+msgstr "태그 통계 요약"
+
+#: includes/class-wp-statistics-menus.php:243
+#: includes/class-wp-statistics-helper.php:754
+msgid "Tags"
+msgstr "태그"
+
+#: includes/admin/class-wp-statistics-admin-template.php:67
+msgid "Template not found."
+msgstr "템플릿을 찾을 수 없습니다."
+
+#: includes/admin/templates/settings/about.php:68
+#, php-format
+msgid ""
+"Thanks for installing WP Statistics, we encourage you to submit a %srating "
+"and review%s over at WordPress.org. Your feedback is greatly appreciated!"
+msgstr ""
+"WP 통계를 설치해 주셔서 감사합니다. WordPress.org에서 %srating 및 review %s를 제출하는 것이 좋습니다. "
+"귀하의 의견은 대단히 감사합니다!"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-optimization.php:121
+#, php-format
+msgid ""
+"The %1$s table is not okay. It is reporting the following error: %2$s. "
+"WordPress will attempt to repair this table&hellip;"
+msgstr "%1$s 테이블이 잘못되었습니다. 다음 오류를보고합니다 : %2$s. 워드프레스에서 이 테이블 복구를 시도합니다…"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-optimization.php:137
+#, php-format
+msgid "The %s table is already optimized."
+msgstr "%s 테이블이 이미 최적화되었습니다."
+
+#. %s: Table name.
+#: includes/admin/pages/class-wp-statistics-admin-page-optimization.php:118
+#, php-format
+msgid "The %s table is okay."
+msgstr "%s 테이블은 괜찮습니다."
+
+#: includes/class-wp-statistics.php:254
+msgid "The <strong>WP-Statistics</strong> plugin requires PHP version <strong>"
+msgstr "WP 통계 플러그인에는 PHP 버전이 필요합니다."
+
+#: includes/admin/templates/optimization/resources.php:219
+msgid "The client IP address."
+msgstr "클라이언트 IP 주소입니다."
+
+#: includes/admin/templates/optimization/resources.php:230
+msgid "The client user agent string."
+msgstr "클라이언트 사용자 에이전트 문자열입니다."
+
+#: includes/admin/templates/optimization/resources.php:255
+msgid "The detected client browser version."
+msgstr "감지된 클라이언트 브라우저 버전입니다."
+
+#: includes/admin/templates/optimization/resources.php:244
+msgid "The detected client browser."
+msgstr "감지된 클라이언트 브라우저입니다."
+
+#: includes/admin/templates/optimization/resources.php:266
+msgid "The detected client platform."
+msgstr "감지된 클라이언트 플랫폼입니다."
+
+#: includes/admin/templates/optimization/resources.php:204
+msgid "The file size and date of the GeoIP database."
+msgstr "GeoIP 데이터베이스의 파일 크기 및 날짜."
+
+#: includes/admin/class-wp-statistics-admin-notices.php:119
+#, php-format
+msgid ""
+"The following features are disabled, please go to %ssettings page%s and "
+"enable them: %s"
+msgstr "다음 기능이 비활성화되었습니다. %s설정 페이지%s로 이동하여 활성화하십시오. %s"
+
+#: includes/admin/templates/settings/overview-display.php:9
+msgid "The following items are global to all users."
+msgstr "다음 항목은 모든 사용자에게 적용됩니다."
+
+#: includes/class-wp-statistics-shortcode.php:206
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:61
+msgid "The format to display numbers in: i18n, english, none."
+msgstr "숫자를 표시하는 형식 : i18n, 영어, 없음."
+
+#: includes/admin/templates/settings/externals.php:110
+msgid ""
+"The international standard two letter country code (ie. US = United States, "
+"CA = Canada, etc.) for private (non-routable) IP addresses (ie. 10.0.0.1, "
+"192.158.1.1, 127.0.0.1, etc.)."
+msgstr ""
+"개인 (라우팅 불가능) IP 주소 (예 : 10.0.0.1, 192.158.1.1, 127.0.0.1 등)에 대한 국제 표준 2자리 국가 "
+"코드 (예 : US = 미국, CA = 캐나다 등)."
+
+#: includes/admin/templates/settings/visitor-ip.php:70
+msgid ""
+"The items below return the IP address that is different on each server. Is "
+"the best way that you choose."
+msgstr "아래 항목은 각 서버에서 다른 IP 주소를 반환합니다. 당신이 선택하는 가장 좋은 방법입니다."
+
+#: includes/admin/templates/optimization/resources.php:112
+msgid "The jQuery version you are running."
+msgstr "실행중인 jQuery 버전."
+
+#: includes/admin/templates/optimization/resources.php:25
+msgid "The memory limit a script is allowed to consume, set in php.ini."
+msgstr "스크립트가 사용할 수있는 메모리 제한은 php.ini에 설정되어 있습니다."
+
+#: includes/admin/templates/settings/maintenance.php:36
+msgid "The minimum value is 30 days."
+msgstr "최소값은 30일입니다."
+
+#: includes/api/v2/class-wp-statistics-api-meta-box.php:70
+msgid "The name of MetaBox is invalid on request."
+msgstr "MetaBox의 이름은 요청시 유효하지 않습니다."
+
+#: includes/admin/templates/settings/maintenance.php:36
+msgid "The number of days to keep statistics for."
+msgstr "통계를 보관할 일 수 입니다."
+
+#: includes/admin/templates/settings/maintenance.php:65
+msgid "The number of hits required to delete the visitor."
+msgstr "방문자를 삭제하는데 필요한 조회수 입니다."
+
+#: includes/admin/templates/pages/category.php:39
+msgid "The Number of Posts in Category:"
+msgstr "카테고리 게시물 수 :"
+
+#: includes/admin/templates/optimization/resources.php:129
+msgid ""
+"The PHP cURL Extension version you are running. cURL is required for the "
+"GeoIP code, if it is not installed GeoIP will be disabled."
+msgstr ""
+"실행중인 PHP cURL 확장 버전입니다. cURL은 GeoIP 코드에 필요하며, 설치되지 않은 경우 GeoIP가 비활성화됩니다."
+
+#: includes/admin/templates/optimization/resources.php:67
+msgid "The PHP version you are running."
+msgstr "실행중인 PHP 버전."
+
+#: includes/class-wp-statistics-shortcode.php:221
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:63
+msgid "The post/page ID to get page statistics on."
+msgstr "페이지 통계를 가져올 게시물 / 페이지 ID입니다."
+
+#: includes/class-wp-statistics-shortcode.php:199
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:59
+msgid "The search provider to get statistics on."
+msgstr "통계를 얻을 수있는 검색 공급자입니다."
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:48
+msgid "The statistics you want, see the next table for available options."
+msgstr "원하는 통계는 다음 표에서 사용 가능한 옵션을 참조하십시오."
+
+#: includes/class-wp-statistics-shortcode.php:189
+msgid ""
+"The time frame to get the statistic for, strtotime() (http://php."
+"net/manual/en/datetime.formats.php) will be used to calculate it. Use "
+"\"total\" to get all recorded dates."
+msgstr ""
+"통계를 얻기위한 시간 프레임 인 strtotime() (http://php.net/manual/en/datetime.formats.php)"
+"이 이를 계산하는 데 사용됩니다. 모든 기록 된 날짜를 얻으려면 \"총계\"를 사용하십시오."
+
+#: includes/admin/templates/optimization/resources.php:56
+msgid "The WP Statistics version you are running."
+msgstr "실행중인 WP 통계 버전."
+
+#: includes/admin/templates/settings/about.php:155
+#, php-format
+msgid ""
+"Then please open a new thread on the %sWordPress.org support forum%s and "
+"we'll respond as soon as possible."
+msgstr "그런 다음 %sWordPress.org 지원 포럼 %s에서 새 스레드를 열면 가능한 한 빨리 답변해 드리겠습니다."
+
+#: includes/admin/templates/plugins.php:4
+msgid "These extensions add functionality to your WP-Statistics."
+msgstr "이러한 확장은 WP 통계에 기능을 추가합니다."
+
+#: includes/admin/templates/optimization/purging.php:251
+msgid ""
+"This can be useful to clear up old data when your site has been hit by a bot."
+msgstr "이는 사이트가 봇에 의해 공격을 받았을 때 오래된 데이터를 정리하는데 유용 할 수 있습니다."
+
+#: includes/admin/templates/settings/wp-cli.php:14
+msgid "This feature enables you to get WP-Statistics reporting in the WP-CLI."
+msgstr "이 기능을 사용하면 WP-CLI에서 WP 통계 보고를 얻을 수 있습니다."
+
+#: includes/admin/templates/settings/general.php:108
+#, php-format
+msgid "This feature multiplies the number of each visitor. Currently %s."
+msgstr "이 기능은 각 방문자의 수를 곱합니다. 현재 %s."
+
+#: includes/admin/pages/class-wp-statistics-admin-page-settings.php:326
+msgid "This is the Honey Pot for WP Statistics to use, do not delete."
+msgstr "WP 통계용 Honey Pot입니다. 삭제하지 마세요."
+
+#: includes/admin/templates/settings/privacy.php:18
+msgid ""
+"This option anonymizes the user IP address for GDPR compliance. For example, "
+"888.888.888.888 > 888.888.888.000."
+msgstr ""
+"이 옵션은 GDPR 준수를 위해 사용자 IP 주소를 익명화합니다. 예 : 888.888.888.888> 888.888.888.000."
+
+#: includes/admin/templates/settings/externals.php:87
+msgid ""
+"This option will also download the database if the local filesize is less "
+"than 1k (which usually means the stub that comes with the plugin is still in "
+"place)."
+msgstr ""
+"이 옵션은 로컬 파일 크기가 1k 미만인 경우에도 데이터베이스를 다운로드합니다. (일반적으로 플러그인과 함께 제공되는 스텁이 여전히 "
+"제자리에 있음을 의미함)"
+
+#: includes/admin/templates/settings/overview-display.php:24
+msgid "This option will disable dashboard widgets."
+msgstr "이 옵션은 대시 보드 위젯을 비활성화합니다."
+
+#: includes/admin/templates/settings/overview-display.php:40
+msgid "This option will disable the map display."
+msgstr "이 옵션은 지도 표시를 비활성화합니다."
+
+#: includes/admin/templates/settings/exclusions.php:13
+msgid ""
+"This option will record all the excluded hits in a separate table with the "
+"reasons for excluding (but no other information)."
+msgstr "이 옵션은 제외 이유 (다른 정보는 없음)와 함께 제외된 모든 적중을 별도의 테이블에 기록합니다."
+
+#. Description of the plugin
+msgid ""
+"This plugin gives you the complete information on your website's visitors."
+msgstr "이 플러그인은 웹 사이트 방문자에 대한 완전한 정보를 제공합니다."
+
+#: includes/admin/meta-box/wp-statistics-meta-box-post.php:22
+msgid "This post is not yet published."
+msgstr "이 게시물은 아직 게시되지 않았습니다."
+
+#: includes/admin/templates/settings/about.php:20
+#, php-format
+msgid "This product includes GeoLite2 data created by %s."
+msgstr "이 제품에는 %s에서 생성한 GeoLite2 데이터가 포함되어 있습니다."
+
+#: includes/admin/templates/settings/maintenance.php:5
+msgid ""
+"This will permanently delete data from the database each day, are you sure "
+"you want to enable this option?"
+msgstr "매일 데이터베이스에서 데이터가 영구적으로 삭제됩니다. 이 옵션을 사용 하시겠습니까?"
+
+#: includes/admin/templates/optimization/purging.php:251
+msgid ""
+"This will remove the visitor and their hits to the site, however it will not "
+"remove individual page hits as that data is not recorded on a per use basis."
+msgstr ""
+"이렇게하면 방문자와 사이트에 대한 방문자의 조회가 제거되지만 해당 데이터가 사용 단위로 기록되지 않으므로 개별 페이지 조회는 제거되지 "
+"않습니다."
+
+#: includes/admin/templates/optimization/updates.php:4
+msgid ""
+"This will replace all IP addresses in the database with hash values and "
+"cannot be undo, are you sure?"
+msgstr "이렇게하면 데이터베이스의 모든 IP 주소가 해시 값으로 바뀌며 실행 취소 할 수 없습니다. 계속 하시겠습니까?"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:243
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:49
+msgid "Time"
+msgstr "시간"
+
+#: includes/admin/templates/settings/general.php:33
+#, php-format
+msgid ""
+"Time for checking out accurate online users on the site. Now: %s Seconds"
+msgstr "사이트에서 정확한 온라인 사용자를 확인하는 시간입니다. 지금 : %s초"
+
+#: includes/class-wp-statistics-shortcode.php:186
+#: includes/admin/templates/layout/date.range.php:31
+msgid "Time Frame"
+msgstr "시간 프레임"
+
+#: includes/admin/class-wp-statistics-admin-template.php:99
+#: includes/admin/pages/class-wp-statistics-admin-page-top-visitors-today.php:18
+msgid "Time request is not valid."
+msgstr "시간 요청이 유효하지 않습니다."
+
+#: includes/admin/class-wp-statistics-admin-assets.php:250
+#: includes/admin/templates/pages/pages.php:39
+msgid "Title"
+msgstr "표제"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:267
+#: includes/admin/templates/layout/date.range.php:54
+msgid "to"
+msgstr "to"
+
+#: includes/admin/templates/settings/general.php:238
+#, php-format
+msgid ""
+"To register WP-Statistics REST API endpoint ( %s ) , go to the <a "
+"href=\"%s\">Permalink page</a> and update the permalink by pressing Save "
+"Changes."
+msgstr ""
+"WP 통계 REST API 엔드 포인트 (%s)를 등록하려면 Permalink 페이지로 이동하고 Save Changes를 눌러 영구 "
+"링크를 업데이트합니다."
+
+#: includes/admin/class-wp-statistics-admin-assets.php:235
+#: includes/admin/class-wp-statistics-admin-assets.php:353
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:51
+msgid "Today"
+msgstr "오늘"
+
+#: includes/class-wp-statistics-admin-bar.php:58
+#: includes/class-wp-statistics-widget.php:51
+#: includes/class-wp-statistics-widget.php:269
+#: includes/admin/templates/settings/notifications.php:145
+msgid "Today's Visitors"
+msgstr "오늘의 방문자"
+
+#: includes/class-wp-statistics-meta-box.php:171
+msgid "Today's Visitors Map"
+msgstr "오늘의 방문자 지도"
+
+#: includes/class-wp-statistics-admin-bar.php:62
+#: includes/class-wp-statistics-widget.php:44
+#: includes/class-wp-statistics-widget.php:265
+#: includes/admin/templates/settings/notifications.php:147
+msgid "Today's Visits"
+msgstr "오늘의 방문"
+
+#: includes/admin/templates/pages/tag.php:6
+#: includes/admin/templates/pages/tag.php:23
+#: includes/admin/templates/pages/tag.php:70
+#: includes/admin/templates/pages/author.php:6
+#: includes/admin/templates/pages/author.php:23
+#: includes/admin/templates/pages/author.php:70
+#: includes/admin/templates/pages/category.php:6
+#: includes/admin/templates/pages/category.php:23
+#: includes/admin/templates/pages/category.php:70
+#: includes/admin/templates/pages/pages.php:6
+#: includes/admin/templates/pages/pages.php:24
+#: includes/admin/templates/pages/refer.url.php:19
+#, php-format
+msgid "Toggle panel: %s"
+msgstr "패널 전환 : %s"
+
+#: includes/class-wp-statistics-meta-box.php:91
+msgid "Top 10 Browsers"
+msgstr "상위 10개 브라우저"
+
+#: includes/class-wp-statistics-meta-box.php:107
+msgid "Top 10 Countries"
+msgstr "상위 10개 국가"
+
+#: includes/class-wp-statistics-meta-box.php:123
+msgid "Top 10 Pages"
+msgstr "상위 10개 페이지"
+
+#: includes/class-wp-statistics-meta-box.php:156
+msgid "Top 10 Visitors Today"
+msgstr "오늘 상위 10 방문자"
+
+#: includes/class-wp-statistics-meta-box.php:198
+#: includes/admin/templates/pages/pages.php:6
+#: includes/admin/templates/pages/pages.php:9
+msgid "Top 5 Pages Trends"
+msgstr "상위 5개 페이지 트렌드"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-top-pages-chart.php:68
+#, php-format
+msgid "Top 5 Pages Trends from %s to %s"
+msgstr "%s에서 %s까지의 상위 5개 페이지 트렌드"
+
+#: includes/admin/meta-box/wp-statistics-meta-box-top-pages-chart.php:66
+#, php-format
+msgid "Top 5 Pages Trends in the last %s days"
+msgstr "지난 %s일 동안의 상위 5개 페이지 트렌드"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-authors.php:79
+msgid "Top Author Sorted by Hits"
+msgstr "조회수를 기준으로 정렬된 상위 작성자"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-category.php:82
+msgid "Top Category Sorted by Hits"
+msgstr "조회수를 기준으로 정렬된 상위 카테고리"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-country.php:36
+msgid "Top Countries"
+msgstr "상위 국가"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-pages.php:63
+msgid "Top Pages"
+msgstr "상위 페이지"
+
+#: includes/class-wp-statistics-meta-box.php:99
+msgid "Top Platforms"
+msgstr "최고의 플랫폼"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-authors.php:90
+msgid "Top posts Sorted by Hits from the author"
+msgstr "작성자의 조회수를 기준으로 정렬된 인기 게시물"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-category.php:93
+msgid "Top posts Sorted by Hits in this category"
+msgstr "이 카테고리의 조회수를 기준으로 정렬된 인기 게시물"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-tags.php:94
+msgid "Top posts Sorted by Hits in this tag"
+msgstr "이 태그의 조회수를 기준으로 정렬된 인기 게시물"
+
+#: includes/class-wp-statistics-meta-box.php:131
+#: includes/admin/pages/class-wp-statistics-admin-page-refer.php:37
+msgid "Top Referring Sites"
+msgstr "상위 추천 사이트"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-tags.php:83
+msgid "Top Tag Sorted by Hits"
+msgstr "조회수를 기준으로 정렬 된 상위 태그"
+
+#: includes/class-wp-statistics-menus.php:271
+#: includes/admin/class-wp-statistics-admin-network.php:69
+#: includes/admin/pages/class-wp-statistics-admin-page-top-visitors-today.php:32
+msgid "Top Visitors Today"
+msgstr "오늘의 최고 방문자"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:240
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:56
+msgid "Total"
+msgstr "합계"
+
+#: includes/class-wp-statistics-widget.php:136
+#: includes/class-wp-statistics-widget.php:336
+msgid "Total Comments"
+msgstr "총 댓글"
+
+#: includes/class-wp-statistics-widget.php:107
+#: includes/class-wp-statistics-widget.php:301
+msgid "Total Page Views"
+msgstr "총 페이지 뷰"
+
+#: includes/class-wp-statistics-widget.php:129
+#: includes/class-wp-statistics-widget.php:332
+msgid "Total Pages"
+msgstr "총 페이지"
+
+#: includes/class-wp-statistics-widget.php:122
+#: includes/class-wp-statistics-widget.php:328
+msgid "Total Posts"
+msgstr "총 게시물"
+
+#: includes/class-wp-statistics-widget.php:143
+#: includes/class-wp-statistics-widget.php:340
+msgid "Total Spams"
+msgstr "총 스팸"
+
+#: includes/class-wp-statistics-widget.php:150
+#: includes/class-wp-statistics-widget.php:344
+msgid "Total Users"
+msgstr "총 사용자"
+
+#: includes/class-wp-statistics-widget.php:100
+#: includes/class-wp-statistics-widget.php:297
+#: includes/admin/templates/settings/notifications.php:153
+msgid "Total Visitors"
+msgstr "총 방문자"
+
+#: includes/class-wp-statistics-widget.php:93
+#: includes/class-wp-statistics-widget.php:293
+#: includes/admin/templates/settings/notifications.php:155
+msgid "Total Visits"
+msgstr "총 방문수"
+
+#: includes/admin/templates/settings/general.php:129
+msgid "Track All Pages:"
+msgstr "모든 페이지 추적 :"
+
+#: includes/admin/templates/settings/general.php:135
+msgid ""
+"Track all WordPress pages, contains Category, Post Tags, Author, Custom "
+"Taxonomy, etc."
+msgstr "모든 워드프레스 페이지를 추적하고 카테고리, 게시물 태그, 작성자, 사용자 지정 분류 등을 포함합니다."
+
+#: includes/admin/templates/settings/about.php:79
+msgid "Translations"
+msgstr "번역"
+
+#: includes/admin/templates/settings/exclusions.php:122
+msgid ""
+"Treat any visitor with corrupt browser info (missing IP address or empty "
+"user agent string) as a robot."
+msgstr "손상된 브라우저 정보 (IP 주소 누락 또는 빈 사용자 에이전트 문자열)가 있는 방문자를 로봇으로 취급하십시오."
+
+#: includes/admin/templates/settings/exclusions.php:118
+msgid "Treat Corrupt Browser Info as a Bot:"
+msgstr "손상된 브라우저 정보를 봇으로 취급 :"
+
+#: includes/admin/templates/settings/exclusions.php:77
+msgid ""
+"Treat visitors with more than this number of visits per day as robots. 0 = "
+"disabled."
+msgstr "하루에 이 수보다 많은 방문자를 로봇으로 취급하십시오. 0 = 비활성화 됨."
+
+#: includes/class-wp-statistics-geoip.php:399
+msgid ""
+"Unable to load the GeoIP database, make sure you have downloaded it in the "
+"settings page."
+msgstr "GeoIP 데이터베이스를 로드 할 수 없습니다. 설정 페이지에서 다운로드했는지 확인하십시오."
+
+#: includes/class-wp-statistics-user-agent.php:71
+#: includes/class-wp-statistics-geoip.php:484
+#: includes/admin/class-wp-statistics-admin-template.php:257
+msgid "Unknown"
+msgstr "알 수 없음"
+
+#: includes/admin/templates/settings/access-level.php:76
+#: includes/admin/templates/settings/exclusions.php:196
+#: includes/admin/templates/settings/overview-display.php:49
+#: includes/admin/templates/settings/maintenance.php:72
+#: includes/admin/templates/settings/wp-cli.php:58
+#: includes/admin/templates/settings/notifications.php:181
+#: includes/admin/templates/settings/general.php:333
+#: includes/admin/templates/settings/privacy.php:47
+#: includes/admin/templates/settings/externals.php:222
+#: includes/admin/templates/settings/visitor-ip.php:152
+#: includes/admin/templates/settings/reset.php:22
+msgid "Update"
+msgstr "최신 정보"
+
+#: includes/admin/templates/settings/externals.php:26
+#: includes/admin/templates/settings/externals.php:45
+msgid "Update Database"
+msgstr "데이터베이스 업데이트"
+
+#: includes/admin/templates/settings/externals.php:172
+msgid "Update Matomo Referrer Spam Blacklist Info:"
+msgstr "Matomo Referrer Spam Blacklist 정보 업데이트 :"
+
+#: includes/admin/templates/optimization/updates.php:26
+#: includes/admin/templates/optimization/updates.php:42
+#: includes/admin/templates/optimization/historical.php:46
+msgid "Update Now!"
+msgstr ""
+"지금 업데이트하세요!\n"
+
+#: includes/admin/templates/settings/notifications.php:28
+msgid "Update Reports"
+msgstr "보고서 업데이트"
+
+#: includes/class-wp-statistics-geoip.php:430
+#, php-format
+msgid "Updated %s GeoIP records in the visitors database."
+msgstr "방문자 데이터베이스에서 %s GeoIP 레코드를 업데이트했습니다."
+
+#: includes/admin/pages/class-wp-statistics-admin-page-optimization.php:89
+msgid "Updated Historical Values."
+msgstr "업데이트 된 과거 값."
+
+#: includes/admin/pages/class-wp-statistics-admin-page-settings.php:525
+msgid "Updated Referrer Spam Blacklist."
+msgstr "리퍼러 스팸 블랙리스트가 업데이트되었습니다."
+
+#: includes/admin/templates/optimization.php:10
+msgid "Updates"
+msgstr "업데이트"
+
+#: includes/admin/templates/optimization/updates.php:27
+msgid ""
+"Updates any unknown location data in the database, this may take a while"
+msgstr "데이터베이스에서 알 수없는 위치 데이터를 업데이트합니다. 다소 시간이 걸릴 수 있습니다."
+
+#: includes/class-wp-statistics-install.php:455
+msgid "Upgrade Database"
+msgstr "데이터베이스 업그레이드"
+
+#: includes/admin/templates/settings/wp-cli.php:29
+#: includes/admin/templates/settings/wp-cli.php:40
+#: includes/admin/templates/settings/wp-cli.php:51
+msgid "Usage: "
+msgstr "용법 :"
+
+#: includes/admin/templates/settings/exclusions.php:134
+#: includes/admin/templates/settings/exclusions.php:142
+msgid "Use \"000\" (three zeros) to exclude unknown countries."
+msgstr "알 수없는 국가를 제외하려면 \"000\"(0 세 개)을 사용하십시오."
+
+#: includes/admin/templates/settings/externals.php:110
+msgid "Use \"000\" (three zeros) to use \"Unknown\" as the country code."
+msgstr "국가 코드로 \"알 수 없음\"을 사용하려면 \"000\"(0 세 개)을 사용하십시오."
+
+#: includes/admin/templates/settings/visitor-ip.php:86
+#, php-format
+msgid "Use %1$s"
+msgstr "%1$s 사용"
+
+#: includes/admin/templates/settings/general.php:231
+msgid "Use Cache Plugin:"
+msgstr "캐시 플러그인 사용 :"
+
+#: includes/admin/templates/settings/visitor-ip.php:118
+msgid "Use Custom Header"
+msgstr "사용자 정의 헤더 사용"
+
+#: includes/admin/templates/settings/exclusions.php:99
+msgid "Use Honey Pot:"
+msgstr "Honey Pot 사용 :"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:279
+#: includes/admin/templates/pages/top-visitors.php:28
+#: includes/admin/templates/pages/online.php:22
+#: includes/admin/templates/pages/visitors.php:40
+msgid "User"
+msgstr "사용자"
+
+#: includes/admin/templates/optimization/resources.php:225
+msgid "User Agent"
+msgstr "사용자 에이전트"
+
+#: includes/class-wp-statistics-shortcode.php:180
+#: includes/class-wp-statistics-widget.php:171
+#: includes/class-wp-statistics-widget.php:356
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:45
+msgid "User Average"
+msgstr "사용자 평균"
+
+#: includes/class-wp-statistics-shortcode.php:177
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:42
+msgid "User Count"
+msgstr "사용자 수"
+
+#: includes/admin/templates/settings/wp-cli.php:34
+msgid "User Online:"
+msgstr "사용자 온라인 :"
+
+#: includes/class-wp-statistics-exclusion.php:30
+msgid "User Role"
+msgstr "사용자 역할"
+
+#: includes/admin/templates/settings/access-level.php:8
+msgid "User Roles"
+msgstr "사용자 역할"
+
+#: includes/admin/templates/settings/general.php:93
+msgid "User Visits Column"
+msgstr "사용자 방문 열"
+
+#: includes/admin/templates/settings/visitor-ip.php:19
+msgid "Value"
+msgstr "값"
+
+#. Author of the plugin
+msgid "VeronaLabs"
+msgstr "VeronaLabs"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:261
+#: includes/admin/templates/optimization/resources.php:250
+msgid "Version"
+msgstr "버전"
+
+#: includes/class-wp-statistics-user-agent.php:33
+msgctxt "Version"
+msgid "Unknown"
+msgstr "알 수 없음"
+
+#: includes/admin/templates/optimization/resources.php:46
+msgid "Version Info"
+msgstr "버전 정보"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:273
+msgid "Version List"
+msgstr "버전 목록"
+
+#: includes/admin/templates/add-ons.php:30
+msgid "Version:"
+msgstr "버전 :"
+
+#: includes/class-wp-statistics-admin-bar.php:74
+msgid "View Stats"
+msgstr "통계 보기"
+
+#: includes/admin/templates/settings/about.php:48
+msgid "Visit Us Online"
+msgstr "온라인 방문"
+
+#: includes/class-wp-statistics-install.php:316
+msgid "Visit WordPress.org page"
+msgstr "WordPress.org 페이지 방문"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:248
+msgid "Visitor Count"
+msgstr "방문자 수"
+
+#: includes/api/v2/class-wp-statistics-api-hit.php:104
+msgid "Visitor Hit was recorded successfully."
+msgstr "방문자 조회가 성공적으로 기록되었습니다."
+
+#: includes/admin/templates/settings.php:10
+msgid "Visitor IP"
+msgstr "방문자 IP"
+
+#: includes/admin/class-wp-statistics-admin-notices.php:115
+msgid "visitor tracking"
+msgstr "방문자 추적"
+
+#: includes/class-wp-statistics-menus.php:194
+#: includes/class-wp-statistics-shortcode.php:170
+#: includes/admin/class-wp-statistics-admin-assets.php:233
+#: includes/admin/class-wp-statistics-admin-network.php:66
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:35
+#: includes/admin/pages/class-wp-statistics-admin-page-visitors.php:36
+#: includes/admin/templates/optimization/historical.php:26
+#: includes/admin/templates/settings/general.php:66
+#: includes/admin/templates/pages/hits.php:25
+msgid "Visitors"
+msgstr "방문자"
+
+#: includes/admin/templates/settings/general.php:82
+msgid "Visitors Logs:"
+msgstr "방문자 로그 :"
+
+#: includes/admin/templates/settings/wp-cli.php:45
+#: includes/admin/templates/settings/general.php:71
+msgid "Visitors:"
+msgstr "방문자 :"
+
+#: includes/class-wp-statistics-shortcode.php:169
+#: includes/admin/class-wp-statistics-admin-assets.php:234
+#: includes/admin/class-wp-statistics-admin-user.php:33
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:34
+#: includes/admin/templates/optimization/historical.php:36
+#: includes/admin/templates/settings/general.php:50
+#: includes/admin/templates/pages/pages.php:41
+#: includes/admin/templates/pages/hits.php:23
+msgid "Visits"
+msgstr "방문"
+
+#: includes/admin/templates/pages/tag.php:48
+#: includes/admin/templates/pages/author.php:48
+msgid "Visits Total:"
+msgstr "총 방문수 :"
+
+#: includes/admin/templates/settings/general.php:55
+msgid "Visits:"
+msgstr "방문수 :"
+
+#: includes/admin/templates/settings/about.php:99
+msgid ""
+"We're sorry you're having problem with WP Statistics and we're happy to help "
+"out. Here are a few things to do before contacting us:"
+msgstr ""
+"WP 통계 문제로 불편을 끼쳐드려 죄송하며, 기꺼이 도와드리겠습니다. 당사에 연락하기 전에해야 할 몇 가지 사항은 다음과 같습니다."
+
+#: includes/admin/templates/meta-box/about.php:7
+msgid "Website"
+msgstr "웹 사이트"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:263
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:53
+msgid "Week"
+msgstr "주"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:253
+#: includes/admin/templates/pages/words.php:25
+msgid "Word"
+msgstr "낱말"
+
+#: includes/admin/templates/settings/notifications.php:126
+msgid "WordPress SMS"
+msgstr "워드프레스 SMS"
+
+#. Name of the plugin
+msgid "WP Statistics"
+msgstr "WP 통계"
+
+#: includes/admin/class-wp-statistics-admin-post.php:137
+msgid "WP Statistics - Hits"
+msgstr "WP 통계 - 조회수"
+
+#: includes/class-wp-statistics-meta-box.php:186
+#, php-format
+msgid "WP Statistics - Version %s"
+msgstr "WP 통계 - 버전 %s"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-settings.php:325
+msgid "WP Statistics Honey Pot Page"
+msgstr "WP 통계 Honey Pot 페이지"
+
+#: includes/admin/templates/settings/reset.php:4
+msgid "WP Statistics Reset Options"
+msgstr "WP 통계 재설정 옵션"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:31
+msgid "WP Statistics Shortcodes"
+msgstr "WP 통계 단축 코드"
+
+#: includes/admin/templates/settings/about.php:84
+#, php-format
+msgid ""
+"WP Statistics supports internationalization. Please visit %sWP Statistics "
+"translations page%s to help translation."
+msgstr "WP 통계는 국제화를 지원합니다. 번역에 도움을 받으려면 %sWP 통계 번역 페이지%s를 방문하십시오."
+
+#: includes/admin/templates/settings/about.php:13
+#, php-format
+msgid "WP Statistics V%s"
+msgstr "WP 통계 V%s"
+
+#: includes/admin/templates/optimization/resources.php:51
+msgid "WP Statistics Version"
+msgstr "WP 통계 버전"
+
+#: includes/admin/templates/settings/wp-cli.php:5
+msgid "WP-CLI"
+msgstr "WP-CLI"
+
+#: includes/class-wp-statistics-install.php:452
+msgid "WP-Statistics database requires upgrade."
+msgstr "WP 통계 데이터베이스를 업그레이드해야합니다."
+
+#: includes/admin/templates/settings/general.php:270
+msgid ""
+"WP-Statistics displays an alert if any of the core features are disabled. To "
+"hide these notices, enable this option."
+msgstr "WP 통계는 핵심 기능이 비활성화된 경우 경고를 표시합니다. 이러한 알림을 숨기려면이 옵션을 활성화하십시오."
+
+#: includes/api/v2/class-wp-statistics-api-hit.php:133
+msgid ""
+"WP-Statistics has no problem establishing a connection to the WordPress REST "
+"API."
+msgstr "WP 통계는 워드프레스 REST API에 대한 연결을 설정하는데 문제가 없습니다."
+
+#: includes/admin/class-wp-statistics-admin-notices.php:43
+msgid "WP_CACHE is enable in your WordPress"
+msgstr "WP_CACHE는 워드프레스에서 활성화됩니다."
+
+#: includes/admin/templates/settings/exclusions.php:111
+msgid "Write a post ID for the Honey Pot page.Create a new Honey Pot page"
+msgstr "Honey Pot 페이지에 대한 게시물 ID를 작성하고 새 Honey Pot 페이지를 만듭니다."
+
+#: includes/class-wp-statistics-search-engine.php:97
+msgid "Yahoo!"
+msgstr "야후!"
+
+#: includes/class-wp-statistics-search-engine.php:107
+msgid "Yandex"
+msgstr "얀덱스"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:265
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:55
+msgid "Year"
+msgstr "년"
+
+#: includes/admin/templates/optimization/resources.php:78
+#: includes/admin/templates/optimization/resources.php:94
+#: includes/admin/templates/settings/general.php:236
+#: includes/admin/templates/settings/general.php:256
+msgid "Yes"
+msgstr "네"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:236
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:52
+msgid "Yesterday"
+msgstr "어제"
+
+#: includes/class-wp-statistics-admin-bar.php:66
+#: includes/class-wp-statistics-widget.php:65
+#: includes/class-wp-statistics-widget.php:277
+#: includes/admin/templates/settings/notifications.php:149
+msgid "Yesterday's Visitors"
+msgstr "어제의 방문자"
+
+#: includes/class-wp-statistics-admin-bar.php:70
+#: includes/class-wp-statistics-widget.php:58
+#: includes/class-wp-statistics-widget.php:273
+#: includes/admin/templates/settings/notifications.php:151
+msgid "Yesterday's Visits"
+msgstr "어제 방문"
+
+#: includes/admin/class-wp-statistics-admin-notices.php:43
+#, php-format
+msgid "You are using %s plugin in WordPress"
+msgstr "워드프레스에서 %s 플러그인을 사용하고 있습니다."
+
+#: includes/admin/templates/settings/exclusions.php:154
+msgid ""
+"You can add a list of fully qualified host names (i.e. server.example.com, "
+"one per line) to exclude from statistics collection."
+msgstr ""
+"통계 수집에서 제외할 정규화된 호스트 이름 목록 (예 : server.example.com, 한 줄에 하나씩)을 추가 할 수 있습니다."
+
+#: includes/admin/templates/settings/exclusions.php:85
+msgid ""
+"You can add a list of IP addresses and subnet masks (one per line) to "
+"exclude from the statistics collection."
+msgstr "통계 수집에서 제외할 IP 주소 및 서브넷 마스크 목록 (한 줄에 하나씩)을 추가 할 수 있습니다."
+
+#: includes/admin/templates/settings/exclusions.php:188
+msgid ""
+"You can add a list of local URLs (i.e.  /wordpress/about, one per line) to "
+"exclude from statistics collection."
+msgstr "통계 수집에서 제외할 로컬 URL 목록 (예 : /워드프레스/어바웃, 한 줄에 하나씩)을 추가 할 수 있습니다."
+
+#: includes/api/v2/class-wp-statistics-api-meta-box.php:60
+msgid ""
+"You do not have enough access privileges for checking out information. "
+"Please check the accessibility of the information display in the settings "
+"section of WP-Statistics."
+msgstr "정보를 확인할 수있는 충분한 액세스 권한이 없습니다. WP 통계의 설정 섹션에서 정보 표시의 접근성을 확인하십시오."
+
+#: includes/class-wp-statistics.php:253
+msgid "Your installed PHP Version is: "
+msgstr "설치된 PHP 버전은 다음과 같습니다."
+
+#: includes/admin/templates/settings/visitor-ip.php:42
+msgid "Your real IP detected by ipify.org service:"
+msgstr "ipify.org 서비스에서 감지한 실제 IP :"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-pages.php:32
+msgid "Your request is not valid."
+msgstr "귀하의 요청이 유효하지 않습니다."
+
+#: includes/admin/templates/settings/visitor-ip.php:96
+#: includes/admin/templates/settings/visitor-ip.php:135
+msgid "Your value required to sanitize user IP"
+msgstr "사용자 IP를 삭제하는데 필요한 가치"
+
+#: includes/admin/class-wp-statistics-admin-notices.php:128
+msgid ""
+"Your WP-Statistics's Add-On(s) are not compatible with the new version of WP-"
+"Statistics and disabled automatically, please try to update them."
+msgstr "WP 통계의 애드온이 WP 통계의 새 버전과 호환되지 않으며, 자동으로 비활성화됩니다. 업데이트를 시도하십시오."
+
+#: includes/admin/templates/optimization/resources.php:138
+msgid "Zlib gzopen()"
+msgstr "Zlib gzopen()"

@@ -1,0 +1,836 @@
+# Copyright (C) 2020 LearnDash
+# This file is distributed under the same license as the LearnDash ProPanel plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnDash ProPanel 2.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/learndash-"
+"propanel\n"
+"Last-Translator: 에듀베이직\n"
+"Language-Team: 한국어\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-10-15T11:50:49+00:00\n"
+"PO-Revision-Date: 2021-03-16 04:13+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: ld_propanel\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.5.2; wp-5.7"
+
+#: includes/class-ld-propanel.php:342
+msgid " to "
+msgstr "...에"
+
+#: includes/class-ld-propanel-progress-chart.php:108
+msgid "< 100%"
+msgstr "< 100%"
+
+#: includes/class-ld-propanel-progress-chart.php:84
+msgid "< 20%"
+msgstr "< 20%"
+
+#: includes/class-ld-propanel-progress-chart.php:90
+msgid "< 40%"
+msgstr "< 40%"
+
+#: includes/class-ld-propanel-progress-chart.php:96
+msgid "< 60%"
+msgstr "< 60%"
+
+#: includes/class-ld-propanel-progress-chart.php:102
+msgid "< 80%"
+msgstr "< 80%"
+
+#: includes/gutenberg/blocks/ld-propanel-filters/index.js:85
+msgid "[ld_propanel widget=\"filtering\"] shortcode output shown here"
+msgstr "[ld_propanel widget=\"filtering\"] 여기에 표시된 단축 코드 출력"
+
+#. translators: activity widget pagnation next page link
+#: templates/ld-propanel-activity-pagination-shortcode.php:18
+msgctxt "activity widget pagnation next page link"
+msgid "Next &raquo;"
+msgstr "다음 &raquo;"
+
+#. translators: activity widget pagnation previous page link
+#: templates/ld-propanel-activity-pagination-shortcode.php:11
+msgctxt "activity widget pagnation previous page link"
+msgid "&laquo; Previous"
+msgstr "&laquo; 이전"
+
+#. translators: All Courses
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course.php:106
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course.php:109
+msgctxt "All Courses"
+msgid "All %s"
+msgstr "모든 %s"
+
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:111
+msgid "All Groups"
+msgstr "모든 그룹"
+
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user.php:165
+msgid "All Users"
+msgstr "모든 사용자들"
+
+#: templates/ld-propanel-overview.php:87
+msgid "Assignments Pending"
+msgstr "보류중인 과제"
+
+#. translators: Chart orientation
+#: includes/class-ld-tinymce-courseinfo.php:116
+msgctxt "Chart orientation"
+msgid "Side by Side"
+msgstr "나란히"
+
+#. translators: Chart orientation
+#: includes/class-ld-tinymce-courseinfo.php:114
+msgctxt "Chart orientation"
+msgid "Stacked (default)"
+msgstr "스택 (기본값)"
+
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course.php:257
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course.php:264
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:273
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:282
+msgid "Checkbox"
+msgstr "체크 박스"
+
+#: includes/class-ld-propanel.php:344
+msgid "Click to toggle"
+msgstr "토글하려면 클릭"
+
+#: templates/reporting-filters/status/ld-propanel-reporting-filter-status.php:48
+msgid "Completed"
+msgstr "완료"
+
+#: templates/ld-propanel-activity-rows.php:25
+msgid "Completed Date"
+msgstr "완료 날짜"
+
+#: templates/ld-propanel-activity-rows.php:23
+msgid "Completed Date (Duration)"
+msgstr "완료일 (기간)"
+
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course.php:268
+msgid "Completed On"
+msgstr "완료 날짜"
+
+#. translators: Course.
+#: templates/ld-propanel-activity-report-header.php:10
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:275
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:286
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:298
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user.php:358
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user.php:368
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user.php:377
+msgctxt "Course"
+msgid "%s"
+msgstr "%s"
+
+#. translators: Course
+#: templates/ld-propanel-activity-rows.php:130
+#: templates/ld-propanel-activity-rows.php:234
+msgctxt "Course"
+msgid "%s:"
+msgstr "%s :"
+
+#. translators: Course Progress
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:293
+msgctxt "Course completion data"
+msgid "Completed On"
+msgstr "완료 날짜"
+
+#. translators: Course completion date
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user.php:372
+msgctxt "Course completion date"
+msgid "Completed On"
+msgstr "완료 날짜"
+
+#. translators: Course ID.
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:284
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user.php:366
+msgctxt "Course ID"
+msgid "%s ID"
+msgstr "%s ID"
+
+#. translators: Course ID
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user-row.php:27
+msgctxt "Course ID"
+msgid "%s ID:"
+msgstr "%s ID :"
+
+#. translators: Course Progress
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:277
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:291
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:300
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user.php:360
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user.php:370
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user.php:379
+msgctxt "Course Progress"
+msgid "Progress"
+msgstr "진행"
+
+#. translators: Course status - All Statuses
+#: includes/class-ld-tinymce-courseinfo.php:94
+#: templates/reporting-filters/status/ld-propanel-reporting-filter-status.php:31
+msgctxt "Course status - All Statuses"
+msgid "All Statuses"
+msgstr "모든 상태"
+
+#. translators: Course status - Completed
+#: includes/class-ld-propanel-progress-chart.php:51
+#: includes/class-ld-tinymce-courseinfo.php:100
+msgctxt "Course status - Completed"
+msgid "Completed"
+msgstr "완료"
+
+#. translators: Course status - In Progress
+#: includes/class-ld-propanel-progress-chart.php:44
+#: includes/class-ld-tinymce-courseinfo.php:98
+msgctxt "Course status - In Progress"
+msgid "In Progress"
+msgstr "진행 중"
+
+#. translators: Course status - Not Started
+#: includes/class-ld-propanel-progress-chart.php:37
+#: includes/class-ld-tinymce-courseinfo.php:96
+msgctxt "Course status - Not Started"
+msgid "Not Started"
+msgstr "시작되지 않음"
+
+#. translators: Course
+#: templates/ld-propanel-activity-rows.php:75
+#: templates/ld-propanel-activity-rows.php:305
+#: templates/ld-propanel-activity-rows.php:344
+msgctxt "Course:"
+msgid "%s:"
+msgstr "%s :"
+
+#: includes/class-ld-propanel-activity.php:239
+msgid "course_last_step_id"
+msgstr "course_last_step_id"
+
+#: includes/class-ld-propanel-activity.php:255
+msgid "course_last_step_title"
+msgstr "course_last_step_title"
+
+#: includes/class-ld-propanel-activity.php:247
+msgid "course_last_step_type"
+msgstr "course_last_step_type"
+
+#: includes/class-ld-propanel-activity.php:231
+msgid "course_total_time_on"
+msgstr "course_total_time_on"
+
+#. translators: Courses.
+#: templates/ld-propanel-overview.php:58
+msgctxt "Courses"
+msgid "%s"
+msgstr "%s"
+
+#: templates/ld-propanel-filtering.php:25
+#: templates/_ld-propanel-reporting.php:25
+msgid "Dashboard"
+msgstr "계기반"
+
+#: includes/class-ld-tinymce-courseinfo.php:109
+msgid "Display Chart"
+msgstr "차트 표시"
+
+#: includes/class-ld-tinymce-courseinfo.php:110
+msgid "Display Chart Orientation"
+msgstr "차트 방향 표시"
+
+#: templates/ld-propanel-reporting-download-button.php:5
+msgid "Download"
+msgstr "다운로드"
+
+#. Description of the plugin
+msgid "Easily manage and view your LearnDash LMS activity."
+msgstr "런대쉬 LMS 활동을 쉽게 관리하고 볼 수 있습니다."
+
+#: templates/ld-propanel-filtering.php:23
+#: templates/_ld-propanel-reporting.php:23
+msgid "Email"
+msgstr "이메일"
+
+#: wp_autoupdate_propanel.php:307
+msgid "Email:"
+msgstr "이메일 :"
+
+#: templates/ld-propanel-filtering-filters.php:18
+msgid "End Date"
+msgstr "종료일"
+
+#: templates/ld-propanel-overview.php:98
+msgid "Essays Pending"
+msgstr "보류 중인 에세이 "
+
+#. translators: Export Course Data
+#: templates/ld-propanel-activity-report-header.php:8
+#: templates/ld-propanel-reporting-download-button.php:3
+msgctxt "Export Course Data"
+msgid "Export %s Data"
+msgstr "%s 데이터 내보내기"
+
+#. translators: Export Quiz Data
+#: templates/ld-propanel-activity-report-header.php:13
+msgctxt "Export Quiz Data"
+msgid "Export %s Data"
+msgstr "%s 데이터 내보내기"
+
+#: templates/ld-propanel-activity-rows.php:92
+msgid "Failed"
+msgstr "실패한"
+
+#: templates/ld-propanel-filtering-filters.php:39
+msgid "Filter"
+msgstr "필터"
+
+#: templates/ld-propanel-filtering-filters.php:8
+msgid "Filter By:"
+msgstr "필터링 기준 :"
+
+#: includes/class-ld-tinymce-courseinfo.php:45
+msgid "Filter Groups"
+msgstr "필터 그룹"
+
+#: includes/class-ld-tinymce-courseinfo.php:71
+msgid "Filter Users"
+msgstr "사용자 필터링"
+
+#: includes/class-ld-tinymce-courseinfo.php:46
+msgid "Filter Widget by Group ID"
+msgstr "그룹 ID로 위젯 필터링"
+
+#: includes/class-ld-tinymce-courseinfo.php:72
+msgid "Filter Widget by User ID"
+msgstr "사용자 ID로 위젯 필터링"
+
+#: templates/ld-propanel-filtering.php:20
+#: templates/_ld-propanel-reporting.php:20
+msgid "Filters"
+msgstr "필터"
+
+#: templates/ld-propanel-activity-pagination.php:21
+#: templates/ld-propanel-reporting-pager.php:1
+msgid "First Page"
+msgstr "첫 페이지"
+
+#: templates/ld-propanel-filtering.php:24
+#: templates/_ld-propanel-reporting.php:24
+msgid "Full Page"
+msgstr "전체 페이지"
+
+#. translators: Gained Course Access
+#: templates/ld-propanel-activity-rows.php:184
+msgctxt "Gained Course Access"
+msgid "Gained %s Access:"
+msgstr "%s 액세스 획득 :"
+
+#: includes/class-ld-propanel.php:338
+msgid "Hour"
+msgstr "시"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.learndash.com"
+msgstr "http://www.learndash.com"
+
+#: templates/reporting-filters/status/ld-propanel-reporting-filter-status.php:44
+msgid "In Progress"
+msgstr "진행 중"
+
+#: templates/ld-propanel-progress-chart.php:18
+msgid "In Progress Breakdown"
+msgstr "진행 중 분석"
+
+#: templates/ld-propanel-activity-pagination.php:25
+#: templates/ld-propanel-reporting-pager.php:1
+msgid "Last Page"
+msgstr "마지막 페이지"
+
+#: includes/class-ld-propanel-activity.php:263
+msgid "last_login_date"
+msgstr "last_login_date"
+
+#. Author of the plugin
+msgid "LearnDash"
+msgstr "런대쉬"
+
+#: includes/class-ld-propanel.php:158
+msgid ""
+"LearnDash is required to be activated before LearnDash ProPanel can work "
+"properly."
+msgstr "런대쉬 프로패널이 제대로 작동하려면 런대쉬를 활성화해야합니다."
+
+#. Plugin Name of the plugin
+#: includes/class-ld-translations-propanel.php:17
+#: templates/ld-propanel-full-page.php:20
+msgid "LearnDash ProPanel"
+msgstr "런대쉬 프로패널"
+
+#: templates/ld-propanel-full-admin.php:7
+msgid "LearnDash ProPanel Reporting"
+msgstr "런대쉬 프로패널 보고"
+
+#: learndash_propanel.php:81
+msgid "LearnDash ProPanel requires the following plugin(s) be active:"
+msgstr "런대쉬 프로패널을 사용하려면 다음 플러그인이 활성화되어 있어야합니다."
+
+#. translators: Lesson
+#: templates/ld-propanel-activity-rows.php:218
+msgctxt "Lesson:"
+msgid "%s:"
+msgstr "%s :"
+
+#: wp_autoupdate_propanel.php:309
+msgid "License Key:"
+msgstr "라이센스 키 :"
+
+#: wp_autoupdate_propanel.php:305
+msgid "License Settings"
+msgstr "라이선스 설정"
+
+#: includes/class-ld-propanel.php:339
+msgid "Minute"
+msgstr "분"
+
+#: includes/class-ld-propanel.php:340 includes/class-ld-propanel.php:341
+msgid "Month"
+msgstr "월"
+
+#: templates/ld-propanel-activity-pagination.php:24
+#: templates/ld-propanel-reporting-pager.php:1
+msgid "Next Page"
+msgstr "다음 페이지"
+
+#: templates/ld-propanel-progress-chart.php:12
+msgid "No All-Progress items found"
+msgstr "모든 과정 항목이 없습니다."
+
+#: templates/ld-propanel-progress-chart.php:20
+msgid "No In-Progress items found"
+msgstr "진행중인 항목이 없습니다."
+
+#: templates/ld-propanel-no-results.php:8
+#: templates/ld-propanel-reporting-no-results.php:7
+msgid "No Results Found."
+msgstr "검색 결과가 없습니다."
+
+#: templates/ld-propanel-activity-rows.php:358
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course-row.php:47
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group-row.php:71
+#: templates/reporting-filters/status/ld-propanel-reporting-filter-status.php:40
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user-row.php:40
+msgid "Not Started"
+msgstr "시작되지 않음"
+
+#. translators: Number of completed course steps.
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course-row.php:42
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group-row.php:63
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user-row.php:36
+msgctxt "Number of completed course steps"
+msgid "%1$d of %2$d steps completed"
+msgstr "%1$d of %2$d 단계 완료"
+
+#: templates/ld-propanel-activity-pagination.php:23
+#: templates/ld-propanel-reporting-pager.php:1
+msgid "page"
+msgstr "페이지"
+
+#. translators: Pagination for Widget output
+#: includes/class-ld-tinymce-courseinfo.php:125
+msgctxt "Pagination for Widget output"
+msgid "Per Page"
+msgstr "페이지 당 :"
+
+#: templates/ld-propanel-activity-rows.php:92
+msgid "Passed"
+msgstr "합격"
+
+#: templates/ld-propanel-activity-rows.php:90
+msgid "Pending"
+msgstr "보류 중"
+
+#: templates/ld-propanel-filtering-filters.php:24
+msgid "Per Page:"
+msgstr "페이지 당 :"
+
+#. translators: placeholder: count users.
+#: includes/class-ld-propanel-reporting.php:286
+msgctxt "placeholder: count users."
+msgid "Email sent to %d destinations"
+msgstr "%d 대상으로 이메일을 보냈습니다."
+
+#. translators: placeholder: Course.
+#: includes/class-ld-tinymce-courseinfo.php:56
+msgctxt "placeholder: Course"
+msgid "Filter %s"
+msgstr "필터 %s"
+
+#. translators: placeholder: Course.
+#: includes/class-ld-tinymce-courseinfo.php:82
+msgctxt "placeholder: Course"
+msgid "Filter %s Status"
+msgstr "%s 상태 필터링"
+
+#. translators: placeholder: Course.
+#: includes/class-ld-tinymce-courseinfo.php:61
+msgctxt "placeholder: Course"
+msgid "Filter Widget by %s ID"
+msgstr "%s ID로 위젯 필터링"
+
+#. translators: placeholder: Course.
+#: includes/class-ld-tinymce-courseinfo.php:87
+msgctxt "placeholder: Course"
+msgid "Filter Widget by %s Status"
+msgstr "%s 상태로 위젯 필터링"
+
+#. translators: placeholder: Course ID.
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group-row.php:35
+msgctxt "placeholder: Course ID"
+msgid "%s ID:"
+msgstr "%s ID :"
+
+#. translators: placeholder: email count.
+#: includes/class-ld-propanel-filtering.php:295
+msgctxt "placeholder: email count"
+msgid "Email sent to %d destinations"
+msgstr "%d 대상으로 이메일을 보냈습니다."
+
+#. translators: placeholder: error message
+#: includes/class-ld-propanel-reporting.php:301
+msgctxt "placeholder: error message"
+msgid ""
+"We could not send the email successfully. Please try again or check with "
+"your hosting provider.\n"
+"Error: %s"
+msgstr ""
+"이메일을 성공적으로 보낼 수 없습니다. 다시 시도하거나 호스팅 제공 업체에 확인하십시오.\n"
+"오류 : %s"
+
+#. translators: placeholder: error messages
+#: includes/class-ld-propanel-filtering.php:310
+msgctxt "placeholder: error messages"
+msgid ""
+"We could not send the email successfully. Please try again or check with "
+"your hosting provider.\n"
+"Error: %s"
+msgstr ""
+"이메일을 성공적으로 보낼 수 없습니다. 다시 시도하거나 호스팅 제공 업체에 확인하십시오.\n"
+"오류 : %s"
+
+#. translators: placeholder: Quiz.
+#: includes/class-ld-propanel-activity.php:702
+msgctxt "placeholder: Quiz"
+msgid "View %s Statistics"
+msgstr "%s 통계보기"
+
+#. translators: placeholder: Title of current post
+#: templates/ld-propanel-activity-rows.php:63
+#: templates/ld-propanel-activity-rows.php:79
+#: templates/ld-propanel-activity-rows.php:135
+#: templates/ld-propanel-activity-rows.php:222
+#: templates/ld-propanel-activity-rows.php:238
+#: templates/ld-propanel-activity-rows.php:293
+#: templates/ld-propanel-activity-rows.php:309
+#: templates/ld-propanel-activity-rows.php:348
+msgctxt "placeholder: Title of current post"
+msgid " (edit<span class=\"screen-reader-text\"> \"%s\"</span>)"
+msgstr " (편집<span class=\"screen-reader-text\"> \"%s\"</span>)"
+
+#. translators: placeholder: User Email.
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group-row.php:39
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group-row.php:53
+msgctxt "placeholder: User Email"
+msgid "Compose a new mail to %s"
+msgstr "%s에 새 메일 작성"
+
+#. translators: placeholder: user email.
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course-row.php:29
+msgctxt "placeholder: user email"
+msgid "Compose a new mail to %s"
+msgstr "%s에 새 메일 작성"
+
+#: templates/ld-propanel-reporting-choose-filter.php:8
+msgid "Please choose a filter in ProPanel Reporting."
+msgstr "프로패널보고에서 필터를 선택하십시오."
+
+#: templates/ld-propanel-filtering-emails.php:8
+msgid "Please select user(s) to send an email to."
+msgstr "이메일을 보낼 사용자를 선택하십시오."
+
+#: templates/ld-propanel-activity-rows.php:103
+msgid "Points:"
+msgstr "포인트 :"
+
+#: includes/gutenberg/blocks/ld-propanel-filters/index.js:59
+msgid "Preview"
+msgstr "시사"
+
+#: templates/ld-propanel-activity-pagination.php:22
+#: templates/ld-propanel-reporting-pager.php:1
+msgid "Previous Page"
+msgstr "이전 페이지"
+
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course.php:259
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course.php:267
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course.php:274
+msgid "Progress"
+msgstr "진행"
+
+#: templates/ld-propanel-progress-chart.php:10
+msgid "Progress Distribution"
+msgstr "진행 분포"
+
+#: includes/class-ld-tinymce-courseinfo.php:9
+msgid "ProPanel"
+msgstr "프로패널"
+
+#: includes/class-ld-propanel-activity.php:26
+msgid "ProPanel Activity"
+msgstr "수강생 활동"
+
+#: includes/class-ld-propanel-base-widget.php:85
+msgid "ProPanel Email: AJAX submission could not complete, please try again."
+msgstr "프로패널 이메일 : AJAX 제출을 완료 할 수 없습니다. 다시 시도하십시오."
+
+#: includes/class-ld-propanel-filtering.php:31
+#: templates/ld-propanel-full-page.php:54
+msgid "ProPanel Filtering"
+msgstr "학습 필터링"
+
+#: learndash_propanel.php:142
+msgid "ProPanel License"
+msgstr "프로패널 라이선스"
+
+#: includes/class-ld-propanel-overview.php:27
+#: templates/ld-propanel-full-page.php:48
+msgid "ProPanel Overview"
+msgstr "학습 필터링"
+
+#: templates/ld-propanel-full-page.php:41
+msgid "ProPanel Progress Activity"
+msgstr "프로패널 진행 활동"
+
+#: includes/class-ld-propanel-progress-chart.php:27
+#: templates/ld-propanel-full-page.php:60
+msgid "ProPanel Progress Chart"
+msgstr "수강 진도 차트"
+
+#: includes/class-ld-propanel-reporting.php:40
+#: includes/class-ld-propanel.php:69 includes/class-ld-propanel.php:70
+#: templates/ld-propanel-full-page.php:35
+msgid "ProPanel Reporting"
+msgstr "강의 보고서"
+
+#. translators: ProPanel Widget
+#: includes/class-ld-tinymce-courseinfo.php:127
+msgctxt "ProPanel Widget"
+msgid "Pagination for Widget output"
+msgstr "위젯 출력을위한 페이지 매김"
+
+#. translators: ProPanel Widget
+#: includes/class-ld-tinymce-courseinfo.php:23
+msgctxt "ProPanel Widget"
+msgid "Widget"
+msgstr "위젯"
+
+#. translators: ProPanel widget shortcode
+#: includes/class-ld-tinymce-courseinfo.php:36
+msgctxt "ProPanel widget shortcode"
+msgid "Activity Widget"
+msgstr "활동 위젯"
+
+#. translators: ProPanel widget shortcode
+#: includes/class-ld-tinymce-courseinfo.php:32
+msgctxt "ProPanel widget shortcode"
+msgid "Filtering Widget"
+msgstr "필터링 위젯"
+
+#. translators: ProPanel widget shortcode
+#: includes/class-ld-tinymce-courseinfo.php:28
+msgctxt "ProPanel widget shortcode"
+msgid "Link to ProPanel Full Page"
+msgstr "프로패널 전체 페이지 링크"
+
+#. translators: ProPanel widget shortcode
+#: includes/class-ld-tinymce-courseinfo.php:30
+msgctxt "ProPanel widget shortcode"
+msgid "Overview Widget"
+msgstr "개요 위젯"
+
+#. translators: ProPanel widget shortcode
+#: includes/class-ld-tinymce-courseinfo.php:38
+msgctxt "ProPanel widget shortcode"
+msgid "Progress Chart Widget"
+msgstr "진행 차트 위젯"
+
+#. translators: ProPanel widget shortcode
+#: includes/class-ld-tinymce-courseinfo.php:34
+msgctxt "ProPanel widget shortcode"
+msgid "Reporting Widget"
+msgstr " 보고 위젯"
+
+#. translators: Quiz
+#: templates/ld-propanel-activity-report-header.php:15
+msgctxt "Quiz"
+msgid "%s"
+msgstr "%s"
+
+#. translators: Quiz completed
+#: templates/ld-propanel-activity-rows.php:58
+msgctxt "Quiz Completed:"
+msgid "%s Completed:"
+msgstr "%s 완료 :"
+
+#: templates/ld-propanel-filtering-emails.php:13
+#: templates/ld-propanel-filtering-filters.php:39
+msgid "Reset"
+msgstr "초기화"
+
+#: templates/ld-propanel-activity-rows.php:90
+#: templates/ld-propanel-activity-rows.php:92
+#: templates/ld-propanel-activity-rows.php:358
+msgid "Result:"
+msgstr "결과 :"
+
+#: includes/class-ld-propanel.php:343
+msgid "Scroll to increment"
+msgstr "증가하려면 스크롤"
+
+#. translators: Search Courses
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user.php:9
+msgctxt "Search Courses"
+msgid "Search %s"
+msgstr "%s 검색"
+
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:7
+msgid "Search Groups"
+msgstr "그룹 검색"
+
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course.php:7
+msgid "Search Users"
+msgstr "사용자 검색"
+
+#: templates/ld-propanel-activity-rows.php:44
+#: templates/ld-propanel-activity-rows.php:115
+#: templates/ld-propanel-activity-rows.php:162
+#: templates/ld-propanel-activity-rows.php:196
+#: templates/ld-propanel-activity-rows.php:267
+#: templates/ld-propanel-activity-rows.php:339
+msgid "See User Progress"
+msgstr "사용자 진행 상황보기"
+
+#: templates/reporting-filters/users/ld-propanel-reporting-filter-user.php:165
+msgid "Select User"
+msgstr "사용자 선택"
+
+#. translators: ProPanel Widget
+#: includes/class-ld-tinymce-courseinfo.php:24
+msgid "Select which ProPanel widget to dislay"
+msgstr "표시할 프로패널 위젯 선택"
+
+#: templates/ld-propanel-filtering-emails.php:13
+msgid "Send"
+msgstr "보내다"
+
+#: templates/ld-propanel-filtering-emails.php:15
+msgid "Sending..."
+msgstr "배상..."
+
+#: wp_autoupdate_propanel.php:290
+msgid "settings saved."
+msgstr "설정이 저장되었습니다."
+
+#: includes/gutenberg/blocks/ld-propanel-filters/index.js:63
+msgid "Show Preview"
+msgstr "미리보기 표시"
+
+#: includes/class-ld-propanel-shortcodes.php:57
+msgid "Show ProPanel Full Page"
+msgstr "프로패널 전체 페이지 표시"
+
+#: templates/ld-propanel-filtering-filters.php:15
+msgid "Start Date"
+msgstr "시작일"
+
+#: templates/ld-propanel-activity-rows.php:37
+msgid "Started Date"
+msgstr "시작일"
+
+#: templates/ld-propanel-activity-rows.php:35
+msgid "Started Date (Duration)"
+msgstr "시작일 (기간)"
+
+#: includes/class-ld-propanel-activity.php:704
+msgid "Statistics"
+msgstr "통계"
+
+#: includes/gutenberg/blocks/ld-propanel-filters/index.js:36
+msgid "This shortcode adds the ProPanel Filters widget any page"
+msgstr "이 단축 코드는 모든 페이지에 프로패널 필터 위젯을 추가합니다."
+
+#: includes/class-ld-tinymce-courseinfo.php:11
+msgid "This shortcode displays widgets from ProPanel."
+msgstr "이 단축 코드는 프로패널의 위젯을 표시합니다."
+
+#. translators: Topic
+#: templates/ld-propanel-activity-rows.php:289
+msgctxt "Topic"
+msgid "%s:"
+msgstr "%s :"
+
+#: templates/ld-propanel-overview.php:20
+msgid "Total Students"
+msgstr "총 학생"
+
+#: wp_autoupdate_propanel.php:313
+msgid "Update License"
+msgstr "라이선스 업데이트"
+
+#. translators: User ID
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course.php:258
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course.php:266
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course.php:273
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:289
+msgid "User"
+msgstr "사용자"
+
+#: templates/reporting-filters/courses/ld-propanel-reporting-filter-course.php:265
+msgid "User ID"
+msgstr "사용자 ID"
+
+#. translators: User ID
+#: templates/reporting-filters/groups/ld-propanel-reporting-filter-group.php:288
+msgctxt "User ID"
+msgid "U-ID"
+msgstr "U-ID"
+
+#: includes/class-ld-propanel-filtering.php:316
+#: includes/class-ld-propanel-reporting.php:309
+msgid "We do not have any email addresses to send your message to."
+msgstr "귀하의 메시지를 보낼 이메일 주소가 없습니다."
+
+#: includes/class-ld-tinymce-courseinfo.php:169
+msgid ""
+"When using the \"reporting\" or \"progress_chart\" widget shortcodes. A "
+"selection from the Group, Course or User filters is required unless also "
+"using the \"filtering\" widget shortcode on the same page."
+msgstr ""
+"\"보고\"또는 \"progress_chart\"위젯 단축 코드를 사용하는 경우. 동일한 페이지에서 \"필터링\"위젯 단축 코드를 "
+"사용하지 않는 한 그룹, 코스 또는 사용자 필터에서 선택해야합니다."
+
+#: includes/class-ld-propanel.php:345
+msgid "Wk"
+msgstr "Wk"
+
+#: includes/class-ld-propanel.php:346
+msgid "Year"
+msgstr "년"
+
+#: templates/ld-propanel-filtering-emails.php:12
+msgid "Your Message"
+msgstr "귀하의 메시지"

@@ -1,0 +1,2097 @@
+# Copyright (C) 2017 Video Conferencing with Zoom API
+# This file is distributed under the same license as the Video Conferencing with Zoom API package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Video Conferencing with Zoom API\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/video-"
+"conferencing-with-zoom-api\n"
+"POT-Creation-Date: 2020-11-25 07:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-01-20 01:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: 한국어\n"
+"Language: ko_KR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: templates/join-web-browser.php:38
+msgid "!!!ALERT!!!: "
+msgstr "!!!경보!!! :"
+
+#: templates/fragments/meeting-details.php:59
+#, php-format
+msgid "%sNote%s: Countdown time is shown based on your local timezone."
+msgstr "%s참고%s : 카운트 다운 시간은 현지 시간대를 기준으로 표시됩니다."
+
+#: includes/views/live/tpl-reports.php:15
+msgid "1. Daily Report"
+msgstr "1. 일일 보고서"
+
+#: includes/views/live/tpl-reports.php:16
+msgid "2. Account Report"
+msgstr "2. 계정 보고서"
+
+#: includes/views/live/tpl-reports.php:27
+msgid "Account Owner or a user is given the User activities reports."
+msgstr "계정 소유자 또는 사용자에게 사용자 활동 보고서가 제공됩니다."
+
+#: includes/views/live/tpl-reports.php:26
+msgid ""
+"Account owner or admin permissions to access Usage Reports for all users."
+msgstr "모든 사용자의 사용 보고서에 액세스 할 수 있는 계정 소유자 또는 관리자 권한."
+
+#: templates/shortcode/zoom-recordings.php:27
+#: templates/shortcode/zoom-recordings-by-meeting.php:56
+#: includes/views/live/tpl-list-recordings.php:26
+msgid "Action"
+msgstr "동작"
+
+#: includes/views/live/tpl-add-user.php:21
+msgid "Action (Required)."
+msgstr "조치 (필수)."
+
+#: includes/Shortcodes/Webinars.php:142 includes/Shortcodes/Meetings.php:240
+msgid "Actions"
+msgstr "동작"
+
+#: includes/views/live/tpl-add-meetings.php:11
+msgid "Add a Meeting"
+msgstr "회의 추가"
+
+#: includes/views/live/tpl-add-user.php:2
+msgid "Add a User"
+msgstr "사용자 추가"
+
+#: includes/views/webinars/tpl-add-webinar.php:11
+msgid "Add a Webinar"
+msgstr "웨비나 추가"
+
+#: includes/admin/class-zvc-admin-settings.php:38
+msgid "Add Live Meeting"
+msgstr "라이브 미팅 추가"
+
+#: includes/admin/class-zvc-admin-post-type.php:248
+msgid "Add New"
+msgstr "새로 추가"
+
+#: includes/views/live/tpl-list-meetings.php:40
+msgid "Add New Meeting"
+msgstr "새 회의 추가"
+
+#: includes/admin/class-zvc-admin-post-type.php:249
+msgid "Add New meeting"
+msgstr "새 회의 추가"
+
+#: includes/views/webinars/tpl-list-webinars.php:32
+msgid "Add New Webinar"
+msgstr "새 웨비나 추가"
+
+#: includes/admin/class-zvc-admin-settings.php:48
+msgid "Add Users"
+msgstr "사용자 추가"
+
+#: includes/views/tabs/api-settings.php:188
+msgid "Addons"
+msgstr "에드온"
+
+#: includes/views/tabs/api-settings.php:168
+msgid ""
+"After you enter your keys. Do save changes before doing \"Check API "
+"Connection\"."
+msgstr "키를 입력 한 후. \"API 연결 확인\"을 수행하기 전에 변경 사항을 저장하십시오."
+
+#: templates/fragments/filters.php:21
+msgid "All Category"
+msgstr "모든 카테고리"
+
+#: includes/admin/class-zvc-admin-post-type.php:253
+msgid "All Meetings"
+msgstr "모든 회의"
+
+#: includes/views/post-type/tpl-meeting-fields.php:257
+msgid "Allow attendess to join from multiple devices."
+msgstr "참석자가 여러 장치에서 참여하도록 허용합니다."
+
+#: includes/views/post-type/tpl-meeting-fields.php:253
+msgid "Allow Multiple Devices"
+msgstr "여러 장치 허용"
+
+#: includes/views/webinars/tpl-edit-webinar.php:121
+#: includes/views/webinars/tpl-add-webinar.php:124
+#: includes/views/live/tpl-edit-meeting.php:159
+#: includes/views/live/tpl-add-meetings.php:135
+#: includes/views/post-type/tpl-meeting-fields.php:283
+msgid "Alternative Hosts"
+msgstr "대체 호스트"
+
+#: includes/views/webinars/tpl-add-webinar.php:132
+#: includes/views/live/tpl-add-meetings.php:143
+msgid "Alternative hosts IDs. Multiple value separated by comma."
+msgstr "대체 호스트 ID. 쉼표로 구분 된 여러 값."
+
+#: includes/admin/class-zvc-admin-ajax.php:54
+msgid "An error occured. Host ID and Meeting ID not defined properly."
+msgstr "오류가 발생했습니다. 호스트 ID 및 회의 ID가 올바르게 정의되지 않았습니다."
+
+#: includes/Shortcodes.php:170
+msgid "and join via Zoom App."
+msgstr "줌 앱을 통해 가입하세요."
+
+#: includes/views/tabs/api-settings.php:20
+msgid "API Key"
+msgstr "API 키"
+
+#: includes/admin/class-zvc-admin-sync.php:34
+#: includes/admin/class-zvc-admin-sync.php:63
+msgid ""
+"API keys are not configured properly ! Please configure them before syncing."
+msgstr "API 키가 제대로 구성되지 않았습니다! 동기화하기 전에 구성하십시오."
+
+#: includes/views/tabs/api-settings.php:26
+msgid "API Secret Key"
+msgstr "API 비밀 키"
+
+#: includes/admin/class-zvc-admin-settings.php:109
+msgid "API Settings"
+msgstr "API 설정"
+
+#: includes/views/webinars/tpl-list-webinars.php:28
+#: includes/views/live/tpl-list-meetings.php:39
+msgid "Apply"
+msgstr "신청"
+
+#: includes/Bootstrap.php:209 includes/template-functions.php:86
+msgid ""
+"Are you sure you want to end this meeting ? Users won't be able to join this "
+"meeting shown from the shortcode."
+msgstr "이 회의를 끝내시겠습니까? 사용자는 단축 코드로 표시된이 회의에 참여할 수 없습니다."
+
+#: includes/views/live/tpl-assign-host-id.php:9
+msgid "Assign Zoom Host Users to your WordPress Users"
+msgstr "워드프레스 사용자에게 줌 호스트 사용자 할당"
+
+#: includes/views/live/tpl-add-user.php:79
+msgid "Assign Zoom user to WordPress User"
+msgstr "워드프레스 사용자에게 줌 사용자 할당"
+
+#: includes/views/live/tpl-reports.php:20
+msgid "ATTENTION: Zoom Account & Setting Prerequisites for Reports Section"
+msgstr "주의 : 줌 계정 및 보고서 섹션의 전제 조건 설정"
+
+#: includes/views/live/tpl-add-user.php:25
+#: includes/views/live/tpl-add-user.php:36
+msgid "Auto Create"
+msgstr "자동 생성"
+
+#: includes/views/webinars/tpl-edit-webinar.php:108
+#: includes/views/webinars/tpl-add-webinar.php:112
+#: includes/views/live/tpl-edit-meeting.php:141
+#: includes/views/live/tpl-add-meetings.php:123
+#: includes/views/post-type/tpl-meeting-fields.php:262
+msgid "Auto Recording"
+msgstr "자동 기록"
+
+#: includes/views/live/tpl-edit-meeting.php:25
+msgid "Back to List"
+msgstr "다시 목록으로"
+
+#: includes/views/live/tpl-add-meetings.php:22
+msgid "Back to selected host Meetings list"
+msgstr "선택한 호스트 회의 목록으로 돌아가기"
+
+#: includes/views/webinars/tpl-edit-webinar.php:22
+#: includes/views/webinars/tpl-add-webinar.php:22
+msgid "Back to selected host Webinars list"
+msgstr "선택한 호스트 웨비나 목록으로 돌아가기"
+
+#: includes/views/tabs/shortcode.php:17
+msgid "Basic Usage"
+msgstr "기본 사용법"
+
+#: includes/views/live/tpl-add-user.php:71
+msgid "Basic User"
+msgstr "기본 사용자"
+
+#: includes/views/tabs/shortcode.php:14
+msgid ""
+"Below are few examples of how you can add shortcodes manually into your "
+"posts."
+msgstr "다음은 게시물에 수동으로 단축 코드를 추가하는 방법에 대한 몇 가지 예입니다."
+
+#: templates/join-web-browser.php:38
+msgid ""
+"Browser did not detect a valid SSL certificate. Audio and Video for Zoom "
+"meeting will not work on a non HTTPS site, please install a valid SSL "
+"certificate to allow audio and video in your Meetings via browser."
+msgstr ""
+"브라우저가 유효한 SSL 인증서를 감지하지 못했습니다. 줌 회의용 오디오 및 비디오는 HTTPS가 아닌 사이트에서 작동하지 않습니다. "
+"브라우저를 통해 회의에서 오디오 및 비디오를 허용하려면 유효한 SSL 인증서를 설치하십시오."
+
+#: includes/views/live/tpl-reports.php:131
+msgid "By"
+msgstr "으로"
+
+#: templates/fragments/meeting-details.php:41
+msgid "Category"
+msgstr "카테고리"
+
+#: includes/views/tabs/api-settings.php:144
+msgid ""
+"Change date time formats according to your choice. Please edit this properly."
+" Failure to correctly put value will result in failure to show date in "
+"frontend."
+msgstr ""
+"선택에 따라 날짜 시간 형식을 변경합니다. 올바르게 편집하십시오. 값을 정확하게 입력하지 않으면 프런트 엔드에 날짜가 표시되지 않습니다."
+
+#: includes/admin/class-zvc-admin-recordings.php:79
+#: templates/shortcode/zoom-recordings.php:16
+#: includes/views/live/tpl-reports.php:51
+msgid "Check"
+msgstr "검사"
+
+#: includes/helpers.php:332
+#, php-format
+msgid "check %s for shortcode references."
+msgstr "단축 코드 참조는 %s을(를) 확인하십시오."
+
+#: includes/views/tabs/api-settings.php:171
+msgid "Check API Connection"
+msgstr "API 연결 확인"
+
+#: includes/views/live/tpl-list-pending-users.php:11
+msgid "Check Available Users"
+msgstr "사용 가능한 사용자 확인"
+
+#: includes/views/live/tpl-list-users.php:15
+msgid "Check Pending Users"
+msgstr "보류중인 사용자 확인"
+
+#: includes/views/tabs/api-settings.php:44
+msgid ""
+"Checking this option will hide join links from your shortcode for non-"
+"loggedin users."
+msgstr "이 옵션을 선택하면 로그인하지 않은 사용자의 단축 코드에서 조인 링크가 숨겨집니다."
+
+#: includes/views/tabs/api-settings.php:156
+msgid "Checking this option will show 24 hour time format in all event dates."
+msgstr "이 옵션을 선택하면 모든 이벤트 날짜에 24시간 형식이 표시됩니다."
+
+#: includes/views/tabs/api-settings.php:163
+msgid ""
+"Checking this option will show full month label for example: June, July, "
+"August etc."
+msgstr "이 옵션을 선택하면 6월, 7월, 8월 등의 월 전체 레이블이 표시됩니다."
+
+#: includes/views/tabs/api-settings.php:80
+msgid "Checking this show will hide email field in Join via Browser window."
+msgstr "이 쇼를 선택하면 브라우저를 통해 참여 창에서 이메일 필드가 숨겨집니다."
+
+#: includes/views/tabs/api-settings.php:65
+msgid ""
+"Checking this show Zoom original Author in single meetings page which are "
+"created from"
+msgstr "이 쇼를 확인하면 생성된 단일 회의 페이지에서 줌 원본 작성자"
+
+#: includes/views/tabs/api-settings.php:73
+msgid "Checking this will hide all Join via Browser Buttons."
+msgstr "체크하면 브라우저 버튼을 통해 모든 참여가 숨겨집니다."
+
+#: includes/views/sync.php:19
+msgid "Choose a Zoom User"
+msgstr "줌 사용자 선택"
+
+#: includes/admin/class-zvc-admin-sync.php:44
+msgid "Choose meeting from here to sync."
+msgstr "동기화 할 회의를 여기에서 선택하세요."
+
+#: includes/Bootstrap.php:111
+msgid "Click join button below to join the meeting now !"
+msgstr "지금 회의에 참여하려면 아래 참여 버튼을 클릭하세요!"
+
+#: includes/views/webinars/tpl-list-webinars.php:77
+#: includes/views/live/tpl-list-meetings.php:78
+msgid "Click to Copy Shortcode !"
+msgstr "단축 코드를 복사하려면 클릭하십시오!"
+
+#: includes/views/webinars/tpl-edit-webinar.php:114
+#: includes/views/webinars/tpl-add-webinar.php:117
+#: includes/views/live/tpl-edit-meeting.php:151
+#: includes/views/post-type/tpl-meeting-fields.php:272
+msgid "Cloud"
+msgstr "클라우드"
+
+#: includes/views/tabs/api-settings.php:184
+msgid "Contact for additional Support"
+msgstr "추가 지원 문의"
+
+#: includes/Elementor/Widgets/WebinarList.php:87
+#: includes/Elementor/Widgets/MeetingList.php:89
+msgid "Content"
+msgstr "함유량"
+
+#: includes/Shortcodes/Webinars.php:129 includes/Shortcodes/Meetings.php:227
+msgid "Could not retrieve meetings, check Host ID"
+msgstr "회의를 검색 할 수 없습니다. 호스트 ID를 확인하십시오."
+
+#: includes/Elementor/Widgets/MeetingList.php:156
+msgid "Count of meetings"
+msgstr "회의 수"
+
+#: includes/Elementor/Widgets/WebinarList.php:154
+msgid "Count of Webinars"
+msgstr "웨비나 수"
+
+#: includes/views/live/tpl-add-user.php:24
+#: includes/views/live/tpl-add-user.php:32
+msgid "Create"
+msgstr "창조"
+
+#: includes/views/live/tpl-add-meetings.php:148
+msgid "Create Meeting"
+msgstr "회의 만들기"
+
+#: includes/views/live/tpl-add-user.php:89
+msgid "Create User"
+msgstr "사용자 생성"
+
+#: includes/views/webinars/tpl-add-webinar.php:137
+msgid "Create Webinar"
+msgstr "웨비나 만들기"
+
+#: includes/admin/class-zvc-admin-users.php:66
+msgid ""
+"Created a User. Please check email for confirmation. Added user will only "
+"appear in the list after approval."
+msgstr "사용자를 생성했습니다. 확인을 위해 이메일을 확인하십시오. 추가된 사용자는 승인 후에만 ​​목록에 나타납니다."
+
+#: includes/admin/class-zvc-admin-meetings.php:131
+#, php-format
+msgid "Created meeting %s at %s. Join %s"
+msgstr "%s 회의를 %s에 만들었습니다. %s 가입"
+
+#: includes/views/webinars/tpl-list-webinars.php:62
+#: includes/views/live/tpl-list-meetings.php:64
+#: includes/views/live/tpl-list-pending-users.php:19
+#: includes/views/live/tpl-list-users.php:34
+msgid "Created On"
+msgstr "에 만든"
+
+#: includes/admin/class-zvc-admin-webinars.php:157
+#, php-format
+msgid "Created webinar %s at %s. Join %s"
+msgstr "%s 웹 세미나를 %s에 만들었습니다. %s 가입"
+
+#: includes/views/sync.php:13
+msgid "Currently, you can only sync scheduled meetings."
+msgstr "현재는 예약된 회의만 동기화 할 수 있습니다."
+
+#: includes/views/live/tpl-add-user.php:26
+#: includes/views/live/tpl-add-user.php:40
+msgid "Cust Create"
+msgstr "고객 만들기"
+
+#: includes/views/live/tpl-reports.php:57
+msgid "Date"
+msgstr "날짜"
+
+#: includes/admin/class-zvc-admin-reports.php:67
+msgid "Date field cannot be Empty !!"
+msgstr "날짜 필드는 비워 둘 수 없습니다!!"
+
+#: includes/views/tabs/api-settings.php:123
+msgid "DateTime Format"
+msgstr "날짜 시간 형식"
+
+#: includes/Shortcodes.php:197 templates/fragments/countdown-timer.php:30
+msgid "days"
+msgstr "일"
+
+#: includes/admin/class-zvc-admin-post-type.php:299
+msgid "Debug Log"
+msgstr "디버그 로그"
+
+#: includes/views/tabs/api-settings.php:84
+msgid "Default Language for Join via browser page ?"
+msgstr "브라우저 페이지를 통해 참여하기위한 기본 언어?"
+
+#: templates/fragments/filters.php:32
+msgid "Default Sorting"
+msgstr "기본 정렬"
+
+#: includes/Elementor/Widgets/EmbedMeetings.php:140
+msgid "Default title"
+msgstr "기본 제목"
+
+#: includes/views/webinars/tpl-edit-webinar.php:103
+#: includes/views/webinars/tpl-add-webinar.php:107
+#: includes/views/post-type/tpl-meeting-fields.php:247
+msgid "Defaults to HD video."
+msgstr "기본값은 HD 비디오입니다."
+
+#: includes/admin/class-zvc-admin-ajax.php:87
+#, php-format
+msgid "Deleted %d Meeting(s)."
+msgstr "%d 회의를 삭제했습니다."
+
+#: includes/admin/class-zvc-admin-ajax.php:50
+msgid "Deleted Meeting with ID"
+msgstr "ID가 있는 회의 삭제"
+
+#: templates/fragments/meeting-details.php:20
+msgid "Details"
+msgstr "세부"
+
+#: includes/views/tabs/api-settings.php:186
+msgid "Developer"
+msgstr "개발자"
+
+#: includes/views/post-type/tpl-meeting-fields.php:55
+#: includes/views/post-type/tpl-meeting-fields.php:114
+#: includes/views/post-type/tpl-meeting-fields.php:294
+#, php-format
+msgid ""
+"Did not find any hosts here ? Please %scheck here%s to verify your API keys "
+"are working correctly."
+msgstr "여기에서 호스트를 찾지 못했습니까? API 키가 올바르게 작동하는지 확인하려면 %s여기를 확인%s 하십시오."
+
+#: includes/Elementor/Widgets/EmbedMeetings.php:160
+msgid "Disable Countdown Timer?"
+msgstr "카운트 다운 타이머를 비활성화 하시겠습니까?"
+
+#: includes/views/tabs/api-settings.php:77
+msgid "Disable Email field when join via browser ?"
+msgstr "브라우저를 통해 가입 할 때 이메일 필드를 비활성화 하시겠습니까?"
+
+#: includes/views/tabs/api-settings.php:48
+msgid "Disable Embed password in Link ?"
+msgstr "링크에 비밀번호 삽입을 사용 중지 하시겠습니까?"
+
+#: includes/admin/class-zvc-admin-post-type.php:195
+#: includes/views/live/tpl-list-meetings.php:128
+msgid "Disable Join"
+msgstr "가입 비활성화"
+
+#: includes/views/tabs/api-settings.php:70
+msgid "Disable Join via browser ?"
+msgstr "브라우저를 통한 참여를 비활성화 하시겠습니까?"
+
+#: includes/admin/class-zvc-admin-settings.php:168
+msgid "Dismiss this notice."
+msgstr "이 통지를 무시하십시오."
+
+#: includes/helpers.php:350
+msgid "Do not get confused here !!"
+msgstr "여기서 혼동하지 마십시오!"
+
+#: includes/views/tabs/api-settings.php:181
+msgid "Documentation"
+msgstr "선적 서류 비치"
+
+#: includes/Shortcodes/Recordings.php:54 includes/Shortcodes/Recordings.php:55
+#: templates/shortcode/zoom-recordings-by-meeting.php:30
+#: includes/views/live/tpl-list-recordings.php:54
+#: includes/views/live/tpl-list-recordings.php:55
+msgid "Download"
+msgstr "다운로드"
+
+#: includes/Shortcodes.php:177
+msgid "Download App from Store"
+msgstr "스토어에서 앱 다운로드"
+
+#: includes/Shortcodes.php:180
+msgid "Download from Zoom"
+msgstr "줌에서 다운로드"
+
+#: includes/template-functions.php:397
+#: templates/fragments/meeting-details.php:47
+#: templates/shortcode/zoom-webinar.php:98
+#: templates/shortcode/zoom-recordings.php:24
+#: includes/views/webinars/tpl-edit-webinar.php:70
+#: includes/views/webinars/tpl-add-webinar.php:74
+#: includes/views/live/tpl-edit-meeting.php:92
+#: includes/views/live/tpl-list-recordings.php:23
+#: includes/views/live/tpl-add-meetings.php:74
+#: includes/views/post-type/tpl-meeting-fields.php:166
+msgid "Duration"
+msgstr "회의 시간"
+
+#: includes/views/live/tpl-edit-meeting.php:24
+msgid "Edit a Meeting"
+msgstr "회의 편집"
+
+#: includes/admin/class-zvc-admin-post-type.php:251
+msgid "Edit meeting"
+msgstr "회의 수정"
+
+#: includes/views/webinars/tpl-edit-webinar.php:11
+#: includes/views/webinars/tpl-edit-webinar.php:144
+msgid "Edit Webinar"
+msgstr "웨비나 편집"
+
+#: includes/views/live/tpl-list-pending-users.php:18
+#: includes/views/live/tpl-assign-host-id.php:31
+#: includes/views/live/tpl-list-users.php:32
+msgid "Email"
+msgstr "이메일"
+
+#: includes/views/live/tpl-add-user.php:49
+msgid "Email Address"
+msgstr "이메일 주소"
+
+#: includes/Elementor/Widgets/EmbedMeetings.php:148
+msgid "Embed Height"
+msgstr "포함 높이"
+
+#: includes/Elementor/Widgets/EmbedMeetings.php:89
+msgid "Embed Meeting"
+msgstr "회의 삽입"
+
+#: includes/Elementor/Widgets/EmbedMeetings.php:48
+msgid "Embed Zoom Meeting"
+msgstr "줌 회의 포함"
+
+#: includes/views/tabs/shortcode.php:33
+msgid "Embed Zoom Meeting in your Browser"
+msgstr "브라우저에 줌 회의 포함"
+
+#: includes/admin/class-zvc-admin-post-type.php:404
+msgid "Enable Debug?"
+msgstr "디버그를 사용 하시겠습니까?"
+
+#: includes/admin/class-zvc-admin-post-type.php:198
+#: includes/views/live/tpl-list-meetings.php:134
+msgid "Enable Join"
+msgstr "가입 활성화"
+
+#: includes/template-functions.php:95
+msgid "Enable Meeting Join ?"
+msgstr "회의 참여를 활성화 하시겠습니까?"
+
+#: includes/views/post-type/tpl-meeting-fields.php:237
+msgid "Enable Practise Session."
+msgstr "연습 세션을 활성화합니다."
+
+#: templates/shortcode/zoom-recordings-by-meeting.php:54
+msgid "End Date"
+msgstr "종료일"
+
+#: includes/template-functions.php:93
+msgid "End Meeting ?"
+msgstr "회의를 종료 하시겠습니까?"
+
+#: includes/views/live/tpl-list-meetings.php:131
+msgid ""
+"Ending this will disable users to join this meeting. Applies to any "
+"shortcode output only."
+msgstr "종료하면 사용자가이 회의에 참여할 수 없습니다. 모든 단축 코드 출력에만 적용됩니다."
+
+#: includes/views/live/tpl-reports.php:158
+msgid "Enter a value to Check..."
+msgstr "확인할 값을 입력하세요..."
+
+#: includes/admin/class-zvc-admin-recordings.php:78
+#: includes/views/live/tpl-reports.php:50
+msgid "Enter the date to check:"
+msgstr "확인할 날짜 입력 :"
+
+#: includes/Shortcodes.php:126 includes/Shortcodes/Webinars.php:59
+#: includes/Shortcodes/Meetings.php:60
+msgid "ERROR: "
+msgstr "오류 :"
+
+#: includes/admin/class-zvc-admin-settings.php:63
+msgid "Extensions"
+msgstr "확장"
+
+#: includes/views/tabs/api-settings.php:178
+msgid "Facebook Group"
+msgstr "페이스북 그룹"
+
+#: includes/admin/class-zvc-admin-sync.php:191
+msgid "Failed to import meeting with ID"
+msgstr "ID가 있는 회의를 가져오지 못했습니다."
+
+#: includes/admin/class-zvc-admin-sync.php:41
+msgid ""
+"Fetching data.. Please wait this might take some time depending on how many "
+"Zoom Meetings you have."
+msgstr "데이터를 가져 오는 중.. 보유하고있는 줌 회의 수에 따라 다소 시간이 걸릴 수 있습니다."
+
+#: includes/Shortcodes/Recordings.php:51
+#: includes/views/live/tpl-list-recordings.php:49
+msgid "File Size"
+msgstr "파일 크기"
+
+#: includes/Shortcodes/Recordings.php:50
+#: includes/views/live/tpl-list-recordings.php:47
+msgid "File Type"
+msgstr "파일 유형"
+
+#: includes/views/live/tpl-add-user.php:55
+msgid "First Name"
+msgstr "이름"
+
+#: includes/views/live/tpl-add-user.php:58
+msgid "First Name of the User (Required)."
+msgstr "사용자의 이름 (필수)."
+
+#: includes/views/live/tpl-list-users.php:14
+msgid "Flush User Cache"
+msgstr "사용자 캐시 플러시"
+
+#: includes/admin/class-zvc-admin-users.php:28
+msgid "Flushed User Cache!"
+msgstr "플러시된 사용자 캐시!"
+
+#: includes/views/live/tpl-reports.php:122
+msgid "From"
+msgstr "에서"
+
+#: includes/views/live/tpl-assign-host-id.php:32
+msgid "Full Name"
+msgstr "성명"
+
+#: includes/views/live/tpl-reports.php:119
+msgid "Get account report for a specified period."
+msgstr "지정된 기간에 대한 계정 보고서를 가져옵니다."
+
+#: includes/views/webinars/tpl-edit-webinar.php:100
+#: includes/views/webinars/tpl-add-webinar.php:104
+#: includes/views/post-type/tpl-meeting-fields.php:243
+msgid "HD Video"
+msgstr "HD 비디오"
+
+#: includes/views/tabs/api-settings.php:41
+msgid "Hide Join Links for Non-Loggedin ?"
+msgstr "로그인하지 않은 경우 가입 링크를 숨기시겠습니까?"
+
+#: includes/admin/class-zvc-admin-post-type.php:384
+msgid "Hide Join via browser link ?"
+msgstr "브라우저 링크를 통해 가입 하시겠습니까?"
+
+#: includes/views/live/tpl-assign-host-id.php:33
+msgid "Host ID"
+msgstr "호스트 ID"
+
+#: includes/Shortcodes/Webinars.php:107 includes/Shortcodes/Meetings.php:208
+msgid "Host ID should be given when defining this shortcode."
+msgstr "이 단축 코드를 정의 할 때 호스트 ID를 제공해야합니다."
+
+#: includes/views/live/tpl-edit-meeting.php:114
+#: includes/views/live/tpl-add-meetings.php:96
+msgid "Host join start"
+msgstr "호스트 가입 시작"
+
+#: includes/admin/class-zvc-admin-settings.php:70
+msgid "Host to WP Users"
+msgstr "WP 사용자에게 호스트"
+
+#: includes/views/webinars/tpl-edit-webinar.php:84
+#: includes/views/webinars/tpl-add-webinar.php:88
+msgid "Host Video"
+msgstr "호스트 비디오"
+
+#: templates/fragments/meeting-details.php:30
+msgid "Hosted By"
+msgstr "에 의해 호스팅"
+
+#: templates/content-meeting.php:30 templates/shortcode/zoom-listing.php:31
+msgid "Hosted By:"
+msgstr "에 의해 호스팅 :"
+
+#: includes/Shortcodes.php:203 templates/fragments/countdown-timer.php:36
+msgid "hours"
+msgstr "시간"
+
+#: includes/helpers.php:353
+msgid "I understand ! Don't show this again !"
+msgstr "이해 했어요! 다시 표시하지 마십시오!"
+
+#: includes/views/live/tpl-assign-host-id.php:30
+msgid "ID"
+msgstr "신분증"
+
+#: includes/views/tabs/api-settings.php:35
+msgid ""
+"If you are using Zoom Vanity URL then please insert it here else leave it "
+"empty."
+msgstr "줌 Vanity URL을 사용하는 경우 여기에 삽입하고 비워 두십시오."
+
+#: includes/views/post-type/tpl-meeting-fields.php:30
+msgid ""
+"If you need to show this meeting on another page or post please use this "
+"shortcode"
+msgstr "이 회의를 다른 페이지에 표시하거나 게시하려면이 단축 코드를 사용하십시오."
+
+#: includes/admin/class-zvc-admin-settings.php:76
+msgid "Import"
+msgstr "가져오기"
+
+#: includes/Shortcodes/Recordings.php:94
+msgid ""
+"Invalid HOST ID. Please define a host ID to show recordings based on host."
+msgstr "잘못된 호스트 ID입니다. 호스트를 기반으로 녹화를 표시하려면 호스트 ID를 정의하십시오."
+
+#: includes/Shortcodes/Recordings.php:167
+msgid "Invalid Meeting ID."
+msgstr "잘못된 회의 ID입니다."
+
+#: templates/join-web-browser.php:95 templates/shortcode/join-links.php:20
+#: templates/shortcode/join-links.php:29
+#: templates/shortcode/webinar-join-links.php:20
+#: templates/shortcode/webinar-join-links.php:29
+msgid "Join"
+msgstr "참여하기"
+
+#: includes/views/live/tpl-edit-meeting.php:106
+#: includes/views/live/tpl-add-meetings.php:88
+#: includes/views/post-type/tpl-meeting-fields.php:188
+msgid "Join Before Host"
+msgstr "호스트 전에 가입"
+
+#: includes/views/live/tpl-edit-meeting.php:109
+#: includes/views/live/tpl-add-meetings.php:91
+#: includes/views/post-type/tpl-meeting-fields.php:191
+msgid ""
+"Join meeting before host start the meeting. Only for scheduled or recurring "
+"meetings."
+msgstr "호스트가 미팅을 시작하기 전에 미팅에 참여하십시오. 예약되거나 반복되는 회의에만 해당됩니다."
+
+#: includes/template-functions.php:145
+msgid "Join Meeting via Zoom App"
+msgstr "줌 앱을 통해 회의 참여"
+
+#: includes/Shortcodes/Webinars.php:156 includes/Shortcodes/Meetings.php:271
+msgid "Join via App"
+msgstr "앱을 통해 참여"
+
+#: includes/helpers.php:589 includes/helpers.php:593 includes/helpers.php:617
+#: includes/helpers.php:621 templates/shortcode/join-links.php:27
+#: templates/shortcode/webinar-join-links.php:27
+msgid "Join via Web Browser"
+msgstr "웹 브라우저를 통해 참여"
+
+#: includes/Shortcodes.php:174 templates/shortcode/join-links.php:18
+#: templates/shortcode/webinar-join-links.php:18
+msgid "Join via Zoom App"
+msgstr "줌 앱을 통해 참여"
+
+#: includes/views/live/tpl-list-users.php:36
+msgid "Last Client"
+msgstr "마지막 고객"
+
+#: includes/views/live/tpl-list-users.php:35
+msgid "Last Login"
+msgstr "마지막 로그인"
+
+#: includes/views/live/tpl-reports.php:135
+msgid "Last Login Time"
+msgstr "마지막 로그인 시간"
+
+#: includes/views/live/tpl-add-user.php:62
+msgid "Last Name"
+msgstr "성"
+
+#: includes/views/live/tpl-add-user.php:64
+msgid "Last Name of the User (Required)."
+msgstr "사용자의 성 (필수)."
+
+#: includes/helpers.php:328
+msgid "Like this plugin ?"
+msgstr "이 플러그인처럼?"
+
+#: includes/views/tabs/shortcode.php:29
+msgid "List Host ID"
+msgstr "호스트 ID 나열"
+
+#: includes/views/tabs/shortcode.php:21
+msgid "Listing Zoom Meetings"
+msgstr "줌 회의 나열"
+
+#: includes/views/tabs/shortcode.php:25
+msgid "Listing Zoom Webinars"
+msgstr "줌  웨비나 나열"
+
+#: includes/admin/class-zvc-admin-settings.php:33
+msgid "Live Meetings"
+msgstr "라이브 미팅"
+
+#: includes/admin/class-zvc-admin-settings.php:28
+msgid "Live Webinars"
+msgstr "라이브 웨비나"
+
+#: includes/Shortcodes/Recordings.php:110
+msgid "Loading recordings.. Please wait.."
+msgstr "녹음을로드하는 중입니다.. 잠시만 기다려주세요.."
+
+#: includes/views/webinars/tpl-edit-webinar.php:113
+#: includes/views/webinars/tpl-add-webinar.php:116
+#: includes/views/live/tpl-edit-meeting.php:148
+#: includes/views/post-type/tpl-meeting-fields.php:269
+msgid "Local"
+msgstr "현지"
+
+#: includes/admin/class-zvc-admin-post-type.php:159
+#: includes/Elementor/Widgets/MeetingByID.php:92
+msgid "Meeting"
+msgstr "모임"
+
+#: includes/views/live/tpl-edit-meeting.php:47
+#: includes/views/live/tpl-add-meetings.php:36
+msgid "Meeting Agenda"
+msgstr "회의 일정"
+
+#: includes/views/post-type/tpl-meeting-fields.php:180
+msgid "Meeting Authentication"
+msgstr "회의 인증"
+
+#: includes/views/live/tpl-edit-meeting.php:50
+#: includes/views/live/tpl-add-meetings.php:39
+msgid "Meeting Description."
+msgstr "회의 설명."
+
+#: includes/admin/class-zvc-admin-post-type.php:295
+msgid "Meeting Details"
+msgstr "회의 세부 정보"
+
+#: includes/views/live/tpl-edit-meeting.php:95
+#: includes/views/live/tpl-add-meetings.php:77
+#: includes/views/post-type/tpl-meeting-fields.php:169
+msgid "Meeting duration (minutes). (optional)"
+msgstr "회의 시간 (분). (선택 과목)"
+
+#: includes/views/tabs/api-settings.php:117
+msgid "Meeting Ended Text"
+msgstr "회의 종료 텍스트"
+
+#: includes/views/tabs/api-settings.php:111
+msgid "Meeting going to start Text"
+msgstr "회의 시작 텍스트"
+
+#: includes/template-functions.php:345 includes/template-functions.php:354
+#: includes/template-functions.php:364 templates/shortcode/zoom-webinar.php:55
+#: templates/shortcode/zoom-webinar.php:64
+#: templates/shortcode/zoom-webinar.php:74
+msgid "Meeting has ended !"
+msgstr "회의가 종료되었습니다!"
+
+#: includes/admin/class-zvc-admin-post-type.php:376
+msgid ""
+"Meeting has not been created for this post yet. Publish your meeting or hit "
+"update to create a new one for this post !"
+msgstr "이 게시물에 대한 회의가 아직 생성되지 않았습니다. 회의를 게시하거나 업데이트를 눌러 이 게시물에 대한 새 회의를 만드십시오!"
+
+#: includes/Bootstrap.php:110
+msgid "Meeting Has Started ! Click below join button to join meeting now !"
+msgstr "회의가 시작되었습니다! 지금 회의에 참여하려면 아래 참여 버튼을 클릭하세요!"
+
+#: includes/views/live/tpl-edit-meeting.php:54
+#: includes/views/live/tpl-add-meetings.php:43
+#: includes/views/post-type/tpl-meeting-fields.php:39
+#: includes/views/post-type/tpl-meeting-fields.php:74
+#: includes/views/post-type/tpl-meeting-fields.php:95
+msgid "Meeting Host *"
+msgstr "회의 주최자 *"
+
+#: includes/template-functions.php:296
+#: includes/admin/class-zvc-admin-post-type.php:125
+#: templates/shortcode/zoom-webinar.php:21
+#: templates/shortcode/zoom-recordings.php:22
+#: templates/shortcode/zoom-recordings-by-meeting.php:42
+#: includes/Elementor/Widgets/EmbedMeetings.php:96
+#: includes/Elementor/Widgets/RecordingByMeetingID.php:95
+#: includes/views/live/tpl-list-meetings.php:58
+#: includes/views/live/tpl-list-recordings.php:21
+msgid "Meeting ID"
+msgstr "회의 ID"
+
+#: includes/template-functions.php:310
+msgid "Meeting is in Progress"
+msgstr "회의가 진행 중입니다."
+
+#: includes/template-functions.php:230
+msgid "Meeting is not defined. Try updating this meeting"
+msgstr "회의가 정의되지 않았습니다. 이 회의를 업데이트 해보십시오."
+
+#: includes/views/live/tpl-reports.php:61
+msgid "Meeting Minutes"
+msgstr "회의록"
+
+#: includes/admin/class-zvc-admin-post-type.php:166
+#: includes/admin/class-zvc-admin-post-type.php:177
+#: includes/admin/class-zvc-admin-post-type.php:186
+#: includes/admin/class-zvc-admin-post-type.php:202
+msgid "Meeting not created yet."
+msgstr "회의가 아직 생성되지 않았습니다."
+
+#: includes/Elementor/Widgets/EmbedMeetings.php:175
+#: includes/Elementor/Widgets/EmbedMeetings.php:177
+#: includes/views/live/tpl-edit-meeting.php:99
+#: includes/views/live/tpl-add-meetings.php:81
+msgid "Meeting Password"
+msgstr "회의 비밀번호"
+
+#: includes/views/tabs/api-settings.php:51
+msgid ""
+"Meeting password will not be included in the invite link to allow "
+"participants to join with just one click without having to enter the "
+"password."
+msgstr "회의 암호는 초대 링크에 포함되지 않으므로 참가자는 암호를 입력하지 않고도 클릭 한 번으로 참가할 수 있습니다."
+
+#: includes/views/tabs/api-settings.php:105
+msgid "Meeting Started Text"
+msgstr "회의 시작 텍스트"
+
+#: includes/admin/class-zvc-admin-post-type.php:126
+#: includes/views/live/tpl-list-meetings.php:63
+msgid "Meeting State"
+msgstr "회의 상태"
+
+#: includes/template-functions.php:304 includes/Shortcodes/Meetings.php:237
+msgid "Meeting Status"
+msgstr "회의 상태"
+
+#: includes/admin/class-zvc-admin-sync.php:48
+msgid "Meeting sync has been completed !"
+msgstr "회의 동기화가 완료되었습니다!"
+
+#: includes/views/live/tpl-edit-meeting.php:88
+#: includes/views/live/tpl-add-meetings.php:70
+#: includes/views/post-type/tpl-meeting-fields.php:162
+msgid "Meeting Timezone"
+msgstr "회의 시간대"
+
+#: includes/views/live/tpl-edit-meeting.php:40
+#: includes/views/live/tpl-add-meetings.php:29
+msgid "Meeting Topic *"
+msgstr "회의 주제 *"
+
+#: includes/views/live/tpl-edit-meeting.php:43
+#: includes/views/live/tpl-add-meetings.php:32
+msgid "Meeting topic. (Required)."
+msgstr "회의 주제. (필수)."
+
+#: includes/views/post-type/tpl-meeting-fields.php:61
+#: includes/views/post-type/tpl-meeting-fields.php:120
+msgid "Meeting Type"
+msgstr "회의 유형"
+
+#: templates/archive-meetings.php:24
+#: includes/views/live/tpl-list-meetings.php:20
+#: includes/views/live/tpl-reports.php:58
+msgid "Meetings"
+msgstr "회의"
+
+#: includes/Elementor/Widgets/MeetingList.php:97
+msgid "Meetings Category"
+msgstr "회의 카테고리"
+
+#: includes/views/live/tpl-reports.php:132
+msgid "Meetings Held"
+msgstr "개최된 회의"
+
+#: includes/Elementor/Widgets/MeetingList.php:110
+msgid "Meetings Order By"
+msgstr "회의 순서"
+
+#: includes/Elementor/Widgets/MeetingList.php:125
+msgid "Meetings Type"
+msgstr "회의 유형"
+
+#: includes/Shortcodes.php:209 templates/fragments/countdown-timer.php:42
+msgid "minutes"
+msgstr "의사록"
+
+#: includes/views/webinars/tpl-list-webinars.php:26
+#: includes/views/live/tpl-list-meetings.php:38
+msgid "Move to Trash"
+msgstr "휴지통으로 이동"
+
+#: includes/views/live/tpl-edit-meeting.php:132
+#: includes/views/live/tpl-add-meetings.php:114
+#: includes/views/post-type/tpl-meeting-fields.php:213
+msgid "Mute Participants upon entry"
+msgstr "입장시 참가자 음소거"
+
+#: includes/views/live/tpl-edit-meeting.php:136
+#: includes/views/live/tpl-add-meetings.php:118
+#: includes/views/post-type/tpl-meeting-fields.php:217
+msgid "Mutes Participants when entering the meeting."
+msgstr "회의에 입장 할 때 참가자를 음소거합니다."
+
+#: includes/views/live/tpl-list-users.php:33
+msgid "Name"
+msgstr "이름"
+
+#: includes/admin/class-zvc-admin-post-type.php:250
+msgid "New meeting"
+msgstr "새 회의"
+
+#: includes/views/live/tpl-reports.php:59
+msgid "New Users"
+msgstr "신규 사용자"
+
+#: templates/content-meeting.php:41 templates/shortcode/zoom-listing.php:43
+msgid "Next Occurrence"
+msgstr "다음 발생"
+
+#: includes/helpers.php:702
+msgid "Next Results"
+msgstr "다음 결과"
+
+#: includes/template-functions.php:331 templates/shortcode/zoom-webinar.php:41
+msgid "Next Start Time"
+msgstr "다음 시작 시간"
+
+#: includes/Elementor/Widgets/EmbedMeetings.php:225
+msgid "No Meeting ID is defined."
+msgstr "정의된 회의 ID가 없습니다."
+
+#: includes/Elementor/Widgets/RecordingByMeetingID.php:140
+msgid "No meeting ID is defined."
+msgstr "정의된 회의 ID가 없습니다."
+
+#: includes/Shortcodes.php:126 includes/Shortcodes/Meetings.php:60
+msgid "No meeting id set in the shortcode"
+msgstr "단축 코드에 설정된 회의 ID가 없습니다."
+
+#: includes/admin/class-zvc-admin-sync.php:124
+msgid "No meeting is selected or selected meeting already exists"
+msgstr "선택한 회의가 없거나 선택한 회의가 이미 있습니다."
+
+#: includes/admin/class-zvc-admin-sync.php:93
+#: includes/admin/class-zvc-admin-sync.php:96
+msgid "No Meetings Found !"
+msgstr "회의가 없습니다!"
+
+#: includes/admin/class-zvc-admin-post-type.php:257
+msgid "No meetings found in Trash."
+msgstr "휴지통에 회의가 없습니다."
+
+#: templates/shortcode-listing.php:42 templates/archive-meetings.php:55
+msgid "No Meetings found."
+msgstr "회의가 없습니다."
+
+#: includes/admin/class-zvc-admin-post-type.php:256
+msgid "No meetings found."
+msgstr "회의가 없습니다."
+
+#: includes/views/webinars/tpl-edit-webinar.php:111
+#: includes/views/webinars/tpl-add-webinar.php:115
+#: includes/views/live/tpl-edit-meeting.php:145
+#: includes/views/post-type/tpl-meeting-fields.php:266
+msgid "No Recordings"
+msgstr "기록 없음"
+
+#: includes/Shortcodes/Recordings.php:143
+#: includes/Shortcodes/Recordings.php:218
+msgid "No recordings found."
+msgstr "기록이 없습니다."
+
+#: includes/views/live/tpl-reports.php:143
+msgid "No Records Found.."
+msgstr "기록 없음"
+
+#: includes/Elementor/Widgets/RecordingsByHost.php:159
+#: includes/Elementor/Widgets/MeetingHosts.php:163
+msgid "No user selected."
+msgstr "선택된 사용자가 없습니다."
+
+#: includes/Shortcodes/Webinars.php:59
+msgid "No webinar id set in the shortcode"
+msgstr "단축 코드에 웨비나 ID가 설정되지 않았습니다."
+
+#: includes/admin/class-zvc-admin-ajax.php:260
+msgid "Not a Host"
+msgstr "호스트 아님"
+
+#: includes/Shortcodes.php:170
+msgid ""
+"Note: If you are having trouble joining the meeting below, enter Meeting ID: "
+msgstr "참고 : 아래 회의 참여에 문제가있는 경우 회의 ID를 입력하십시오."
+
+#: includes/template-functions.php:327 templates/shortcode/zoom-webinar.php:37
+msgid "Ocurrences"
+msgstr "나오다"
+
+#: includes/admin/class-zvc-admin-post-type.php:383
+msgid "Only logged in users of this site will be able to join this meeting."
+msgstr "이 사이트에 로그인 한 사용자 만이 회의에 참여할 수 있습니다."
+
+#: includes/views/post-type/tpl-meeting-fields.php:183
+msgid "Only loggedin users in Zoom App can join this Meeting."
+msgstr "줌 앱에 로그인 한 사용자 만이 회의에 참여할 수 있습니다."
+
+#: includes/admin/class-zvc-admin-sync.php:47
+msgid ""
+"Opps ! You have not selected any meeting to sync yet. Select one or two and "
+"this section will be filled by happiness for you !!"
+msgstr "어머나! 동기화 할 회의를 아직 선택하지 않았습니다. 하나 또는 두 개를 선택하면이 섹션은 당신을위한 행복으로 채워집니다!!"
+
+#: includes/views/webinars/tpl-edit-webinar.php:139
+#: includes/views/live/tpl-edit-meeting.php:173
+#: includes/views/post-type/tpl-meeting-fields.php:296
+msgid ""
+"Paid Zoom Account is required for this !! Alternative hosts IDs. Multiple "
+"value separated by comma."
+msgstr "이를 위해서는 유료 줌 계정이 필요합니다!! 대체 호스트 ID. 쉼표로 구분 된 여러 값."
+
+#: includes/views/webinars/tpl-edit-webinar.php:92
+#: includes/views/webinars/tpl-add-webinar.php:96
+msgid "Panelists Video"
+msgstr "패널리스트 비디오"
+
+#: includes/admin/class-zvc-admin-post-type.php:255
+msgid "Parent meetings:"
+msgstr "학부모 회의 :"
+
+#: includes/views/live/tpl-reports.php:60
+msgid "Participants"
+msgstr "참가자"
+
+#: includes/views/live/tpl-edit-meeting.php:123
+#: includes/views/live/tpl-add-meetings.php:105
+#: includes/views/post-type/tpl-meeting-fields.php:204
+msgid "Participants Video"
+msgstr "참가자 비디오"
+
+#: includes/views/post-type/tpl-meeting-fields.php:173
+msgid "Password"
+msgstr "암호"
+
+#: includes/views/webinars/tpl-edit-webinar.php:80
+#: includes/views/webinars/tpl-add-webinar.php:84
+#: includes/views/live/tpl-edit-meeting.php:102
+#: includes/views/live/tpl-add-meetings.php:84
+#: includes/views/post-type/tpl-meeting-fields.php:176
+msgid ""
+"Password to join the meeting. Password may only contain the following "
+"characters: [a-z A-Z 0-9]. Max of 10 characters.( Leave blank for auto "
+"generate )"
+msgstr ""
+"회의에 참여하기위한 비밀번호입니다. 암호는 다음 문자만 포함 할 수 있습니다. [az AZ 0-9]. 최대 10자 (자동 생성을 위해 "
+"공백으로 두십시오.)"
+
+#: includes/views/live/tpl-list-pending-users.php:10
+msgid "Pending Approval Users"
+msgstr "보류중인 승인 사용자"
+
+#: includes/template-functions.php:379
+msgid "Personal Meeting Room"
+msgstr "개인 회의실"
+
+#: includes/Shortcodes/Recordings.php:52
+#: templates/shortcode/zoom-recordings-by-meeting.php:28
+#: includes/views/live/tpl-list-recordings.php:51
+#: includes/views/live/tpl-list-recordings.php:52
+msgid "Play"
+msgstr "플레이"
+
+#: includes/views/post-type/tpl-meeting-fields.php:52
+#: includes/views/post-type/tpl-meeting-fields.php:86
+msgid "Please check your internet connection or API connection."
+msgstr "인터넷 연결 또는 API 연결을 확인하십시오."
+
+#: includes/helpers.php:263
+msgid ""
+"Please check your internet connection or API keys. Zoom API is not able to "
+"connect with Zoom servers at the moment."
+msgstr "인터넷 연결 또는 API 키를 확인하십시오. 줌 API는 현재 줌 서버와 연결할 수 없습니다."
+
+#: includes/helpers.php:331
+#, php-format
+msgid ""
+"Please consider giving a %s if you found this useful at wordpress.org or "
+msgstr "wordpress.org에서 유용하다고 생각되면 %s를 제공하거나"
+
+#: includes/views/tabs/api-settings.php:11
+msgid "Please follow"
+msgstr "따라주세요."
+
+#: includes/template-functions.php:127
+msgid "Please login to join this meeting."
+msgstr "이 회의에 참여하려면 로그인하십시오."
+
+#: includes/views/live/tpl-add-user.php:13
+msgid "Please note this requires a PRO Zoom account or Higher."
+msgstr "이를 위해서는 PRO 줌 계정 이상이 필요합니다."
+
+#: includes/helpers.php:352
+msgid ""
+"Please read !!! These below meetings are directly from your zoom.us account "
+"via API connection. Meetings added from here won't show up on your Post Type "
+"list. This will only create meeting in your zoom.us account !"
+msgstr ""
+"읽어주세요!!! 아래 회의는 API 연결을 통해 zoom.us 계정에서 직접 이루어집니다. 여기에서 추가 된 회의는 게시물 유형 목록에 "
+"표시되지 않습니다. 이것은 zoom.us 계정에서만 회의를 생성합니다!"
+
+#: includes/views/tabs/api-settings.php:147
+#, php-format
+msgid "Please see %s on how to format date"
+msgstr "날짜 형식 지정 방법은 %s을(를) 참조하십시오."
+
+#: includes/Shortcodes/Meetings.php:88
+#, php-format
+msgid ""
+"Please try again ! Some error occured while trying to fetch meeting with id: "
+" %d"
+msgstr "다시 시도하십시오! ID가 %d 인 회의를 가져오는 동안 오류가 발생했습니다."
+
+#: includes/Shortcodes/Webinars.php:80
+#, php-format
+msgid ""
+"Please try again ! Some error occured while trying to fetch webinar with id: "
+" %d"
+msgstr "다시 시도하십시오! ID가 %d 인 웹 세미나를 가져오는 동안 오류가 발생했습니다."
+
+#: includes/views/post-type/tpl-meeting-fields.php:233
+msgid "Practise Session"
+msgstr "연습 세션"
+
+#: includes/views/live/tpl-reports.php:120
+msgid "Print"
+msgstr "인쇄"
+
+#: includes/views/live/tpl-add-user.php:72
+msgid "Pro User"
+msgstr "프로 사용자"
+
+#: templates/fragments/countdown-timer.php:17
+msgid "PRO version is required for this meeting to be displayed."
+msgstr "이 회의를 표시하려면 PRO 버전이 필요합니다."
+
+#: includes/views/live/tpl-reports.php:23
+msgid "Pro, Business, Enterprise, Education, or API Account. Check more"
+msgstr "Pro, Business, Enterprise, Education 또는 API 계정. 더 확인"
+
+#: includes/Elementor/Widgets/EmbedMeetings.php:150
+msgid "Put height of the container."
+msgstr "용기의 높이를 넣으십시오."
+
+#: includes/views/tabs/api-settings.php:36
+msgid ""
+"Read more about Vanity\n"
+"                                URLs"
+msgstr "가상 URL에 대해 자세히 알아보기"
+
+#: templates/shortcode/zoom-recordings.php:25
+#: includes/views/live/tpl-list-recordings.php:24
+msgid "Recorded"
+msgstr "기록"
+
+#: includes/Elementor/Widgets/RecordingByMeetingID.php:88
+msgid "Recording by Meeting"
+msgstr "회의 별 녹음"
+
+#: includes/admin/class-zvc-admin-settings.php:58
+#: includes/views/live/tpl-list-recordings.php:10
+msgid "Recordings"
+msgstr "녹음"
+
+#: includes/Elementor/Widgets/RecordingByMeetingID.php:47
+msgid "Recordings by Meeting"
+msgstr "회의 별 녹음"
+
+#: templates/content-meeting.php:56 templates/shortcode/zoom-listing.php:58
+msgid "Recurring"
+msgstr "되풀이"
+
+#: includes/template-functions.php:324
+#: includes/admin/class-zvc-admin-post-type.php:175
+#: templates/shortcode/zoom-webinar.php:34
+#: includes/views/live/tpl-list-meetings.php:120
+msgid "Recurring Meeting"
+msgstr "정기 회의"
+
+#: includes/views/webinars/tpl-list-webinars.php:119
+msgid "Recurring Webinar"
+msgstr "정기 웹 세미나"
+
+#: includes/template-functions.php:315
+msgid "Refresh is needed to change status."
+msgstr "상태를 변경하려면 새로고침이 필요합니다."
+
+#: includes/admin/class-zvc-admin-settings.php:53
+#: includes/views/live/tpl-reports.php:12
+msgid "Reports"
+msgstr "보고서"
+
+#: includes/admin/class-zvc-admin-post-type.php:380
+#: includes/Elementor/Widgets/EmbedMeetings.php:107
+msgid "Requires Login?"
+msgstr "로그인이 필요하십니까?"
+
+#: includes/admin/class-zvc-admin-post-type.php:196
+msgid ""
+"Restrict users to join this meeting before the start time or after the "
+"meeting is completed."
+msgstr "사용자가 시작 시간 전 또는 미팅이 완료된 후에 이 미팅에 참여하도록 제한하십시오."
+
+#: includes/Shortcodes.php:132
+msgid "Restricted access, please login to continue."
+msgstr "제한된 액세스입니다. 계속하려면 로그인하십시오."
+
+#: templates/fragments/filters.php:14
+msgid "results"
+msgstr "결과"
+
+#: includes/admin/class-zvc-admin-post-type.php:199
+msgid "Resuming this will enable users to join this meeting."
+msgstr "재개하면 사용자가이 회의에 참여할 수 있습니다."
+
+#: includes/views/live/tpl-list-meetings.php:137
+msgid ""
+"Resuming this will enable users to join this meeting. Applies to any "
+"shortcode output only."
+msgstr "재개하면 사용자가이 회의에 참여할 수 있습니다. 모든 단축 코드 출력에만 적용됩니다."
+
+#: includes/views/live/tpl-assign-host-id.php:38
+msgid "Save"
+msgstr "저장"
+
+#: includes/views/tabs/api-settings.php:170
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+#: includes/admin/class-zvc-admin-users.php:90
+msgid "Saved !"
+msgstr "저장되었습니다!"
+
+#: includes/admin/class-zvc-admin-post-type.php:254
+msgid "Search meetings"
+msgstr "회의 검색"
+
+#: templates/fragments/filters.php:38
+msgid "Search.."
+msgstr "검색.."
+
+#: includes/views/live/tpl-reports.php:107
+msgid "Searching From: "
+msgstr "검색 :"
+
+#: includes/Shortcodes.php:215 templates/fragments/countdown-timer.php:48
+msgid "seconds"
+msgstr "초"
+
+#: templates/content-meeting.php:70 templates/shortcode/zoom-listing.php:74
+msgid "See More"
+msgstr "더보기"
+
+#: includes/views/live/tpl-reports.php:80
+msgid "Select a Date to Check"
+msgstr "확인할 날짜 선택"
+
+#: includes/views/tabs/api-settings.php:101
+msgid "Select a default language for your join meeting via browser page."
+msgstr "브라우저 페이지를 통해 미팅 참여에 대한 기본 언어를 선택하십시오."
+
+#: includes/views/webinars/tpl-edit-webinar.php:124
+#: includes/views/webinars/tpl-add-webinar.php:46
+#: includes/views/webinars/tpl-add-webinar.php:127
+#: includes/views/live/tpl-edit-meeting.php:57
+#: includes/views/live/tpl-edit-meeting.php:162
+#: includes/views/live/tpl-add-meetings.php:46
+#: includes/views/live/tpl-add-meetings.php:138
+#: includes/views/post-type/tpl-meeting-fields.php:106
+#: includes/views/post-type/tpl-meeting-fields.php:288
+msgid "Select a Host"
+msgstr "호스트 선택"
+
+#: includes/Elementor/Widgets/MeetingByID.php:115
+msgid "Select a Meeting"
+msgstr ""
+"회의 선택\n"
+
+#: templates/shortcode/zoom-recordings.php:15
+msgid "Select a month to filter:"
+msgstr "필터링 할 월 선택 :"
+
+#: includes/admin/class-zvc-admin-recordings.php:87 includes/views/sync.php:20
+#: includes/views/webinars/tpl-list-webinars.php:39
+#: includes/views/live/tpl-list-meetings.php:44
+msgid "Select a User"
+msgstr "사용자 선택"
+
+#: includes/Elementor/Widgets/MeetingByID.php:84
+msgid "Select a Zoom Meeting"
+msgstr "줌 회의 선택"
+
+#: includes/views/webinars/tpl-list-webinars.php:24
+#: includes/views/live/tpl-list-meetings.php:36
+msgid "Select bulk action"
+msgstr "일괄 작업 선택"
+
+#: includes/Elementor/Widgets/RecordingsByHost.php:95
+#: includes/Elementor/Widgets/MeetingHosts.php:95
+msgid "Select User"
+msgstr "사용자 선택"
+
+#: includes/views/live/tpl-add-user.php:83
+msgid ""
+"Select which WordPress user to assign. This will be only usable when the "
+"user approves your Zoom Invitation."
+msgstr "할당할 워드프레스 사용자를 선택합니다. 이것은 사용자가 귀하의 줌 초대를 승인한 경우에만 사용할 수 있습니다."
+
+#: includes/views/webinars/tpl-edit-webinar.php:116
+#: includes/views/webinars/tpl-add-webinar.php:119
+#: includes/views/live/tpl-edit-meeting.php:154
+#: includes/views/live/tpl-add-meetings.php:130
+#: includes/views/post-type/tpl-meeting-fields.php:275
+msgid ""
+"Set what type of auto recording feature you want to add. Default is none."
+msgstr "추가 할 자동 녹화 기능 유형을 설정합니다. 기본값은 없음입니다."
+
+#: includes/admin/class-zvc-admin-settings.php:82
+msgid "Settings"
+msgstr "설정"
+
+#: includes/admin/class-zvc-admin-settings.php:112
+#: includes/views/webinars/tpl-list-webinars.php:58
+#: includes/views/live/tpl-list-meetings.php:59
+msgid "Shortcode"
+msgstr "단축 코드"
+
+#: includes/views/tabs/api-settings.php:87
+msgid "Show All"
+msgstr "모두 보기"
+
+#: includes/Elementor/Widgets/RecordingsByHost.php:108
+#: includes/Elementor/Widgets/RecordingByMeetingID.php:106
+msgid "Show Downloadable Link"
+msgstr "다운로드 가능한 링크 표시"
+
+#: includes/Elementor/Widgets/WebinarList.php:139
+#: includes/Elementor/Widgets/MeetingList.php:141
+msgid "Show Filter"
+msgstr "필터 표시"
+
+#: includes/Elementor/Widgets/EmbedMeetings.php:123
+msgid "Show Help Text?"
+msgstr "도움말 텍스트를 표시 하시겠습니까?"
+
+#: includes/Elementor/Widgets/MeetingHosts.php:87
+msgid "Show Meeting by Zoom User"
+msgstr "줌 사용자 별 회의 표시"
+
+#: includes/views/tabs/api-settings.php:55
+msgid "Show Past Join Link ?"
+msgstr "이전 가입 링크를 표시 하시겠습니까?"
+
+#: includes/views/tabs/shortcode.php:45
+msgid "Show recordings based on HOST ID."
+msgstr "호스트 ID를 기반으로 녹화를 표시합니다."
+
+#: includes/views/tabs/shortcode.php:49
+msgid "Show Recordings based on Meeting ID"
+msgstr "회의 ID를 기반으로 녹화 표시"
+
+#: includes/Elementor/Widgets/RecordingsByHost.php:87
+msgid "Show Recordings via Host ID"
+msgstr "호스트 ID를 통해 녹화물 표시"
+
+#: includes/views/tabs/shortcode.php:41
+msgid "Show Webinar based meeting ID."
+msgstr "웨비나 기반 회의 ID를 표시합니다."
+
+#: includes/views/tabs/shortcode.php:37
+msgid "Show webinars based on HOST ID in frontend."
+msgstr "프런트 엔드에서 호스트 ID를 기반으로 웨비나를 표시합니다."
+
+#: includes/views/tabs/api-settings.php:62
+msgid "Show Zoom Author ?"
+msgstr "줌 작성자 표시?"
+
+#: templates/fragments/filters.php:14
+msgid "Showing all"
+msgstr "모두 표시"
+
+#: templates/shortcode/zoom-recordings.php:26
+#: templates/shortcode/zoom-recordings-by-meeting.php:55
+#: includes/views/live/tpl-list-recordings.php:25
+msgid "Size"
+msgstr "크기"
+
+#: includes/views/live/tpl-list-pending-users.php:16
+#: includes/views/live/tpl-list-users.php:30
+msgid "SN"
+msgstr "SN"
+
+#: templates/fragments/filters.php:34
+msgid "Sort Ascending"
+msgstr "오름차순 정렬"
+
+#: templates/fragments/filters.php:33
+msgid "Sort Descending"
+msgstr "내림차순 정렬"
+
+#: includes/views/live/tpl-add-user.php:27
+#: includes/views/live/tpl-add-user.php:44
+msgid "SSO Create"
+msgstr "SSO 만들기"
+
+#: templates/content-meeting.php:62 templates/fragments/meeting-details.php:35
+#: templates/shortcode/zoom-listing.php:64
+msgid "Start"
+msgstr "스타트"
+
+#: includes/admin/class-zvc-admin-post-type.php:124
+#: templates/shortcode/zoom-recordings-by-meeting.php:53
+msgid "Start Date"
+msgstr "시작일"
+
+#: includes/views/webinars/tpl-edit-webinar.php:44
+#: includes/views/webinars/tpl-add-webinar.php:55
+#: includes/views/live/tpl-edit-meeting.php:66
+#: includes/views/live/tpl-add-meetings.php:55
+#: includes/views/post-type/tpl-meeting-fields.php:134
+msgid "Start Date/Time *"
+msgstr "시작 날짜 / 시간 *"
+
+#: includes/admin/class-zvc-admin-post-type.php:123
+#: templates/fragments/join-links.php:27
+msgid "Start Meeting"
+msgstr "회의 시작"
+
+#: includes/template-functions.php:363 includes/template-functions.php:371
+#: includes/template-functions.php:385 templates/content-meeting.php:48
+#: includes/Shortcodes/Webinars.php:140 includes/Shortcodes/Meetings.php:238
+#: templates/shortcode/zoom-webinar.php:73
+#: templates/shortcode/zoom-webinar.php:81
+#: templates/shortcode/zoom-webinar.php:88
+#: templates/shortcode/zoom-listing.php:50
+#: includes/views/webinars/tpl-list-webinars.php:61
+#: includes/views/live/tpl-list-meetings.php:62
+msgid "Start Time"
+msgstr "시작 시간"
+
+#: includes/views/webinars/tpl-list-webinars.php:88
+#: includes/views/live/tpl-list-meetings.php:89
+msgid "Start via App"
+msgstr "앱을 통해 시작"
+
+#: includes/views/webinars/tpl-list-webinars.php:84
+#: includes/views/live/tpl-list-meetings.php:85
+msgid "Start via Browser"
+msgstr "브라우저를 통해 시작"
+
+#: includes/views/webinars/tpl-edit-webinar.php:87
+#: includes/views/webinars/tpl-add-webinar.php:91
+#: includes/views/live/tpl-edit-meeting.php:117
+#: includes/views/live/tpl-add-meetings.php:99
+#: includes/views/post-type/tpl-meeting-fields.php:199
+msgid "Start video when host join meeting."
+msgstr "호스트가 미팅에 참여하면 비디오를 시작합니다."
+
+#: includes/views/webinars/tpl-edit-webinar.php:95
+#: includes/views/webinars/tpl-add-webinar.php:99
+msgid "Start video when panelists join meeting."
+msgstr "토론자가 회의에 참여하면 비디오를 시작합니다."
+
+#: includes/views/post-type/tpl-meeting-fields.php:227
+msgid "Start video when panelists join webinar."
+msgstr "패널리스트가 웨비나에 참여하면 비디오를 시작합니다."
+
+#: includes/views/live/tpl-edit-meeting.php:126
+#: includes/views/live/tpl-add-meetings.php:108
+#: includes/views/post-type/tpl-meeting-fields.php:207
+msgid "Start video when participants join meeting."
+msgstr "참가자가 회의에 참여하면 비디오를 시작합니다."
+
+#: includes/views/post-type/tpl-meeting-fields.php:196
+msgid "Start When Host Joins"
+msgstr "호스트가 참여할 때 시작"
+
+#: includes/views/live/tpl-edit-meeting.php:76
+#: includes/views/live/tpl-add-meetings.php:58
+#: includes/views/post-type/tpl-meeting-fields.php:137
+msgid "Starting Date and Time of the Meeting (Required)."
+msgstr "회의 시작 날짜 및 시간 (필수)."
+
+#: includes/views/webinars/tpl-edit-webinar.php:54
+#: includes/views/webinars/tpl-add-webinar.php:58
+msgid "Starting Date and Time of the Webinar (Required)."
+msgstr "웨비나 시작 날짜 및 시간 (필수)."
+
+#: includes/admin/class-zvc-admin-sync.php:46
+msgid ""
+"Starting sync process.. Please wait for some time. Do not close this window "
+"until completed."
+msgstr "동기화 프로세스를 시작합니다. 잠시 기다려주십시오. 완료될 때까지 이 창을 닫지 마십시오."
+
+#: includes/views/webinars/tpl-list-webinars.php:60
+#: includes/views/live/tpl-list-meetings.php:61
+msgid "Status"
+msgstr "상태"
+
+#: includes/admin/class-zvc-admin-sync.php:185
+msgid "Successfully imported meeting with ID"
+msgstr "ID가 있는 회의를 가져 왔습니다."
+
+#: includes/admin/class-zvc-admin-settings.php:166
+msgid "Successfully Updated. Please refresh this page."
+msgstr "성공적으로 업데이트되었습니다. 이 페이지를 새로 고침하세요."
+
+#: includes/admin/class-zvc-admin-settings.php:115
+msgid "Support"
+msgstr "지원"
+
+#: includes/admin/class-zvc-admin-sync.php:45
+msgid "Sync Now"
+msgstr "지금 동기화"
+
+#: includes/views/sync.php:10
+msgid "Sync your Live Zoom Meetings to your site"
+msgstr " 라이브 줌 회의를 사이트에 동기화"
+
+#: includes/admin/class-zvc-admin-reports.php:96
+msgid "The fields cannot be Empty !!"
+msgstr "필드는 비워 둘 수 없습니다!!"
+
+#: includes/views/live/tpl-list-recordings.php:11
+msgid ""
+"The maximum range can be a month. If no value is provided for this field, "
+"the default will be current date. For example, if you make the API request "
+"on June 30, 2020, without providing the “from” parameter, by default the "
+"value of ‘from’ field will be “2020-05-30” and the value of the ‘to’ field "
+"will be “2020-06-30”."
+msgstr ""
+"최대 범위는 한 달이 될 수 있습니다. 이 필드에 값이 제공되지 않은 경우 기본값은 현재 날짜입니다. 예를 들어 'from'매개 변수를 "
+"제공하지 않고 2020년 6월 30일에 API 요청을하는 경우 기본적으로 'from'필드의 값은 '2020-05-30'이고 'to'필드의 "
+"값이됩니다. '2020-06-30'이 됩니다."
+
+#: includes/views/live/tpl-add-user.php:40
+msgid ""
+"This action is provided for API partner only. User created in this way has "
+"no password and is not able to log into the Zoom web site or client."
+msgstr ""
+"이 작업은 API 파트너에게만 제공됩니다. 이 방법으로 생성된 사용자는 비밀번호가 없으며 줌 웹 사이트 또는 클라이언트에 로그인 할 수 "
+"없습니다."
+
+#: includes/views/live/tpl-add-user.php:44
+msgid ""
+"This action is provided for enabled “Pre-provisioning SSO User” option. User "
+"created in this way has no password. If it is not a basic user, will "
+"generate a Personal Vanity URL using user name (no domain) of the "
+"provisioning email. If user name or pmi is invalid or occupied, will use "
+"random number/random personal vanity URL."
+msgstr ""
+"이 작업은 활성화된 “사전 프로비저닝 SSO 사용자” 옵션에 제공됩니다. 이 방법으로 생성된 사용자는 암호가 없습니다. 기본 사용자가 "
+"아닌 경우 프로비저닝 이메일의 사용자 이름 (도메인 없음)을 사용하여 개인 고유 URL을 생성합니다. 사용자 이름 또는 pmi가 유효하지 "
+"않거나 사용중인 경우 임의 번호 / 임의의 개인 가상 URL을 사용합니다."
+
+#: includes/views/live/tpl-add-user.php:36
+msgid ""
+"This action is provided for enterprise customer who has a managed domain. "
+"This feature is disabled by default because of the security risk involved in "
+"creating a user who does not belong to your domain without notifying the "
+"user."
+msgstr ""
+"이 작업은 관리되는 도메인이있는 기업 고객에게 제공됩니다. 이 기능은 사용자에게 알리지 않고 도메인에 속하지 않은 사용자를 생성하는 것과 "
+"관련된 보안 위험 때문에 기본적으로 비활성화되어 있습니다."
+
+#: includes/views/live/tpl-add-user.php:51
+msgid "This address is used for zoom (Required)."
+msgstr "이 주소는 확대 / 축소에 사용됩니다. (필수)"
+
+#: includes/views/sync.php:12
+msgid ""
+"This allows you to sync your live meetings from your Zoom Account to this "
+"site directly. Synced meetings will be inside Zoom Meeting > All Meetings "
+"page."
+msgstr ""
+"이를 통해 줌 계정의 라이브 미팅을 이 사이트로 직접 동기화 할 수 있습니다. 동기화 된 회의는 줌 회의 > 모든 회의 페이지에 있습니다."
+
+#: includes/views/tabs/api-settings.php:12
+msgid "this guide"
+msgstr "가이드"
+
+#: includes/template-functions.php:372 templates/shortcode/zoom-webinar.php:82
+msgid "This is a meeting with no Fixed Time."
+msgstr "이것은 고정 시간이 없는 회의입니다."
+
+#: includes/views/webinars/tpl-list-webinars.php:117
+#: includes/views/live/tpl-list-meetings.php:118
+msgid "This is a recurring meeting with no fixed time."
+msgstr "이것은 정해진 시간이없는 정기 회의입니다."
+
+#: includes/views/webinars/tpl-add-webinar.php:51
+#: includes/views/live/tpl-edit-meeting.php:62
+#: includes/views/live/tpl-add-meetings.php:51
+#: includes/views/post-type/tpl-meeting-fields.php:57
+#: includes/views/post-type/tpl-meeting-fields.php:89
+#: includes/views/post-type/tpl-meeting-fields.php:112
+msgid "This is host ID for the meeting (Required)."
+msgstr "회의의 호스트 ID입니다. (필수)"
+
+#: templates/join-web-browser.php:20
+msgid "This meeting has been ended by host."
+msgstr "이 회의는 호스트가 종료했습니다."
+
+#: includes/Bootstrap.php:112
+msgid "This meeting has been ended by the host."
+msgstr "이 회의는 호스트에 의해 종료되었습니다."
+
+#: includes/Timezone.php:49
+msgid "This meeting is no longer valid and cannot be joined !"
+msgstr "이 회의는 더 이상 유효하지 않으며 참여할 수 없습니다!"
+
+#: includes/views/live/tpl-assign-host-id.php:12
+msgid ""
+"This section allows you to assign \"Zoom\" host to your users from WordPress."
+" If you add a WordPress user to a Zoom Host from here then at the meeting "
+"creation that user will not see list of other host on his/her side except "
+"for administrator."
+msgstr ""
+"이 섹션에서는 워드프레스에서 사용자에게 \"줌\" 호스트를 할당 할 수 있습니다. 여기에서 줌 호스트에 워드프레스 사용자를 추가하면 회의 "
+"생성시 해당 사용자는 관리자를 제외한 다른 호스트 목록을 볼 수 없습니다."
+
+#: includes/admin/class-zvc-admin-post-type.php:387
+msgid "This will disable join via browser link in frontend page."
+msgstr "그러면 프론트 엔드 페이지에서 브라우저 링크를 통한 참여가 비활성화됩니다."
+
+#: includes/views/tabs/api-settings.php:58
+msgid ""
+"This will show join meeting links on frontend even after meeting time is "
+"already past."
+msgstr "회의 시간이 이미 지난 후에도 프런트 엔드에 회의 참가 링크가 표시됩니다."
+
+#: includes/template-functions.php:391 templates/content-meeting.php:67
+#: includes/Shortcodes/Webinars.php:141 includes/Shortcodes/Meetings.php:239
+#: templates/fragments/meeting-details.php:52
+#: templates/shortcode/zoom-webinar.php:93
+#: templates/shortcode/zoom-listing.php:69
+#: includes/views/webinars/tpl-edit-webinar.php:58
+#: includes/views/webinars/tpl-add-webinar.php:62
+#: includes/views/live/tpl-edit-meeting.php:80
+#: includes/views/live/tpl-add-meetings.php:62
+#: includes/views/post-type/tpl-meeting-fields.php:144
+msgid "Timezone"
+msgstr "시간대"
+
+#: includes/Elementor/Widgets/EmbedMeetings.php:138
+msgid "Title"
+msgstr "제목"
+
+#: includes/views/live/tpl-reports.php:124
+msgid "To"
+msgstr "To"
+
+#: includes/views/tabs/api-settings.php:12
+msgid "to generate the below API values from your Zoom account"
+msgstr "줌 계정에서 아래 API 값을 생성하려면"
+
+#: includes/template-functions.php:300 includes/Shortcodes/Webinars.php:139
+#: includes/Shortcodes/Meetings.php:236
+#: templates/fragments/meeting-details.php:27
+#: templates/shortcode/zoom-webinar.php:25
+#: templates/shortcode/zoom-recordings.php:23
+#: templates/shortcode/zoom-recordings-by-meeting.php:43
+#: includes/views/webinars/tpl-list-webinars.php:59
+#: includes/views/live/tpl-list-meetings.php:60
+#: includes/views/live/tpl-list-recordings.php:22
+msgid "Topic"
+msgstr "회의 제목"
+
+#: includes/views/live/tpl-reports.php:134
+msgid "Total Meeting Minutes"
+msgstr "총 회의 시간"
+
+#: includes/views/live/tpl-reports.php:111
+msgid "Total Meeting Minutes Combined: "
+msgstr "총 회의 회의록 :"
+
+#: includes/views/live/tpl-reports.php:109
+msgid "Total Meetings Held: "
+msgstr "개최 된 총 회의 :"
+
+#: includes/admin/class-zvc-admin-sync.php:43
+msgid "Total Not Synced Records"
+msgstr "동기화되지 않은 총 레코드"
+
+#: includes/views/live/tpl-reports.php:133
+msgid "Total Participants"
+msgstr "총 참가자"
+
+#: includes/views/live/tpl-reports.php:110
+msgid "Total Participants Involved: "
+msgstr "참여한 총 참가자 :"
+
+#: includes/admin/class-zvc-admin-sync.php:42
+msgid "Total Records Found"
+msgstr "발견 된 총 레코드"
+
+#: includes/views/live/tpl-reports.php:108
+msgid "Total Records Found: "
+msgstr "발견 된 총 레코드 :"
+
+#: templates/shortcode/zoom-recordings-by-meeting.php:44
+msgid "Total Size"
+msgstr "총합 크기"
+
+#: includes/views/webinars/tpl-list-webinars.php:87
+#: includes/views/live/tpl-list-meetings.php:88
+msgid "Trash"
+msgstr "폐물"
+
+#: includes/views/tabs/api-settings.php:202
+msgid "Try inactive logout"
+msgstr "비활성 로그아웃 시도"
+
+#: includes/template-functions.php:323 includes/template-functions.php:378
+#: templates/content-meeting.php:55
+#: includes/admin/class-zvc-admin-post-type.php:122
+#: templates/shortcode/zoom-webinar.php:33
+#: templates/shortcode/zoom-listing.php:57
+#: includes/Elementor/Widgets/MeetingHosts.php:108
+msgid "Type"
+msgstr "유형"
+
+#: includes/views/live/tpl-add-user.php:30
+#: includes/views/live/tpl-add-user.php:74
+msgid "Type of User (Required)"
+msgstr "사용자 유형 (필수)"
+
+#: includes/Elementor/Widgets/EmbedMeetings.php:141
+msgid "Type your title here"
+msgstr "여기에 제목 입력"
+
+#: includes/views/live/tpl-edit-meeting.php:178
+msgid "Update Meeting"
+msgstr "회의 업데이트"
+
+#: includes/admin/class-zvc-admin-meetings.php:92
+msgid "Updated meeting."
+msgstr "회의가 업데이트되었습니다."
+
+#: includes/admin/class-zvc-admin-webinars.php:114
+msgid "Updated Webinar."
+msgstr "웹 세미나가 업데이트되었습니다."
+
+#: includes/views/tabs/api-settings.php:153
+msgid "Use 24-hour format"
+msgstr "24시간 형식 사용"
+
+#: includes/views/tabs/api-settings.php:160
+msgid "Use full month label format ?"
+msgstr "월별 레이블 형식을 사용 하시겠습니까?"
+
+#: includes/views/live/tpl-list-pending-users.php:17
+#: includes/views/live/tpl-list-users.php:31
+msgid "User ID"
+msgstr "사용자 ID"
+
+#: includes/views/live/tpl-add-user.php:68
+msgid "User Type (Required)."
+msgstr "사용자 유형 (필수)."
+
+#: includes/views/live/tpl-add-user.php:32
+msgid ""
+"User will get an email sent from Zoom. There is a confirmation link in this "
+"email. User will then need to click this link to activate their account to "
+"the Zoom service. The user can set or change their password in Zoom."
+msgstr ""
+"사용자는 줌에서 보낸 이메일을 받게됩니다. 이 이메일에 확인 링크가 있습니다. 그러면 사용자는이 링크를 클릭하여 줌 서비스에 대한 계정을 "
+"활성화해야합니다. 사용자는 줌에서 비밀번호를 설정하거나 변경할 수 있습니다."
+
+#: includes/views/live/tpl-list-users.php:13
+msgid "Users"
+msgstr "사용자"
+
+#: includes/views/tabs/shortcode.php:13
+msgid "Using Shortcode Example"
+msgstr "단축 코드 사용 예"
+
+#: includes/views/tabs/api-settings.php:32
+msgid "Vanity URL"
+msgstr "고유 URL"
+
+#. Name of the plugin
+msgid "Video Conferencing with Zoom"
+msgstr "줌을 사용한 화상 회의"
+
+#. Description of the plugin
+msgid ""
+"Video Conferencing with Zoom Meetings and Webinars plugin provides you with "
+"great functionality of managing Zoom meetings, Webinar scheduling options, "
+"and users directly from your WordPress dashboard."
+msgstr ""
+"줌 회의 및 웨비나 플러그인을 사용한 화상 회의는 워드프레스 대시 보드에서 직접 줌 회의, 웨비나 예약 옵션 및 사용자를 관리하는 훌륭한 "
+"기능을 제공합니다."
+
+#: includes/admin/class-zvc-admin-post-type.php:252
+msgid "View meetings"
+msgstr "회의보기"
+
+#: templates/shortcode/zoom-recordings.php:41
+msgid "View Recordings"
+msgstr "녹화물 보기"
+
+#: includes/template-functions.php:308
+msgid "Waiting - Not started"
+msgstr "대기 중 - 시작되지 않음"
+
+#: includes/admin/class-zvc-admin-post-type.php:157
+msgid "Webinar"
+msgstr "웨비나"
+
+#: includes/Elementor/Widgets/EmbedMeetings.php:185
+msgid "Webinar ?"
+msgstr "웨비나?"
+
+#: includes/views/webinars/tpl-edit-webinar.php:37
+#: includes/views/webinars/tpl-add-webinar.php:36
+msgid "Webinar Agenda"
+msgstr "웨비나 아젠다"
+
+#: includes/views/webinars/tpl-edit-webinar.php:40
+#: includes/views/webinars/tpl-add-webinar.php:39
+msgid "Webinar Description."
+msgstr "웨비나 설명."
+
+#: includes/views/webinars/tpl-edit-webinar.php:73
+#: includes/views/webinars/tpl-add-webinar.php:77
+msgid "Webinar duration (minutes). (optional)"
+msgstr "웨비나 기간 (분). (선택 과목)"
+
+#: includes/views/webinars/tpl-add-webinar.php:43
+msgid "Webinar Host *"
+msgstr "웨비나 호스트 *"
+
+#: includes/views/webinars/tpl-list-webinars.php:57
+msgid "Webinar ID"
+msgstr "웨비나 ID"
+
+#: includes/template-functions.php:174
+msgid "Webinar is not defined. Try updating this Webinar"
+msgstr "웨비나가 정의되지 않았습니다. 이 웨비나 업데이트 시도"
+
+#: includes/views/webinars/tpl-edit-webinar.php:77
+#: includes/views/webinars/tpl-add-webinar.php:81
+msgid "Webinar Password"
+msgstr "웨비나 비밀번호"
+
+#: includes/views/webinars/tpl-edit-webinar.php:66
+#: includes/views/webinars/tpl-add-webinar.php:70
+msgid "Webinar Timezone"
+msgstr "웨비나 시간대"
+
+#: includes/views/webinars/tpl-edit-webinar.php:30
+#: includes/views/webinars/tpl-add-webinar.php:29
+msgid "Webinar Topic *"
+msgstr "웨비나 주제 "
+
+#: includes/views/webinars/tpl-edit-webinar.php:33
+#: includes/views/webinars/tpl-add-webinar.php:32
+msgid "Webinar topic. (Required)."
+msgstr "웨비나 주제. (필수)."
+
+#: includes/views/webinars/tpl-list-webinars.php:11
+msgid "Webinars"
+msgstr "웨비나"
+
+#: includes/Elementor/Widgets/WebinarList.php:95
+msgid "Webinars Category"
+msgstr "웨비나 카테고리"
+
+#: includes/Elementor/Widgets/WebinarList.php:108
+msgid "Webinars Order By"
+msgstr "웨비나 주문 기준"
+
+#: includes/Elementor/Widgets/WebinarList.php:123
+msgid "Webinars Type"
+msgstr "웨비나 유형"
+
+#: includes/views/live/tpl-add-user.php:13
+msgid "website"
+msgstr "웹 사이트"
+
+#: includes/views/live/tpl-add-user.php:12
+msgid "What does this do ? Check out"
+msgstr "이것은 무엇을합니까? 체크 아웃"
+
+#: includes/views/post-type/tpl-meeting-fields.php:223
+msgid "When Panelists Join"
+msgstr "패널리스트가 참여할 때"
+
+#: includes/views/post-type/tpl-meeting-fields.php:126
+msgid ""
+"Which type of meeting do you want to create. Note: Webinar requires Zoom "
+"Webinar Plan enabled in your account."
+msgstr "어떤 유형의 회의를 만드시겠습니까? 참고 : 웨비나에는 계정에서 줌 웨비나 플랜이 활성화되어 있어야합니다."
+
+#: includes/admin/class-zvc-admin-post-type.php:304
+msgid "WooCommerce Integration?"
+msgstr "우커머스 통합?"
+
+#: includes/template-functions.php:97
+msgid "You are seeing this because you are the author of this post."
+msgstr "이 게시물의 작성자이기 때문에 표시됩니다."
+
+#: includes/views/post-type/tpl-meeting-fields.php:64
+msgid ""
+"You cannot update meeting type. This is not allowed to avoid any conflict "
+"issues."
+msgstr "회의 유형을 업데이트 할 수 없습니다. 이것은 충돌 문제를 피하기 위해 허용되지 않습니다."
+
+#: templates/join-web-browser.php:106
+msgid ""
+"You do not have enough priviledge to access this page. Please login to "
+"continue or contact administrator."
+msgstr "이 페이지에 액세스 할 수있는 권한이 없습니다. 계속하려면 로그인하거나 관리자에게 문의하십시오."
+
+#: includes/admin/class-zvc-admin-post-type.php:225
+msgctxt "Zoom Category Name"
+msgid "Category"
+msgstr "카테고리"
+
+#: includes/admin/class-zvc-admin-post-type.php:291
+msgid "Zoom Details"
+msgstr "줌 세부 정보"
+
+#: includes/admin/class-zvc-admin-settings.php:106
+msgid "Zoom Integration Settings"
+msgstr "줌 통합 설정"
+
+#: includes/Elementor/Widgets/MeetingByID.php:45
+#: includes/views/post-type/tpl-meeting-fields.php:63
+msgid "Zoom Meeting"
+msgstr "줌 회의"
+
+#: includes/admin/class-zvc-admin-post-type.php:245
+#: includes/admin/class-zvc-admin-post-type.php:246
+#: includes/admin/class-zvc-admin-post-type.php:247
+msgctxt "Zoom Meeting"
+msgid "Zoom Meeting"
+msgstr "줌  회의"
+
+#: includes/admin/class-zvc-admin-post-type.php:244
+msgctxt "Zoom Meetings and Webinars"
+msgid "Zoom Meetings and Webinars"
+msgstr "줌  회의 및 웨비나"
+
+#: includes/Elementor/Widgets/MeetingList.php:48
+msgid "Zoom Meetings List"
+msgstr "줌  회의 목록"
+
+#: includes/Elementor/Widgets/MeetingHosts.php:46
+msgid "Zoom Meetings via Host"
+msgstr "호스트를 통한 줌  회의"
+
+#: includes/Elementor/Widgets/RecordingsByHost.php:46
+msgid "Zoom Recordings by Host"
+msgstr "호스트 별 줌 녹화"
+
+#: includes/admin/class-zvc-admin-settings.php:43
+msgid "Zoom Users"
+msgstr "줌  사용자"
+
+#: includes/views/post-type/tpl-meeting-fields.php:63
+msgid "Zoom Webinar"
+msgstr "줌  웨비나"
+
+#: includes/Elementor/Widgets/WebinarList.php:46
+msgid "Zoom Webinars List"
+msgstr "줌  웨비나 목록"

@@ -1,0 +1,601 @@
+# Copyright (C) 2020 Ultimate Member
+# This file is distributed under the same license as the Ultimate Member - WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Member - WooCommerce 2.2.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/um-woocommerce\n"
+"Last-Translator: 에듀베이직\n"
+"Language-Team: 한국어\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-08-12T16:19:57+03:00\n"
+"PO-Revision-Date: 2021-01-22 00:52+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: um-woocommerce\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.5.0; wp-5.6"
+
+#: includes/core/class-woocommerce-account.php:357
+msgid "\"%s\" field is required"
+msgstr "\"%s\"필드는 필수입니다."
+
+#: templates/orders.php:93
+msgid "%s of %d"
+msgstr "%s of %d"
+
+#: includes/core/filters/um-woocommerce-fields.php:66
+msgid "%s order"
+msgstr "%s 주문"
+
+#: includes/core/filters/um-woocommerce-fields.php:68
+msgid "%s orders"
+msgstr "%s 주문"
+
+#: templates/my-purchases.php:42 templates/product-reviews.php:35
+msgid "<a href=\"%s\" class=\"um-woo-grid-imgc\">%s</a>"
+msgstr "%s"
+
+#: templates/my-purchases.php:44 templates/product-reviews.php:37
+msgid "<img src=\"%s\" alt=\"%s\" class=\"um-woo-grid-imgc\" />"
+msgstr "<img src=\"%s\" alt=\"%s\" class=\"um-woo-grid-imgc\" />"
+
+#: includes/core/class-woocommerce-member-directory.php:474
+msgid "<strong>Total Orders:</strong>&nbsp;{min_range} - {max_range}"
+msgstr "<strong>총 주문 :</strong>&nbsp;{min_range} - {max_range}"
+
+#: includes/core/class-woocommerce-member-directory.php:473
+msgid "<strong>Total Orders:</strong>&nbsp;{value}"
+msgstr " <strong>총 주문 :</strong>&nbsp;{value}"
+
+#: includes/core/class-woocommerce-member-directory.php:478
+#: includes/core/class-woocommerce-member-directory.php:479
+msgid "<strong>Total Spent ("
+msgstr "<strong>총 지출 ("
+
+#: templates/orders.php:35
+msgid "Actions"
+msgstr "행위"
+
+#: templates/subscription.php:15
+msgid "All subscriptions"
+msgstr "모든 구독"
+
+#: includes/admin/core/class-admin.php:77
+msgid "Assign this role to users when an order is completed/processing"
+msgstr "주문 완료 / 처리시 사용자에게이 역할 할당"
+
+#: includes/admin/core/class-admin.php:94
+msgid "Assign this role to users when an order is refunded"
+msgstr "주문이 환불 될 때 사용자에게이 역할을 할당합니다."
+
+#: includes/admin/core/class-admin.php:95
+msgid "Automatically set the user this role when an order is refunded."
+msgstr "주문이 환불되면 사용자에게이 역할을 자동으로 설정합니다."
+
+#: includes/admin/core/class-admin.php:78
+msgid ""
+"Automatically set the user this role when an order's payment is completed."
+msgstr ""
+"주문 결제가 완료되면 사용자에게이 역할을 자동으로 설정합니다.\n"
+
+#: includes/core/class-woocommerce-account.php:117
+msgid "Billing Address"
+msgstr "청구 지 주소"
+
+#: includes/core/class-woocommerce-main-api.php:498
+msgid "Can not find state field in this form."
+msgstr "Can not find state field in this form."
+
+#: includes/core/class-woocommerce-account.php:519
+msgid "Cancel order"
+msgstr "주문 취소"
+
+#: includes/admin/core/class-admin.php:70
+msgid "Community role(s).."
+msgstr "커뮤니티 역할..."
+
+#: includes/admin/core/class-admin.php:80
+#: includes/admin/core/class-admin.php:97
+msgid "Community role..."
+msgstr "커뮤니티 역할..."
+
+#: templates/orders.php:30 templates/orders.php:52
+msgid "Date"
+msgstr "날짜"
+
+#: includes/admin/templates/role/woocommerce.php:24
+msgid ""
+"Depends on option <em>Hide billing tab from members in account page</em> on "
+"[Ultimate Member > Settings > Extensions > Woocommerce] page."
+msgstr ""
+"[얼티밋멤버> 설정> 확장 프로그램> 우커머스] 페이지의 <em> 계정 페이지에서 회원의 결제 탭 숨기기 </em> 옵션에 따라 다릅니다."
+
+#: includes/admin/templates/role/woocommerce.php:31
+msgid ""
+"Depends on option <em>Hide shipping tab from members in account page</em> on "
+"[Ultimate Member > Settings > Extensions > Woocommerce] page."
+msgstr "[얼티밋멤버> 설정> 확장> 우커머스] 페이지의 계정 페이지에서 회원의 배송 탭 숨기기 옵션에 따라 다릅니다."
+
+#: includes/admin/core/class-admin.php:134
+msgid "Disable default WooCommerce Subscriptions roles switcher."
+msgstr "기본 우커머스 구독 역할 전환기를 비활성화합니다."
+
+#: includes/admin/core/class-admin.php:133
+msgid "Disable subscriptions roles switcher"
+msgstr "구독 역할 전환기 비활성화"
+
+#: includes/admin/templates/role/woocommerce.php:23
+msgid "Display billing address under account?"
+msgstr "계정에 청구 지 주소를 표시 하시겠습니까?"
+
+#: includes/admin/templates/role/woocommerce.php:49
+msgid "Display downloads under account?"
+msgstr "계정에 다운로드를 표시 하시겠습니까?"
+
+#: includes/admin/templates/role/woocommerce.php:37
+msgid "Display orders under account?"
+msgstr "계정에 주문을 표시 하시겠습니까?"
+
+#: includes/admin/templates/role/woocommerce.php:55
+msgid "Display payment methods under account?"
+msgstr "계정에 결제 수단을 표시 하시겠습니까?"
+
+#: includes/admin/templates/role/woocommerce.php:11
+msgid "Display purchases tab in profile?"
+msgstr "프로필에 구매 탭을 표시 하시겠습니까?"
+
+#: includes/admin/templates/role/woocommerce.php:17
+msgid "Display reviews tab in profile?"
+msgstr "프로필에 리뷰 탭을 표시 하시겠습니까?"
+
+#: includes/admin/templates/role/woocommerce.php:30
+msgid "Display shipping address under account?"
+msgstr "계정에 배송지 주소를 표시 하시겠습니까?"
+
+#: includes/admin/templates/role/woocommerce.php:43
+msgid "Display subscriptions under account?"
+msgstr "계정에 구독을 표시 하시겠습니까?"
+
+#: includes/core/class-woocommerce-account.php:155
+msgid "Downloads"
+msgstr "다운로드"
+
+#: includes/admin/core/class-admin.php:113
+msgid ""
+"Enable this option If you do not want to show the billing tab from members "
+"in account page."
+msgstr "계정 페이지에서 멤버의 결제 탭을 표시하지 않으려면 이 옵션을 활성화합니다."
+
+#: includes/admin/core/class-admin.php:119
+msgid ""
+"Enable this option If you do not want to show the shipping tab from members "
+"in account page."
+msgstr "계정 페이지에서 회원의 배송 탭을 표시하지 않으려면 이 옵션을 활성화합니다."
+
+#: templates/orders.php:103
+msgid "First Page"
+msgstr "첫 페이지"
+
+#: includes/core/class-woocommerce-account.php:220
+msgid "Followings"
+msgstr "팔로우"
+
+#: includes/admin/core/class-admin.php:112
+msgid "Hide billing tab from members in account page"
+msgstr "계정 페이지에서 회원의 결제 탭 숨기기"
+
+#: includes/admin/core/class-admin.php:118
+msgid "Hide shipping tab from members in account page"
+msgstr "계정 페이지에서 회원의 배송 탭 숨기기"
+
+#. Author URI of the plugin
+msgid "http://ultimatemember.com/"
+msgstr "http://ultimatemember.com/"
+
+#. Plugin URI of the plugin
+msgid "http://ultimatemember.com/extensions/woocommerce"
+msgstr "http://ultimatemember.com/extensions/woocommerce"
+
+#: includes/admin/core/class-admin.php:104
+msgid ""
+"If yes then remove all users roles and add current, else add current role to "
+"other roles, which user already has"
+msgstr ""
+"그렇다면 모든 사용자 역할을 제거하고 현재 역할을 추가하십시오. 그렇지 않으면 사용자가 이미 가지고있는 다른 역할에 현재 역할을 "
+"추가하십시오."
+
+#: includes/admin/core/class-admin.php:67
+msgid ""
+"Ignore the roles update, if the user has these roles on complete/processing "
+"or refund payment"
+msgstr "사용자에게 결제 완료 / 처리 또는 환불에 대한 이러한 역할이 있는 경우 역할 업데이트를 무시합니다."
+
+#: includes/core/class-woocommerce-account.php:229
+msgid "Inquiries"
+msgstr "문의"
+
+#. Description of the plugin
+msgid "Integrates your WooCommerce store with Ultimate Member."
+msgstr "우커머스 스토어를 얼티밋멤버와 통합하십시오."
+
+#: templates/orders.php:87
+msgid "Jump to page:"
+msgstr "페이지로 이동 :"
+
+#: templates/order-popup.php:41
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+#: templates/orders.php:139
+msgid "Last Page"
+msgstr "마지막 페이지"
+
+#: includes/core/class-woocommerce-account.php:178
+msgid "Memberships"
+msgstr "멤버십"
+
+#: includes/core/class-woocommerce-account.php:137
+msgid "My Orders"
+msgstr "내 주문"
+
+#: templates/orders.php:131
+msgid "Next"
+msgstr "다음"
+
+#: includes/admin/core/class-admin.php:87
+#: includes/admin/core/class-admin.php:105
+msgid "No"
+msgstr "아니"
+
+#: includes/core/class-woocommerce-account.php:685
+msgid "No User Memberships found"
+msgstr "사용자 멤버십을 찾을 수 없습니다."
+
+#: includes/admin/core/class-admin.php:79
+#: includes/admin/core/class-admin.php:96
+#: includes/admin/templates/product/settings.php:2
+msgid "None"
+msgstr "없음"
+
+#: includes/admin/core/class-admin.php:68
+msgid ""
+"Only applicable if you assigned a role when order is completed/processing or "
+"refund."
+msgstr "주문 완료 / 처리 또는 환불시 역할을 할당 한 경우에만 적용됩니다."
+
+#: templates/order-popup.php:31
+msgid ""
+"Order #<mark class=\"order-number\">%s</mark> was placed on <mark "
+"class=\"order-date\">%s</mark> and is currently <mark class=\"order-status\">"
+"%s</mark>."
+msgstr "주문 번호 %s이(가) %s에 접수되었으며 현재 %s입니다."
+
+#: templates/order-popup.php:35
+msgid "Order Updates"
+msgstr "주문 업데이트"
+
+#: templates/order-popup.php:22
+msgid "Order# %s"
+msgstr "주문 번호 %s"
+
+#: includes/core/class-woocommerce-account.php:164
+msgid "Payment methods"
+msgstr "지불 방법"
+
+#: includes/core/class-woocommerce-account.php:778
+msgid "PDF Invoice"
+msgstr "PDF 송장"
+
+#: templates/my-purchases.php:44 templates/product-reviews.php:37
+msgid "Placeholder"
+msgstr "자리 표시 자"
+
+#: templates/orders.php:111
+msgid "Previous"
+msgstr "이전"
+
+#: includes/core/filters/um-woocommerce-tabs.php:18
+msgid "Product Reviews"
+msgstr "제품 리뷰"
+
+#: includes/core/filters/um-woocommerce-tabs.php:13
+msgid "Purchases"
+msgstr "구매"
+
+#: includes/admin/core/class-admin.php:103
+msgid ""
+"Remove previous roles when change role on complete/processing or refund "
+"payment"
+msgstr "결제 완료 / 처리 또는 환불시 역할 변경시 이전 역할 제거"
+
+#: includes/core/class-woocommerce-account.php:120
+#: includes/core/class-woocommerce-account.php:130
+msgid "Save Address"
+msgstr "주소 저장"
+
+#: includes/core/class-woocommerce-account.php:127
+msgid "Shipping Address"
+msgstr "배송 주소"
+
+#: includes/admin/core/class-admin.php:125
+msgid "Show Actions column in the Orders table."
+msgstr "주문 테이블에 작업 열을 표시합니다."
+
+#: includes/admin/core/class-admin.php:124
+msgid "Show order actions"
+msgstr "주문 작업 표시"
+
+#: templates/orders.php:31 templates/orders.php:55
+msgid "Status"
+msgstr "상태"
+
+#: includes/core/class-woocommerce-account.php:203
+msgid "Store Manager"
+msgstr "점장"
+
+#: templates/subscription.php:16
+msgid "Subscription"
+msgstr "신청"
+
+#: includes/core/class-woocommerce-account.php:146
+msgid "Subscriptions"
+msgstr "구독"
+
+#: includes/core/class-woocommerce-account.php:238
+msgid "Support Tickets"
+msgstr "지원 티켓"
+
+#: um-woocommerce.php:46 um-woocommerce.php:62
+msgid ""
+"The <strong>%s</strong> extension requires the Ultimate Member plugin to be "
+"activated to work properly. You can download it <a href=\"https://wordpress."
+"org/plugins/ultimate-member\">here</a>"
+msgstr "%s 확장이 제대로 작동하려면 얼티밋멤버 플러그인을 활성화해야합니다. 여기에서 다운로드 할 수 있습니다."
+
+#: includes/core/class-woocommerce-main-api.php:436
+msgid ""
+"To enable automatic renewals for this subscription, you will first need to "
+"add a payment method."
+msgstr "이 구독에 대해 자동 갱신을 활성화하려면 먼저 결제 방법을 추가해야합니다."
+
+#: templates/orders.php:32 templates/orders.php:58
+msgid "Total"
+msgstr "합계"
+
+#: includes/core/class-woocommerce-member-directory.php:387
+#: includes/core/filters/um-woocommerce-fields.php:25
+#: includes/core/filters/um-woocommerce-fields.php:28
+msgid "Total Orders"
+msgstr "총 주문"
+
+#: templates/my-purchases.php:53
+msgid "Total Sales"
+msgstr "총 매출"
+
+#: includes/core/class-woocommerce-member-directory.php:388
+#: includes/core/filters/um-woocommerce-fields.php:14
+#: includes/core/filters/um-woocommerce-fields.php:17
+msgid "Total Spent"
+msgstr "총 지출"
+
+#. Author of the plugin
+#: includes/admin/core/class-admin.php:154
+msgid "Ultimate Member"
+msgstr "얼티밋 멤버"
+
+#. Plugin Name of the plugin
+msgid "Ultimate Member - WooCommerce"
+msgstr "얼티밋 멤버- 우커머스"
+
+#: includes/admin/core/class-admin.php:86
+msgid ""
+"Upgrade user role when payment is on-hold before complete or processing "
+"status"
+msgstr "완료 또는 처리 상태 전에 결제가 보류 된 경우 사용자 역할 업그레이드"
+
+#: includes/core/actions/um-woocommerce-tabs.php:24
+#: templates/my-purchases.php:18
+msgid "User did not purchase any product yet."
+msgstr "사용자가 아직 제품을 구매하지 않았습니다."
+
+#: includes/core/actions/um-woocommerce-tabs.php:56
+#: templates/product-reviews.php:16
+msgid "User did not review any product yet."
+msgstr "사용자가 아직 제품을 검토하지 않았습니다."
+
+#: templates/orders.php:60
+msgid "View order"
+msgstr "주문보기"
+
+#: includes/core/class-woocommerce-main-api.php:63
+#: includes/core/class-woocommerce-main-api.php:66
+msgid "WC Billing Address 1"
+msgstr "WC 청구 지 주소 1"
+
+#: includes/core/class-woocommerce-main-api.php:73
+#: includes/core/class-woocommerce-main-api.php:76
+msgid "WC Billing Address 2"
+msgstr "WC 청구 지 주소 2"
+
+#: includes/core/class-woocommerce-main-api.php:83
+#: includes/core/class-woocommerce-main-api.php:86
+msgid "WC Billing city"
+msgstr "WC 청구 도시"
+
+#: includes/core/class-woocommerce-main-api.php:53
+#: includes/core/class-woocommerce-main-api.php:56
+msgid "WC Billing Company"
+msgstr "WC 청구 국가"
+
+#: includes/core/class-woocommerce-main-api.php:103
+#: includes/core/class-woocommerce-main-api.php:106
+#: includes/core/class-woocommerce-member-directory.php:385
+msgid "WC Billing country"
+msgstr "WC 청구 국가"
+
+#: includes/core/class-woocommerce-main-api.php:134
+#: includes/core/class-woocommerce-main-api.php:137
+msgid "WC Billing email"
+msgstr "WC 결제 이메일"
+
+#: includes/core/class-woocommerce-main-api.php:33
+#: includes/core/class-woocommerce-main-api.php:36
+msgid "WC Billing First name"
+msgstr "WC 청구 이름"
+
+#: includes/core/class-woocommerce-main-api.php:43
+#: includes/core/class-woocommerce-main-api.php:46
+msgid "WC Billing Last name"
+msgstr "WC 청구 성"
+
+#: includes/core/class-woocommerce-main-api.php:124
+#: includes/core/class-woocommerce-main-api.php:127
+msgid "WC Billing phone"
+msgstr "WC 결제 전화"
+
+#: includes/core/class-woocommerce-main-api.php:93
+#: includes/core/class-woocommerce-main-api.php:96
+msgid "WC Billing postcode"
+msgstr "WC 결제 우편 번호"
+
+#: includes/core/class-woocommerce-main-api.php:114
+#: includes/core/class-woocommerce-main-api.php:117
+msgid "WC Billing state"
+msgstr "WC 결제 상태"
+
+#: includes/core/class-woocommerce-main-api.php:176
+#: includes/core/class-woocommerce-main-api.php:179
+msgid "WC Shipping Address 1"
+msgstr "WC 배송 주소 1"
+
+#: includes/core/class-woocommerce-main-api.php:186
+#: includes/core/class-woocommerce-main-api.php:189
+msgid "WC Shipping Address 2"
+msgstr "WC 배송지 주소 2"
+
+#: includes/core/class-woocommerce-main-api.php:196
+#: includes/core/class-woocommerce-main-api.php:199
+msgid "WC Shipping city"
+msgstr "WC 배송 도시"
+
+#: includes/core/class-woocommerce-main-api.php:166
+#: includes/core/class-woocommerce-main-api.php:169
+msgid "WC Shipping Company"
+msgstr "WC 배송 회사"
+
+#: includes/core/class-woocommerce-main-api.php:216
+#: includes/core/class-woocommerce-main-api.php:219
+#: includes/core/class-woocommerce-member-directory.php:386
+msgid "WC Shipping country"
+msgstr "WC 배송 국가"
+
+#: includes/core/class-woocommerce-main-api.php:247
+#: includes/core/class-woocommerce-main-api.php:250
+msgid "WC Shipping email"
+msgstr "WC 배송 이메일"
+
+#: includes/core/class-woocommerce-main-api.php:146
+#: includes/core/class-woocommerce-main-api.php:149
+msgid "WC Shipping First name"
+msgstr "WC 배송 이름"
+
+#: includes/core/class-woocommerce-main-api.php:156
+#: includes/core/class-woocommerce-main-api.php:159
+msgid "WC Shipping Last name"
+msgstr "WC 배송 성"
+
+#: includes/core/class-woocommerce-main-api.php:237
+#: includes/core/class-woocommerce-main-api.php:240
+msgid "WC Shipping phone"
+msgstr "WC 배송 전화"
+
+#: includes/core/class-woocommerce-main-api.php:206
+#: includes/core/class-woocommerce-main-api.php:209
+msgid "WC Shipping postcode"
+msgstr "WC 배송 우편 번호"
+
+#: includes/core/class-woocommerce-main-api.php:227
+#: includes/core/class-woocommerce-main-api.php:230
+msgid "WC Shipping state"
+msgstr "WC 배송 상태"
+
+#: includes/admin/templates/product/settings.php:26
+msgid "When subscription is ACTIVATED move user to this role"
+msgstr "구독이 활성화되면 사용자를이 역할로 이동"
+
+#: includes/admin/templates/product/settings.php:74
+msgid "When subscription is CANCELLED move user to this role"
+msgstr "구독이 취소되면 사용자를이 역할로 이동"
+
+#: includes/admin/templates/product/settings.php:62
+msgid "When subscription is EXPIRED move user to this role"
+msgstr "구독이 만료되면 사용자를이 역할로 이동"
+
+#: includes/admin/templates/product/settings.php:50
+msgid "When subscription is ON-HOLD move user to this role"
+msgstr "구독이 보류 중이면 사용자를이 역할로 이동"
+
+#: includes/admin/templates/product/settings.php:38
+msgid "When subscription is PENDING move user to this role"
+msgstr "구독이 보류 중이면 사용자를이 역할로 이동"
+
+#: includes/admin/templates/product/settings.php:86
+msgid "When subscription is PENDING-CANCEL move user to this role"
+msgstr "구독이 취소 보류 중이면 사용자를이 역할로 이동"
+
+#: includes/admin/templates/product/settings.php:11
+msgid "When this product is bought move user to this role"
+msgstr "이 제품을 구매하면 사용자를 이 역할로 이동"
+
+#: includes/core/class-woocommerce-account.php:191
+msgid "Wishlist"
+msgstr "위시리스트"
+
+#: includes/admin/core/class-admin.php:198
+msgid "WooCommerce"
+msgstr "우커머스"
+
+#: includes/admin/core/class-admin.php:140
+msgid "Woocommerce"
+msgstr "우커머스"
+
+#: includes/admin/core/class-admin.php:57
+msgid "Woocommerce License Key"
+msgstr "우커머스 라이센스 키"
+
+#: um-woocommerce.php:70
+msgid "WooCommerce must be activated before you can use %s."
+msgstr "%s을(를) 사용하려면 먼저 우커머스를 활성화해야합니다."
+
+#: includes/core/class-woocommerce-main-api.php:436
+msgid "Would you like to add a payment method now?"
+msgstr "지금 결제 수단을 추가 하시겠습니까?"
+
+#: includes/admin/core/class-admin.php:87
+#: includes/admin/core/class-admin.php:105
+msgid "Yes"
+msgstr "예"
+
+#: includes/core/actions/um-woocommerce-tabs.php:24
+#: templates/my-purchases.php:18
+msgid "You did not purchase any product yet."
+msgstr "아직 제품을 구매하지 않았습니다."
+
+#: includes/core/actions/um-woocommerce-tabs.php:56
+#: templates/product-reviews.php:16
+msgid "You did not review any products yet."
+msgstr "아직 상품을 검토하지 않았습니다."
+
+#: templates/orders.php:149
+msgid "You don't have orders yet"
+msgstr "아직 주문이 없습니다."
+
+#: includes/core/class-woocommerce-account.php:1102
+msgid "Your billing address is updated."
+msgstr "청구서 수신 주소가 업데이트되었습니다."
+
+#: includes/core/class-woocommerce-account.php:1106
+msgid "Your shipping address is updated."
+msgstr "배송지 주소가 업데이트되었습니다."
