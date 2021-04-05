@@ -2,6 +2,10 @@
 
 ༼ つ ◕_◕ ༽つ
 
+## 테마 목록
+01. 디비 테마
+	: /wp-content/themes/Divi/includes/builder/languages/ko_KR.mo 파일 업로드
+
 ## 플러그인 목록
 01. 런대쉬 (LearnDash LMS)
 	: 버전 3.4.0.2
