@@ -29,3 +29,5 @@
 	: 버전 3.7.4
 11. 사이트 통계 (WP Statistics)
 	: 버전 13.0.8
+12. 런대쉬 평가, 리뷰 및 피드백 (LearnDash Ratings, Reviews & Feedback)
+	: 버전 2.1.4

@@ -1,0 +1,1396 @@
+# Copyright (C) 2021 WisdmLabs
+# This file is distributed under the same license as the LearnDash Ratings, Reviews, and Feedback plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnDash Ratings, Reviews, and Feedback 2.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wdm-course-"
+"review\n"
+"Last-Translator: 에듀베이직\n"
+"Language-Team: 한국어\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-03-18T17:05:16+05:30\n"
+"PO-Revision-Date: 2021-04-13 00:11+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: wdm_ld_course_review\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.5.2; wp-5.7"
+
+#: public/class-feedback-handler.php:102
+msgid " characters."
+msgstr " characters."
+
+#: admin/class-course-feedback-cpt.php:450
+#: admin/class-course-feedback-cpt.php:475
+msgid " Feedback"
+msgstr "피드백"
+
+#: admin/class-course-feedback-cpt.php:474
+msgid " feedback"
+msgstr "피드백"
+
+#: admin/class-course-feedback-cpt.php:451
+msgid " Feedback of LD Courses"
+msgstr "런대쉬 강의  피드백"
+
+#: admin/class-course-metabox.php:243
+msgid " out of "
+msgstr "밖으로"
+
+#: admin/class-course-review-cpt.php:679
+msgid " Review"
+msgstr "리뷰"
+
+#: admin/class-course-review-cpt.php:678
+msgid " review"
+msgstr "리뷰"
+
+#: admin/class-course-review-cpt.php:656
+msgid " Review of LD "
+msgstr "런대쉬 검토"
+
+#. translators: %d: Number of People.
+#: includes/functions.php:285
+msgid "%d people found this helpful."
+msgstr "%d 명이 유용하다고 생각했습니다."
+
+#. translators: %s : human-readable time difference
+#: includes/functions.php:746 public/templates/single-review.php:37
+msgctxt "%s = human-readable time difference"
+msgid "Posted %s ago"
+msgstr " %s 전에 게시 됨"
+
+#. translators: %s : Course Label
+#: admin/class-course-feedback-cpt.php:500
+msgid "%s Feedback"
+msgstr "%s  피드백"
+
+#. translators: %s : Course Label
+#: admin/class-course-review-cpt.php:715
+msgid "%s Reviews"
+msgstr "%s 리뷰"
+
+#: includes/constants.php:116
+msgid "'LearnDash Ratings, Reviews, and Feedback'"
+msgstr "'런대쉬 평가, 리뷰 및 피드백'"
+
+#: admin/class-course-review-cpt.php:362
+msgid "(Not Published)"
+msgstr "(게시되지 않음)"
+
+#: public/templates/popup-feedback-form.php:38
+msgid "*This feedback will be privately emailed to the author."
+msgstr "* 이 피드백은 작성자에게 비공개로 이메일로 전송됩니다."
+
+#. translators: %s : Course Label
+#: admin/class-course-feedback-cpt.php:170
+#: admin/class-course-review-cpt.php:238
+msgid "--- Select %s ---"
+msgstr "--- %s 선택 ---"
+
+#: public/templates/all-reviews-section-cum-listing.php:87
+#: public/templates/reviews-section.php:135
+msgid "1 star only"
+msgstr "별 1개만"
+
+#: public/templates/all-reviews-section-cum-listing.php:86
+#: public/templates/reviews-section.php:134
+msgid "2 star only"
+msgstr "별 2개만"
+
+#: public/templates/all-reviews-section-cum-listing.php:85
+#: public/templates/reviews-section.php:133
+msgid "3 star only"
+msgstr "별 3개만"
+
+#: public/templates/all-reviews-section-cum-listing.php:84
+#: public/templates/reviews-section.php:132
+msgid "4 star only"
+msgstr "별 4개만"
+
+#: public/templates/all-reviews-section-cum-listing.php:83
+#: public/templates/reviews-section.php:131
+msgid "5 star only"
+msgstr "별 5개만"
+
+#: public/templates/all-reviews-section-cum-listing.php:144
+msgid "<< Previous Page"
+msgstr "<< 이전 페이지"
+
+#. translators: %d : Total Number of Reviews.
+#: public/templates/reviews-section.php:70
+msgid "<span class=\"reviews-total\">%d</span> Ratings"
+msgstr "%d 등급"
+
+#: public/templates/review-details.php:46
+msgid "Add a headline*"
+msgstr "* 리뷰 제목 작성"
+
+#: public/templates/review-details.php:58
+msgid "Add a photo or video"
+msgstr "사진 또는 비디오 추가"
+
+#. translators: %s : Course Label
+#: admin/class-course-feedback-cpt.php:479
+msgid "Add New %s Feedback"
+msgstr "새 %s  피드백 추가"
+
+#. translators: %s : Course Label
+#: admin/class-course-review-cpt.php:683
+msgid "Add New %s Review"
+msgstr "새 %s 리뷰 추가"
+
+#: admin/class-rrf-question-cpt.php:156
+msgid "Add New Option"
+msgstr "새 옵션 추가"
+
+#: admin/class-rrf-question-cpt.php:79
+msgid "Add New Question"
+msgstr "새 질문 추가"
+
+#: admin/class-rrf-survey-cpt.php:275
+msgid "Add New Survey"
+msgstr "새 설문 조사 추가"
+
+#: admin/class-rrf-survey-cpt.php:308
+msgid "Add Question"
+msgstr "질문 추가"
+
+#: admin/class-rrf-question-cpt.php:144
+msgid "Add Your Option"
+msgstr "옵션 추가"
+
+#: admin/templates/review-general-setting.php:56
+msgid "Admin approval required on reviews"
+msgstr "리뷰 작성 시 관리자 승인 필요"
+
+#: admin/class-course-metabox.php:355
+msgid "After Content"
+msgstr "내용 후"
+
+#. translators: %s : Course Label
+#: admin/class-course-feedback-cpt.php:477
+msgid "All %s Feedback"
+msgstr "모든 %s  피드백"
+
+#. translators: %s : Course Label
+#: admin/class-course-review-cpt.php:681
+msgid "All %s Reviews"
+msgstr "모든 %s 리뷰"
+
+#: public/templates/all-reviews-section-cum-listing.php:62
+msgid "All Courses"
+msgstr "모든 강의"
+
+#: admin/class-rrf-question-cpt.php:82
+msgid "All Questions"
+msgstr "모든 질문"
+
+#: admin/class-course-metabox.php:291
+msgid "All reviews"
+msgstr "모든 리뷰"
+
+#: public/templates/all-reviews-section-cum-listing.php:82
+#: public/templates/reviews-section.php:130
+msgid "All Stars"
+msgstr "모든 별점"
+
+#: admin/class-rrf-survey-cpt.php:278
+msgid "All Surveys"
+msgstr "모든 설문 조사"
+
+#: admin/templates/review-general-setting.php:33
+msgid "Allow comment on reviews"
+msgstr "리뷰에 대한 댓글 허용"
+
+#: admin/class-course-metabox.php:261
+msgid "Allow rating and review after"
+msgstr "평가 및 리뷰 허용"
+
+#: admin/templates/review-general-setting.php:40
+msgid "Allow users to give comments on the reviews."
+msgstr "사용자가 리뷰에 대한 의견을 제공 할 수 있습니다."
+
+#: admin/templates/feedback-general-setting.php:37
+msgid "Allow users to give feedback after course completion."
+msgstr "사용자가 과정 완료 후 피드백을 제공 할 수 있습니다."
+
+#: public/templates/rating-submission.php:25
+#: public/templates/review-details.php:25
+msgid "Amazing, above expectations!"
+msgstr "기대 이상입니다!"
+
+#: admin/class-course-review-cpt.php:938
+msgid "Approve"
+msgstr "승인"
+
+#: public/templates/delete-confirmation.php:22
+msgid "Are you sure you want to delete your review?"
+msgstr "승인"
+
+#: admin/class-rrf-survey-cpt.php:455
+msgid "Assigned Questions"
+msgstr "할당 된 질문"
+
+#: admin/templates/feedback-email-setting.php:78
+#: admin/templates/review-email-setting.php:78
+#: admin/templates/review-prompt-email-setting.php:91
+#: admin/templates/review-reminder-email-setting.php:228
+msgid "Author display name"
+msgstr "작성자 표시 이름"
+
+#: admin/templates/feedback-email-setting.php:79
+#: admin/templates/review-email-setting.php:79
+#: admin/templates/review-prompt-email-setting.php:92
+#: admin/templates/review-reminder-email-setting.php:229
+msgid "Author email ID"
+msgstr "작성자 이메일 ID"
+
+#: admin/templates/feedback-email-setting.php:76
+#: admin/templates/review-email-setting.php:76
+#: admin/templates/review-prompt-email-setting.php:89
+#: admin/templates/review-reminder-email-setting.php:226
+msgid "Author first name"
+msgstr "작성자 이름"
+
+#: admin/templates/feedback-email-setting.php:80
+#: admin/templates/review-email-setting.php:80
+#: admin/templates/review-prompt-email-setting.php:93
+#: admin/templates/review-reminder-email-setting.php:230
+msgid "Author ID"
+msgstr "작성자 ID"
+
+#: admin/templates/feedback-email-setting.php:77
+#: admin/templates/review-email-setting.php:77
+#: admin/templates/review-prompt-email-setting.php:90
+#: admin/templates/review-reminder-email-setting.php:227
+msgid "Author last name"
+msgstr "작성자 성"
+
+#: admin/templates/feedback-email-setting.php:72
+#: admin/templates/review-email-setting.php:72
+#: admin/templates/review-prompt-email-setting.php:85
+#: admin/templates/review-reminder-email-setting.php:222
+msgid "Author shortcodes"
+msgstr "작성자 단축 코드"
+
+#: admin/templates/feedback-email-setting.php:53
+#: admin/templates/review-email-setting.php:53
+#: admin/templates/review-prompt-email-setting.php:66
+#: admin/templates/review-reminder-email-setting.php:203
+msgid "Available shortcodes"
+msgstr "사용 가능한 단축 코드"
+
+#: admin/class-course-metabox.php:243
+msgid "Average rating :-"
+msgstr "평균 등급 :-"
+
+#: public/templates/rating-submission.php:23
+#: public/templates/review-details.php:23
+msgid "Average, could be better"
+msgstr "평균, 더 나을 수 있음"
+
+#: public/templates/reviews-section.php:64
+msgid "Avg. Rating"
+msgstr "평균 평점"
+
+#: public/templates/rating-submission.php:21
+#: public/templates/review-details.php:21
+msgid "Awful, not what I expected at all"
+msgstr "끔찍해, 내가 기대했던 게 아니야"
+
+#: public/templates/review-completion.php:37
+#: public/templates/review-details.php:105
+msgid "Back"
+msgstr "뒤로 가기"
+
+#: admin/class-course-metabox.php:356
+msgid "Before Content"
+msgstr "내용 전"
+
+#: admin/templates/feedback-email-setting.php:35
+#: admin/templates/review-email-setting.php:35
+#: admin/templates/review-prompt-email-setting.php:48
+#: admin/templates/review-reminder-email-setting.php:185
+msgid "Body"
+msgstr "이메일 본문"
+
+#: public/templates/delete-confirmation.php:25
+msgid "Cancel"
+msgstr "취소"
+
+#: admin/admin.php:29
+msgid "Changelog"
+msgstr "변경 로그"
+
+#: public/templates/popup-feedback-form.php:43
+msgid "click here"
+msgstr "여기를 클릭하세요"
+
+#: admin/class-course-metabox.php:254
+msgid "completion"
+msgstr "완성"
+
+#: admin/class-course-metabox.php:366
+msgid "Copy Shortcode"
+msgstr "단축 번호 복사"
+
+#: includes/functions.php:504
+msgid "Course"
+msgstr "강의"
+
+#: admin/class-course-metabox.php:107
+msgid "Course Feedback"
+msgstr "강의  피드백"
+
+#: admin/templates/feedback-email-setting.php:95
+#: admin/templates/review-email-setting.php:95
+#: admin/templates/review-prompt-email-setting.php:108
+#: admin/templates/review-reminder-email-setting.php:245
+msgid "Course ID"
+msgstr "강의 ID"
+
+#: admin/templates/feedback-email-setting.php:94
+#: admin/templates/review-email-setting.php:94
+#: admin/templates/review-prompt-email-setting.php:107
+#: admin/templates/review-reminder-email-setting.php:244
+msgid "Course link"
+msgstr "강의 링크"
+
+#: admin/class-course-metabox.php:218
+msgid "Course Rating"
+msgstr "강의 평가"
+
+# 뷰
+#: admin/class-course-metabox.php:305
+msgid "Course Review"
+msgstr "강의 리뷰"
+
+#: admin/templates/review-general-setting.php:51
+msgid "Course Review Global Setting."
+msgstr "강의 리뷰 글로벌 설정"
+
+#: admin/templates/feedback-email-setting.php:89
+#: admin/templates/review-email-setting.php:89
+#: admin/templates/review-prompt-email-setting.php:102
+#: admin/templates/review-reminder-email-setting.php:239
+msgid "Course shortcodes"
+msgstr "강의 단축 코드"
+
+#: admin/class-rrf-survey-cpt.php:288
+msgid "Course Survey"
+msgstr "강의 설문 조사"
+
+#: admin/class-rrf-survey-cpt.php:289
+msgid "Course Surveys"
+msgstr "강의 설문 조사"
+
+#: admin/templates/feedback-email-setting.php:93
+#: admin/templates/review-email-setting.php:93
+#: admin/templates/review-prompt-email-setting.php:106
+#: admin/templates/review-reminder-email-setting.php:243
+msgid "Course title"
+msgstr "강의 제목"
+
+#: includes/functions.php:509
+msgid "Courses"
+msgstr "강의"
+
+#: admin/class-rrf-survey-cpt.php:483
+msgid "Create New Question"
+msgstr "새 질문 만들기"
+
+#: public/templates/reviews-section.php:41
+msgid "Currently we are processing your review."
+msgstr "현재 리뷰를 처리 중입니다."
+
+#. translators: %s : Shortcode
+#: admin/class-course-metabox.php:361
+msgid "Custom Location (use shortcode %s)"
+msgstr "사용자 지정 위치 (단축 코드 %s 사용)"
+
+#: admin/class-rrf-survey-cpt.php:113
+msgid "Date"
+msgstr "날짜"
+
+#: admin/templates/review-reminder-email-setting.php:145
+msgid "Day of week"
+msgstr "요일"
+
+#: public/templates/rating-preview.php:43
+msgid "Delete"
+msgstr "삭제"
+
+#: admin/class-rrf-question-cpt.php:147
+msgid "Delete Option"
+msgstr "옵션 삭제"
+
+#: public/templates/delete-confirmation.php:19
+msgid "Delete Your Review?"
+msgstr "리뷰를 삭제 하시겠습니까?"
+
+#: admin/class-rrf-survey-cpt.php:198
+msgid "Detailed Report"
+msgstr "상세 보고서"
+
+#: admin/class-course-metabox.php:333
+msgid "Disabled"
+msgstr "비활성화"
+
+#: admin/class-course-metabox.php:132
+msgid "Do you want to use feedback form ?"
+msgstr "피드백 양식을 사용 하시겠습니까?"
+
+#: admin/admin.php:27
+msgid "Docs"
+msgstr "문서"
+
+#. translators: %s : Course Label
+#: admin/class-course-feedback-cpt.php:481
+msgid "Edit %s Feedback"
+msgstr "%s 의견 수정"
+
+#. translators: %s : Course Label
+#: admin/class-course-review-cpt.php:685
+msgid "Edit %s Review"
+msgstr "%s 리뷰 편집"
+
+#: admin/class-rrf-question-cpt.php:80
+msgid "Edit Question"
+msgstr "질문 수정"
+
+#: public/class-review-submission.php:125 public/class-reviews-section.php:192
+msgid "Edit rating"
+msgstr "평가 편집"
+
+#: public/templates/rating-preview.php:44
+msgid "Edit Review"
+msgstr "리뷰 수정"
+
+#: admin/class-rrf-survey-cpt.php:276
+msgid "Edit Survey"
+msgstr ""
+"\n"
+"설문 조사 편집"
+
+#: public/templates/reviews-section.php:37
+msgid "Edit your Review"
+msgstr "리뷰 편집하기"
+
+#: admin/class-course-feedback-cpt.php:286
+#: admin/class-course-review-cpt.php:892
+msgid "Email template"
+msgstr "이메일 템플릿"
+
+#: admin/templates/review-reminder-email-setting.php:164
+msgid "Email will be sent on which date of the month."
+msgstr "매월 어느 날짜에 이메일이 발송됩니다."
+
+#: admin/templates/review-reminder-email-setting.php:128
+msgid "Email will be sent x days after course completion."
+msgstr "강의 완료 후 x 일 후에 이메일이 발송됩니다."
+
+#: admin/class-course-metabox.php:329
+msgid "Enable course rating and review"
+msgstr "강의 평가 및 리뷰 활성화"
+
+#: admin/templates/review-prompt-email-setting.php:28
+msgid "Enable Review Prompt emails"
+msgstr "리뷰 프롬프트 이메일 활성화"
+
+#: admin/templates/review-reminder-email-setting.php:102
+msgid "Enable Review Reminder emails"
+msgstr "리뷰 알림 이메일 활성화"
+
+#: admin/class-course-metabox.php:332
+msgid "Enabled"
+msgstr "활성화"
+
+#: admin/class-course-metabox.php:253
+msgid "Enrollment"
+msgstr "등록"
+
+#: admin/class-course-review-cpt.php:400
+msgid "Excerpt"
+msgstr "발췌"
+
+#: admin/class-course-review-cpt.php:749 public/class-feedback-handler.php:100
+msgid "Failed from timeout"
+msgstr "시간 초과로 인해 실패했습니다."
+
+#: public/class-review-submission.php:427
+msgid "Failed to delete media. Please try again later."
+msgstr "미디어를 삭제하지 못했습니다. 나중에 다시 시도 해주십시오."
+
+#: public/class-review-submission.php:411
+msgid ""
+"Failed to delete some/all attachments related to this review. Please try "
+"again later."
+msgstr "이 리뷰와 관련된 일부 / 모든 첨부 파일을 삭제하지 못했습니다. 나중에 다시 시도 해주십시오."
+
+#: public/class-review-submission.php:385
+msgid "Failed to delete this review. Please try again later."
+msgstr "이 리뷰를 삭제하지 못했습니다. 나중에 다시 시도 해주십시오."
+
+#: public/class-feedback-handler.php:295
+msgid "feedback"
+msgstr "피드백"
+
+#: admin/templates/feedback-general-setting.php:55
+msgid "Feedback button text"
+msgstr "피드백 버튼 텍스트"
+
+#: admin/class-course-feedback-cpt.php:337
+msgid "Feedback details"
+msgstr "피드백 세부 정보"
+
+#: admin/templates/feedback-email-setting.php:107
+msgid "Feedback ID"
+msgstr "피드백 ID"
+
+#: admin/templates/feedback-email-setting.php:106
+msgid "Feedback link"
+msgstr "피드백 링크"
+
+#: admin/class-course-feedback-cpt.php:346
+msgid "Feedback Message"
+msgstr "피드백 메시지"
+
+#: admin/templates/feedback-general-setting.php:42
+msgid "Feedback notification"
+msgstr "피드백 알림"
+
+#: admin/templates/feedback-email-setting.php:105
+msgid "Feedback of the user"
+msgstr "사용자의 피드백"
+
+#: admin/templates/feedback-general-setting.php:30
+msgid "Feedback on all courses"
+msgstr "모든 과정에 대한 피드백"
+
+#: admin/templates/feedback-email-setting.php:101
+msgid "Feedback shortcodes"
+msgstr "피드백 단축 코드"
+
+#: public/templates/all-reviews-section-cum-listing.php:91
+#: public/templates/reviews-section.php:139
+msgid "Filter by"
+msgstr "필터링 기준"
+
+#: public/templates/all-reviews-section-cum-listing.php:69
+msgid "Filter by Course"
+msgstr "강의로 필터링"
+
+#: includes/constants.php:116
+msgid "first"
+msgstr "먼저"
+
+#: admin/class-rrf-survey-cpt.php:160
+msgid "From"
+msgstr "From"
+
+#: admin/class-course-feedback-cpt.php:281
+#: admin/class-course-review-cpt.php:887
+msgid "General"
+msgstr "일반"
+
+#: admin/class-rrf-survey-cpt.php:168
+msgid "Get Report"
+msgstr "보고서 받기"
+
+#: admin/templates/review-general-setting.php:44
+msgid "Global Course Review Switch"
+msgstr "글로벌 강의 리뷰 스위치"
+
+#: admin/class-course-metabox.php:149
+msgid "Global setting"
+msgstr "글로벌 설정"
+
+#: public/templates/rating-submission.php:24
+#: public/templates/review-details.php:24
+msgid "Good, what I expected"
+msgstr "좋아, 내가 기대했던 것"
+
+#: admin/templates/review-email-setting.php:105
+msgid "Headline of the Review"
+msgstr "리뷰 제목"
+
+#: public/templates/single-review.php:85
+msgid "Helpful?"
+msgstr "도움이 되셨나요?"
+
+#: admin/templates/review-reminder-email-setting.php:125
+msgid "How many days post course completion"
+msgstr "과정 완료 후 며칠"
+
+#: public/templates/rating-submission.php:30
+msgid "How would you rate this course?"
+msgstr "이 강의를 어떻게 평가 하시겠습니까?"
+
+#. Author URI of the plugin
+msgid "https://wisdmlabs.com"
+msgstr "https://wisdmlabs.com"
+
+#. Plugin URI of the plugin
+msgid "https://wisdmlabs.com/"
+msgstr "https://wisdmlabs.com/"
+
+#. translators: %1$s : Course Label Title %2$s: Review Link
+#: public/templates/popup-feedback-form.php:45
+msgid "If you want to review/rate the %1$s please %2$s"
+msgstr "%1$s을(를) 리뷰/평가하려면 %2$s 하십시오."
+
+#: public/class-review-submission.php:247
+msgid ""
+"Invalid File type. Allowed file extensions for images/videos are .jpg, .jpeg,"
+" .png, .gif, .ico, .mp4, .m4v, .mov, .wmv, .avi, .mpg, .ogv, .3gp & .3gp2"
+msgstr ""
+"잘못된 파일 유형입니다. 이미지/비디오에 허용되는 파일 확장자는 .jpg, .jpeg, .png, .gif, .ico, .mp4, ."
+"m4v, .mov, .wmv, .avi, .mpg, .ogv, .3gp 및 .3gp2입니다."
+
+#: public/class-feedback-handler.php:225
+msgid "Invalid File type. Please upload jpeg/png images only."
+msgstr "잘못된 파일 유형입니다. jpeg/png 이미지만 업로드하세요."
+
+#: public/class-reviews-section.php:461
+msgid "Invalid invocation(data missing)"
+msgstr "잘못된 호출 (데이터 누락)"
+
+#: public/class-reviews-section.php:465
+msgid "Invalid Nonce"
+msgstr "잘못된 Nonce"
+
+#: admin/templates/review-general-setting.php:63
+msgid "Is admin approval required on reviews to be published."
+msgstr "리뷰를 게시하려면 관리자 승인이 필요합니다."
+
+#. Plugin Name of the plugin
+msgid "LearnDash Ratings, Reviews, and Feedback"
+msgstr "런대쉬 평가, 리뷰 및 피드백"
+
+#: public/templates/reviews-section.php:96
+#: public/templates/reviews-section.php:156
+msgid "Login to Review"
+msgstr "로그인 후 리뷰작성하기"
+
+#: public/templates/all-reviews-section-cum-listing.php:73
+#: public/templates/reviews-section.php:121
+msgid "Most Recent"
+msgstr "최신순"
+
+#. translators: %s : Course Label
+#: admin/class-course-feedback-cpt.php:483
+msgid "New %s Feedback"
+msgstr "새로운 %s 피드백"
+
+#. translators: %s : Course Label
+#: admin/class-course-review-cpt.php:687
+msgid "New %s Review"
+msgstr "새 %s 리뷰"
+
+#: admin/class-rrf-question-cpt.php:81
+msgid "New Question"
+msgstr "새로운 질문"
+
+#: admin/class-rrf-survey-cpt.php:277
+msgid "New Survey"
+msgstr "새로운 설문 조사"
+
+#: admin/class-rrf-survey-cpt.php:190 admin/class-rrf-survey-cpt.php:480
+#: public/class-survey-shortcode.php:148
+msgid "Next"
+msgstr "다음"
+
+#: public/templates/all-reviews-section-cum-listing.php:145
+msgid "Next Page >>"
+msgstr "다음 페이지 >>"
+
+#: admin/class-course-metabox.php:124
+#: admin/templates/feedback-general-setting.php:9
+#: admin/templates/review-general-setting.php:9
+msgid "No"
+msgstr "아니"
+
+#: admin/class-course-feedback-cpt.php:488
+msgid "No Feedback Found"
+msgstr "피드백이 없습니다."
+
+#: admin/class-course-feedback-cpt.php:489
+msgid "No Feedback Found in Trash"
+msgstr "휴지통에 피드백이 없습니다."
+
+#: admin/class-rrf-question-cpt.php:85
+msgid "No questions found"
+msgstr "질문이 없습니다."
+
+#: admin/class-rrf-question-cpt.php:86
+msgid "No questions found in the Trash"
+msgstr "휴지통에 질문이 없습니다."
+
+#: public/class-review-submission.php:365
+msgid "No Review Found."
+msgstr "리뷰를 찾을 수 없습니다."
+
+#: admin/class-course-review-cpt.php:692
+#: public/templates/all-reviews-section-cum-listing.php:101
+msgid "No Reviews Found"
+msgstr "리뷰가 없습니다."
+
+#: admin/class-course-review-cpt.php:693
+msgid "No Reviews Found in Trash"
+msgstr "휴지통에 리뷰가 없습니다."
+
+#: public/class-reviews-section.php:503 public/templates/reviews-listing.php:55
+msgid "No Reviews Found!"
+msgstr "리뷰가 없습니다!"
+
+#: admin/class-rrf-survey-cpt.php:281
+msgid "No surveys found"
+msgstr "설문 조사가 없습니다."
+
+#: admin/class-rrf-survey-cpt.php:282
+msgid "No surveys found in the Trash"
+msgstr "휴지통에 설문 조사가 없습니다."
+
+#: admin/class-course-feedback-cpt.php:237
+#: admin/class-course-review-cpt.php:365
+msgid "Not Assigned"
+msgstr "할당되지 않음"
+
+#: admin/templates/review-reminder-email-setting.php:169
+msgid "Number of reminder emails to be sent"
+msgstr "보낼 미리 알림 이메일 수"
+
+#: admin/class-rrf-survey-cpt.php:111
+msgid "Number of Users"
+msgstr "사용자 수"
+
+#: includes/functions.php:282
+msgid "One person found this helpful. "
+msgstr "한 사람에게 도움이 되었습니다."
+
+#: admin/class-rrf-survey-cpt.php:116
+msgid "Options"
+msgstr "옵션"
+
+#: admin/class-course-feedback-cpt.php:291
+#: admin/class-course-review-cpt.php:907
+msgid "Other Extensions"
+msgstr "기타 확장"
+
+#: public/templates/review-details.php:59
+msgid "People find images and videos more helpful than text alone."
+msgstr "추가 할 이미지와 비디오가 있다면 첨부해주세요."
+
+#: admin/templates/review-reminder-email-setting.php:133
+msgid "Periodic Frequency"
+msgstr "주기적인 주파수"
+
+#: public/class-feedback-handler.php:168
+msgid "Please provide feedback"
+msgstr "의견을 보내주세요."
+
+#: admin/class-course-review-cpt.php:748 public/class-feedback-handler.php:99
+msgid "Please wait"
+msgstr "기다려주세요."
+
+#: includes/constants.php:116
+msgid "plugin is not active. In order to make"
+msgstr "만들기 위해서 플러그인이 활성화되지 않았습니다."
+
+#: admin/admin.php:28
+msgid "Plugin support"
+msgstr "플러그인 지원"
+
+#: includes/constants.php:116
+msgid "plugin work, you need to install and activate"
+msgstr "플러그인 작업, 설치 및 활성화가 필요합니다."
+
+#: public/templates/rating-submission.php:22
+#: public/templates/review-details.php:22
+msgid "Poor, pretty disappointed"
+msgstr "가난하고 꽤 실망"
+
+#: public/class-survey-shortcode.php:142
+msgid "Prev"
+msgstr "이전"
+
+#: public/templates/single-review.php:75
+msgid "Preview Image"
+msgstr "미리보기 이미지"
+
+#: admin/class-rrf-survey-cpt.php:188 admin/class-rrf-survey-cpt.php:476
+msgid "Previous"
+msgstr "이전"
+
+#: admin/templates/feedback-general-setting.php:14
+#: public/class-feedback-handler.php:72 public/class-feedback-handler.php:74
+#: public/templates/popup-feedback-form.php:25
+msgid "Provide your feedback"
+msgstr "수강후기 작성"
+
+#: admin/class-course-review-cpt.php:1038
+msgid "Provide your reason for rejection here"
+msgstr "여기에 거부 이유를 입력하세요."
+
+#: admin/class-rrf-survey-cpt.php:114
+msgid "Question"
+msgstr "질문"
+
+#: admin/class-rrf-question-cpt.php:111
+msgid "Question Options"
+msgstr "질문 옵션"
+
+#: admin/class-course-review-cpt.php:399 admin/class-course-review-cpt.php:424
+msgid "Rating"
+msgstr "평가"
+
+#: public/templates/reviews-section.php:51
+msgid "Ratings and Reviews"
+msgstr "평가 및 리뷰"
+
+#: admin/class-course-review-cpt.php:1033
+msgid "Reason for rejection"
+msgstr "거부 이유"
+
+#: admin/class-course-review-cpt.php:939
+msgid "Reject"
+msgstr "받지 않다."
+
+#: admin/class-course-review-cpt.php:699
+msgid "Rejected"
+msgstr "거부 됨"
+
+#. translators: %s : Reject Review Post Status
+#: admin/class-course-review-cpt.php:701
+msgid "Rejected (%s)"
+msgid_plural "Rejected (%s)"
+msgstr[0] "거부 됨 (%s)"
+msgstr[1] ""
+
+#: admin/class-course-review-cpt.php:575
+msgid "Rejection reason"
+msgstr "거부 이유"
+
+#: public/templates/popup-feedback-form.php:28
+#: public/templates/review-details.php:54
+msgid "remaining character(s)"
+msgstr "글자 남음"
+
+#: admin/class-course-review-cpt.php:655
+msgid "Review"
+msgstr "리뷰"
+
+#: public/class-review-submission.php:483
+msgid "review"
+msgstr "리뷰"
+
+#: admin/templates/review-general-setting.php:88
+msgid "Review default reject message"
+msgstr " 리뷰 기본 거부 메시지"
+
+#: admin/templates/review-general-setting.php:80
+msgid "Review default reject subject"
+msgstr "리뷰 기본 거부 제목"
+
+#: public/class-review-submission.php:332
+msgid ""
+"Review Description is a required field. Please go back to the previous step "
+"and add a description for this review."
+msgstr "리뷰 설명은 필수 필드입니다. 이전 단계로 돌아가 이 리뷰에 대한 설명을 추가하십시오."
+
+#: admin/class-course-review-cpt.php:474
+msgid "Review details"
+msgstr "세부 정보 리뷰"
+
+#. translators: %d : Review description max length.
+#: public/class-review-submission.php:340
+msgid "Review Details cannot be greater than %d."
+msgstr "리뷰 세부 정보는 %d보다 클 수 없습니다."
+
+#. translators: %d : Review Headline max length.
+#: public/class-review-submission.php:336
+msgid "Review Headline cannot be greater than %d."
+msgstr "리뷰 제목은 %d보다 클 수 없습니다."
+
+#: public/class-review-submission.php:329
+msgid ""
+"Review Headline is a required field. Please go back to the previous step and "
+"add a headline for this review."
+msgstr "리뷰 헤드 라인은 필수 필드입니다. 이전 단계로 돌아가 이 리뷰의 헤드 라인을 추가하세요."
+
+#: admin/templates/review-email-setting.php:108
+msgid "Review ID"
+msgstr "리뷰 ID"
+
+#: admin/templates/review-email-setting.php:107
+msgid "Review link"
+msgstr "리뷰 링크"
+
+#: admin/templates/review-general-setting.php:68
+msgid "Review notification"
+msgstr "리뷰 알림"
+
+#: admin/templates/review-email-setting.php:106
+msgid "Review of the user"
+msgstr "사용자 리뷰"
+
+#: admin/class-course-review-cpt.php:897
+msgid "Review Prompt Email Settings"
+msgstr "리뷰 프롬프트 이메일 설정"
+
+#: admin/class-course-review-cpt.php:902
+msgid "Review Reminder Email Settings"
+msgstr "미리 알림 이메일 설정 리뷰"
+
+#: admin/templates/review-reminder-email-setting.php:114
+msgid "Review Reminder email type"
+msgstr "미리 알림 이메일 유형 리뷰"
+
+#: admin/templates/review-email-setting.php:101
+msgid "Review shortcodes"
+msgstr "리뷰 단축 코드"
+
+#: public/templates/rating-submission.php:35
+#: public/templates/review-details.php:106
+msgid "Save & Continue"
+msgstr "저장하고 계속하기"
+
+#: public/templates/review-completion.php:38
+msgid "Save & Exit"
+msgstr "저장 후 종료"
+
+#. translators: %s : Course Label
+#: admin/class-course-feedback-cpt.php:487
+msgid "Search %s Feedback"
+msgstr "%s 피드백 검색"
+
+#. translators: %s : Course Label
+#: admin/class-course-review-cpt.php:691
+msgid "Search %s Reviews"
+msgstr "%s 리뷰 검색"
+
+#: admin/class-rrf-question-cpt.php:84 admin/class-rrf-survey-cpt.php:426
+#: admin/class-rrf-survey-cpt.php:427
+msgid "Search Questions"
+msgstr "질문 검색"
+
+#: admin/class-rrf-survey-cpt.php:280
+msgid "Search Surveys"
+msgstr "설문 조사 검색"
+
+#: admin/class-course-feedback-cpt.php:261
+#: admin/class-course-review-cpt.php:410
+msgid "Select"
+msgstr "선택"
+
+#. translators: %s: Course Label
+#: admin/class-rrf-survey-cpt.php:149
+msgid "Select %s"
+msgstr "%s 선택"
+
+#: admin/class-rrf-survey-cpt.php:334
+msgid "Select Courses"
+msgstr "강의 선택"
+
+#: admin/templates/review-reminder-email-setting.php:161
+msgid "Select date of month."
+msgstr "날짜를 선택하십시오."
+
+#: admin/templates/review-reminder-email-setting.php:148
+msgid "Select Day of week"
+msgstr "요일 선택"
+
+#: admin/templates/review-reminder-email-setting.php:136
+msgid "Select Email Frequency"
+msgstr "이메일 빈도 선택"
+
+#: admin/templates/review-reminder-email-setting.php:117
+msgid "Select Reminder Type"
+msgstr "알림 유형 선택"
+
+#: public/templates/popup-feedback-form.php:35
+msgid "Send Feedback"
+msgstr "피드백 보내기"
+
+#: admin/templates/review-prompt-email-setting.php:35
+msgid ""
+"Send Review Prompt email to students when they are eligible to submit the "
+"review"
+msgstr "강의를 제출할 자격이있는 학생에게 리뷰 프롬프트 이메일을 보냅니다."
+
+#: admin/templates/review-reminder-email-setting.php:109
+msgid ""
+"Send Review Reminder email to students when they are eligible to submit the "
+"review"
+msgstr "강의를 제출할 자격이있는 학생에게 리뷰 알림 이메일을 보냅니다."
+
+#: admin/class-course-feedback-cpt.php:502
+#: admin/class-course-review-cpt.php:726
+msgid "Settings"
+msgstr "Settings"
+
+#: public/class-feedback-handler.php:102
+msgid "Should not exceed "
+msgstr "초과해서는 안됩니다."
+
+#: admin/class-course-metabox.php:353
+msgid "Show Course Reviews"
+msgstr "강의 리뷰보기"
+
+#: public/templates/single-review.php:159
+msgid "Show less replies"
+msgstr "답글 간략히 보기"
+
+#: public/templates/reviews-listing.php:61
+msgid "Show more reviews"
+msgstr "리뷰 더보기"
+
+#: public/templates/invalid-template.php:10
+msgid "Something seems to be wrong!!! Please try again later."
+msgstr "뭔가 잘못된 것 같습니다!!! 나중에 다시 시도 해주십시오."
+
+#: public/class-feedback-handler.php:152 public/class-feedback-handler.php:162
+#: public/class-feedback-handler.php:251
+msgid "Something went wrong!"
+msgstr "문제가 발생했습니다!"
+
+#: public/class-review-submission.php:323
+#: public/class-review-submission.php:358
+msgid "Something went wrong. Could not find the target course for this review."
+msgstr "문제가 발생했습니다. 이 리뷰의 대상 코스를 찾을 수 없습니다."
+
+#: public/class-feedback-handler.php:177
+msgid "Sorry! You have already submitted the feedback form for this course."
+msgstr "죄송합니다! 이 과정에 대한 피드백 양식을 이미 제출했습니다."
+
+#: public/templates/all-reviews-section-cum-listing.php:78
+#: public/templates/reviews-section.php:126
+msgid "Sort by"
+msgstr "정렬 기준"
+
+#: admin/templates/feedback-email-setting.php:26
+#: admin/templates/review-email-setting.php:26
+#: admin/templates/review-prompt-email-setting.php:40
+#: admin/templates/review-reminder-email-setting.php:177
+msgid "Subject"
+msgstr "이메일 제목"
+
+#: admin/class-course-review-cpt.php:1040 public/class-survey-shortcode.php:145
+msgid "Submit"
+msgstr "제출"
+
+#: admin/class-rrf-survey-cpt.php:195
+msgid "Summarized Report"
+msgstr "요약 보고서"
+
+#: admin/class-rrf-survey-cpt.php:182
+msgid "Survey : "
+msgstr "서베이 :"
+
+#: admin/class-rrf-survey-cpt.php:309
+msgid "Survey Courses"
+msgstr "설문 조사 과정"
+
+#: admin/class-rrf-question-cpt.php:87 admin/class-rrf-question-cpt.php:92
+#: admin/class-rrf-question-cpt.php:93 admin/class-rrf-survey-cpt.php:84
+#: admin/class-rrf-survey-cpt.php:85
+msgid "Survey Questions"
+msgstr "설문 조사 질문"
+
+#: admin/class-rrf-survey-cpt.php:137
+msgid "Survey Results"
+msgstr "조사 결과"
+
+#. translators: %s : Name of the template file.
+#: public/class-feedback-handler.php:132 public/class-review-submission.php:170
+msgid "Template file %s doesn't exist in any of the given locations."
+msgstr "지정된 위치에 템플릿 파일 %s이(가) 없습니다."
+
+#: admin/class-course-review-cpt.php:820 admin/class-course-review-cpt.php:831
+#: admin/class-course-review-cpt.php:855
+msgid "Template updated"
+msgstr "템플릿이 업데이트되었습니다."
+
+#: public/class-survey-shortcode.php:160
+msgid "Thank you for taking the time to complete this survey"
+msgstr "설문 조사에 응해주셔서 감사합니다."
+
+#: public/class-reviews-section.php:386 public/class-reviews-section.php:443
+msgid "Thank you for your feedback"
+msgstr "의견을 보내 주셔서 감사합니다!"
+
+#: public/class-feedback-handler.php:245
+msgid "Thank you for your feedback!"
+msgstr "의견을 보내 주셔서 감사합니다!"
+
+#: public/templates/review-completion.php:27
+msgid "Thanks for submitting the review!"
+msgstr "리뷰를 제출해주셔서 감사합니다!"
+
+#: admin/templates/review-general-setting.php:91
+msgid ""
+"The default message set here will be displayed when a course review is "
+"rejected."
+msgstr "여기에 설정된 기본 메시지는 강의 리뷰가 거부 될 때 표시됩니다."
+
+#: admin/templates/review-general-setting.php:83
+msgid ""
+"The default subject set here will be sent to the author when a course review "
+"is rejected."
+msgstr "여기에 설정된 기본 제목은 강의 리뷰가 거부 될 때 작성자에게 전송됩니다."
+
+#. translators: %s : Max Upload File size
+#: public/class-review-submission.php:129
+msgid "This file exceeds the maximum upload size (%s) for this site"
+msgstr "이 파일은이 사이트의 최대 업로드 크기 (%s)를 초과합니다."
+
+#. Description of the plugin
+msgid "This plugin provides a feature to rate, review and feedback on course."
+msgstr "이 플러그인은 강의에 대한 평가, 리뷰 및 피드백 기능을 제공합니다."
+
+#: admin/templates/feedback-email-setting.php:29
+msgid "This subject will be used while sending email to author."
+msgstr "이 제목은 작성자에게 이메일을 보내는 동안 사용됩니다."
+
+#: admin/templates/review-email-setting.php:29
+#: admin/templates/review-prompt-email-setting.php:43
+#: admin/templates/review-reminder-email-setting.php:180
+msgid "This subject will be used while sending email to the author."
+msgstr "이 제목은 작성자에게 이메일을 보내는 동안 사용됩니다."
+
+#: admin/templates/feedback-general-setting.php:58
+msgid "This text will be used on feedback button."
+msgstr "이 텍스트는 피드백 버튼에 사용됩니다."
+
+#: admin/class-rrf-survey-cpt.php:164
+msgid "To"
+msgstr "To"
+
+#: admin/templates/feedback-general-setting.php:49
+msgid "To send email notification to the author after feedback submission."
+msgstr "피드백 제출 후 작성자에게 이메일 알림을 보냅니다."
+
+#: admin/templates/review-general-setting.php:75
+msgid "To send email notification to the author after review submission."
+msgstr "리뷰 제출 후 작성자에게 이메일 알림을 보냅니다."
+
+#: public/templates/all-reviews-section-cum-listing.php:74
+#: public/templates/reviews-section.php:122
+msgid "Top Ratings"
+msgstr "평점순"
+
+#: admin/class-rrf-survey-cpt.php:117
+msgid "Total Users"
+msgstr "총 사용자"
+
+#: admin/class-rrf-survey-cpt.php:432
+msgid "Unassigned Questions"
+msgstr "할당되지 않은 질문"
+
+#: public/class-review-submission.php:217
+#: public/class-review-submission.php:320
+#: public/class-review-submission.php:355
+#: public/class-review-submission.php:423
+msgid "Unauthorized request. Failed to verify nonce."
+msgstr "승인되지 않은 요청입니다. nonce를 확인하지 못했습니다."
+
+#: public/class-feedback-handler.php:216 public/class-review-submission.php:241
+msgid "Upload Failed. Please try again later."
+msgstr "업로드에 실패했습니다. 나중에 다시 시도 해주십시오."
+
+#: admin/class-course-feedback-cpt.php:352
+#: admin/class-course-review-cpt.php:491
+msgid "Uploaded Images"
+msgstr "업로드 된 이미지"
+
+#: admin/class-course-review-cpt.php:510
+msgid "Uploaded Videos"
+msgstr "업로드 된 동영상"
+
+#: admin/class-course-metabox.php:122 admin/class-course-metabox.php:331
+msgid "Use Global Setting"
+msgstr "글로벌 설정 사용"
+
+#: admin/templates/feedback-email-setting.php:64
+#: admin/templates/review-email-setting.php:64
+#: admin/templates/review-prompt-email-setting.php:77
+#: admin/templates/review-reminder-email-setting.php:214
+msgid "User display name"
+msgstr "사용자 표시 이름"
+
+#: admin/templates/feedback-email-setting.php:65
+#: admin/templates/review-email-setting.php:65
+#: admin/templates/review-prompt-email-setting.php:78
+#: admin/templates/review-reminder-email-setting.php:215
+msgid "User email ID"
+msgstr "사용자 이메일 ID"
+
+#. translators: %s: Course Title
+#: admin/class-course-feedback-cpt.php:334
+msgid "User Feedback (%s)"
+msgstr "사용자 피드백 (%s)"
+
+#: admin/templates/feedback-email-setting.php:62
+#: admin/templates/review-email-setting.php:62
+#: admin/templates/review-prompt-email-setting.php:75
+#: admin/templates/review-reminder-email-setting.php:212
+msgid "User first name"
+msgstr "사용자 이름"
+
+#: admin/templates/feedback-email-setting.php:66
+#: admin/templates/review-email-setting.php:66
+#: admin/templates/review-prompt-email-setting.php:79
+#: admin/templates/review-reminder-email-setting.php:216
+msgid "User ID"
+msgstr "사용자 ID"
+
+#: admin/templates/feedback-email-setting.php:63
+#: admin/templates/review-email-setting.php:63
+#: admin/templates/review-prompt-email-setting.php:76
+#: admin/templates/review-reminder-email-setting.php:213
+msgid "User last name"
+msgstr "사용자 성"
+
+#: admin/class-rrf-survey-cpt.php:112
+msgid "User Name"
+msgstr "사용자 이름"
+
+#: admin/class-rrf-survey-cpt.php:115
+msgid "User Response"
+msgstr "사용자 응답"
+
+#: admin/class-rrf-survey-cpt.php:91 admin/class-rrf-survey-cpt.php:92
+msgid "User Responses"
+msgstr "사용자 응답"
+
+#. translators: %s: Course Title
+#: admin/class-course-review-cpt.php:472
+msgid "User Review (Title: %s)"
+msgstr "사용자 리뷰 (제목 : %s)"
+
+#: admin/templates/feedback-email-setting.php:58
+#: admin/templates/review-email-setting.php:58
+#: admin/templates/review-prompt-email-setting.php:71
+#: admin/templates/review-reminder-email-setting.php:208
+msgid "User shortcodes"
+msgstr "사용자 단축 코드"
+
+#. translators: %d : Comment replies count.
+#: public/templates/single-review.php:158
+msgid "View %d more replies"
+msgstr "답글 %d개 더보기"
+
+#. translators: %s : Course Label
+#: admin/class-course-feedback-cpt.php:485
+msgid "View %s Feedback"
+msgstr "%s 피드백보기"
+
+#. translators: %s : Course Label
+#: admin/class-course-review-cpt.php:689
+msgid "View %s Review"
+msgstr "%s 리뷰보기"
+
+#: admin/class-course-metabox.php:128
+msgid "View all feedbacks"
+msgstr "모든 피드백보기"
+
+#: admin/class-rrf-question-cpt.php:83
+msgid "View Question"
+msgstr "질문 보기"
+
+#: admin/admin.php:27
+msgid "View Ratings, Reviews & Feedback documentation"
+msgstr "평가, 리뷰 및 피드백 문서보기"
+
+#: admin/class-rrf-survey-cpt.php:279
+msgid "View Survey"
+msgstr "설문 조사 보기"
+
+#: admin/admin.php:29
+msgid "Visit Changelog"
+msgstr "Changelog 방문"
+
+#: admin/admin.php:28
+msgid "Visit customer support"
+msgstr "고객 지원 방문"
+
+#: public/templates/review-completion.php:28
+msgid "We will make it public once it has been approved."
+msgstr "리뷰는 승인 후 공개됩니다."
+
+#: public/templates/review-details.php:51
+msgid "What did you like or dislike? What were your expectations?"
+msgstr ""
+"강의에서 좋았던 점이 있나요?\n"
+"개선이 필요한 사항이 있었나요?"
+
+#: public/templates/review-details.php:47
+msgid "What's most important to know?"
+msgstr "리뷰의 제목을 작성해주세요."
+
+#: public/templates/reviews-section.php:22
+msgid "What's your experience? We'd love to know!"
+msgstr ""
+"수강 후기를 작성해주세요.\n"
+"여러분의 평가가 더 좋은 강의를 만듭니다."
+
+#: public/templates/review-details.php:42
+msgid "Why did you leave this rating?"
+msgstr "이 별점을 준 이유는 무엇입니까?"
+
+#. Author of the plugin
+msgid "WisdmLabs"
+msgstr "WisdmLabs"
+
+#: public/templates/reviews-section.php:33
+msgid "Write a Review"
+msgstr "리뷰 작성하기"
+
+#: public/templates/review-details.php:50
+msgid "Write your review*"
+msgstr "* 리뷰 본문 작성"
+
+#: admin/templates/review-reminder-email-setting.php:172
+msgid "x reminder emails will be sent. 0 for no limit."
+msgstr "x 알림 이메일이 전송됩니다. 제한이없는 경우 0입니다."
+
+#: admin/class-course-metabox.php:123
+#: admin/templates/feedback-general-setting.php:10
+#: admin/templates/review-general-setting.php:10
+msgid "Yes"
+msgstr "예"
+
+#: public/templates/delete-confirmation.php:26
+msgid "Yes, Delete My Review"
+msgstr "예, 내 리뷰를 삭제합니다."
+
+#: public/class-review-submission.php:343
+msgid ""
+"You cannot rate 0 stars. Please go back to the previous step and select a "
+"minimum of 1 star rating."
+msgstr "별점 0 개를 평가할 수 없습니다. 이전 단계로 돌아가 최소 1 개의 별 등급을 선택하십시오."
+
+#: public/class-review-submission.php:361
+msgid "You do not have qualification criteria for deleting this review."
+msgstr "이 리뷰를 삭제할 자격 기준이 없습니다."
+
+#: public/class-review-submission.php:326
+msgid "You have not met the qualification criteria for rating this course."
+msgstr "이 강의를 평가하기위한 자격 기준을 충족하지 않았습니다."
+
+#. translators: %s : Course Title.
+#: public/templates/popup-feedback-form.php:19
+msgid "Your feedback on %s"
+msgstr "%s에 대한 피드백"
+
+#: public/class-review-submission.php:124 public/class-reviews-section.php:191
+#: public/templates/reviews-section.php:43
+msgid "Your Rating"
+msgstr "나의 평가"
+
+#: public/templates/rating-preview.php:34
+msgid "Your Review"
+msgstr "나의 리뷰"
