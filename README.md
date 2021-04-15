@@ -31,3 +31,5 @@
 	: 버전 13.0.8
 12. 런대쉬 평가, 리뷰 및 피드백 (LearnDash Ratings, Reviews & Feedback)
 	: 버전 2.1.4
+13. myCRED : 포인트 플러그인
+	: 버전 2.0.2
