@@ -8,7 +8,7 @@
 
 ## 플러그인 목록
 01. 런대쉬 (LearnDash LMS)
-	: 버전 3.4.0.2
+	: 버전 3.4.0.6
 02. 런대쉬 프로패널 (LearnDash ProPanel)
 	: 버전 2.1.4
 03. 런대쉬 코스 그리드 (LearnDash LMS - Course Grid)
