@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT-Creation-Date: 2020-07-14T18:36:57+00:00\n"
-"PO-Revision-Date: 2021-04-19 05:53+0000\n"
+"PO-Revision-Date: 2021-04-21 05:03+0000\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Domain: learndash\n"
 "Language: ko_KR\n"
@@ -30,7 +30,7 @@ msgstr "문자. 대부분의 검색 엔진은 %2$s에 대해 최대 %1$s자를 �
 
 #: includes/settings/settings-sections/class-ld-settings-section-general-admin-user.php:140
 msgid " Include admin users in reports, including ProPanel reporting."
-msgstr "ProPanel 보고를 포함하여 보고서에 관리자를 포함합니다."
+msgstr "프로패널 보고를 포함하여 보고서에 관리자를 포함합니다."
 
 #: themes/legacy/templates/quiz_progress_rows.php:183
 msgid " on "
@@ -226,7 +226,7 @@ msgstr "(새 탭에서 열림)"
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:189
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:1541
 msgid "(optional)"
-msgstr "(선택 과목)"
+msgstr "(선택 사항)"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:267
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:276
@@ -271,7 +271,7 @@ msgstr "2 체크아웃"
 
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:1006
 msgid "404 Error on LearnDash Content"
-msgstr "런대쉬 콘텐츠에 대한 404 오류"
+msgstr "런대쉬 컨텐츠에 대한 404 오류"
 
 #. translators: placeholder: Quiz.
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_GobalSettings.php:14
@@ -671,7 +671,7 @@ msgstr "추가 자료 :"
 
 #: themes/ld30/includes/class-ld-settings-section-theme-ld30.php:172
 msgid "Adjust the maximum width of the content area within Focus Mode"
-msgstr "포커스 모드 내에서 콘텐츠 영역의 최대 너비 조정"
+msgstr "포커스 모드 내에서 컨텐츠 영역의 최대 너비 조정"
 
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-quiz-admin-data-handling-settings.php:816
 msgid "Admin"
@@ -706,7 +706,7 @@ msgstr "관리자 알림"
 #: includes/settings/settings-sections/class-ld-settings-section-general-admin-user.php:35
 #: includes/settings/settings-sections/class-ld-settings-section-support-learndash.php:392
 msgid "Admin User Settings"
-msgstr "관리자 사용자 설정"
+msgstr "관리자 설정"
 
 #: includes/rest-api/v2/class-ld-rest-courses-users-controller.php:353
 #: includes/rest-api/v2/class-ld-rest-courses-users-controller.php:497
@@ -865,7 +865,7 @@ msgstr "사용자가 비디오 위치를 다시 시작할 수 있습니다. 브�
 
 #: includes/settings/settings-sections/class-ld-settings-section-courses-themes.php:41
 msgid "Alter the look and feel of your Learning Management System"
-msgstr "학습 관리 시스템의 모양과 느낌 변경"
+msgstr "LMS 런대쉬의 디자인을 변경합니다."
 
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-display-content.php:300
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-group-display-content.php:255
@@ -1023,7 +1023,7 @@ msgstr "승인"
 #: includes/admin/classes-posts-listings/class-learndash-admin-assignments-listing.php:481
 #: includes/admin/classes-posts-listings/class-learndash-admin-essays-listing.php:666
 msgid "approve"
-msgstr "승인하다."
+msgstr "승인하기"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:179
 #: includes/admin/classes-posts-listings/class-learndash-admin-assignments-listing.php:50
@@ -1051,7 +1051,7 @@ msgstr "맞춤 라벨을 재설정 하시겠습니까?"
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:37
 msgid "Are you sure want to reset the PayPal values?"
-msgstr "PayPal 값을 재설정 하시겠습니까?"
+msgstr "페이팔 값을 재설정 하시겠습니까?"
 
 #: includes/settings/shortcodes-sections/ld_course_info.php:98
 #: includes/settings/shortcodes-sections/ld_course_info.php:143
@@ -1213,7 +1213,7 @@ msgstr "관련 인증서"
 
 #: includes/admin/class-learndash-admin-posts-edit.php:394
 msgid "Associated Content"
-msgstr "관련 콘텐츠"
+msgstr "관련 컨텐츠"
 
 #. translators: placeholder: course.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-topic-access-settings.php:200
@@ -1743,7 +1743,7 @@ msgstr "과제 업로드를 의무화하려면 선택하십시오."
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:160
 msgid "Check to enable the PayPal sandbox."
-msgstr "PayPal 샌드 박스를 활성화하려면 선택하십시오."
+msgstr "페이팔 sandbox를 활성화하려면 선택하십시오."
 
 #: includes/admin/class-learndash-admin-addons-list-table.php:504
 msgid "Check Updates"
@@ -2025,7 +2025,7 @@ msgstr "결과 페이지의 모양을 제어합니다."
 msgid ""
 "Controls how users interact with the content and their navigational "
 "experience"
-msgstr "사용자가 콘텐츠 및 탐색 경험과 상호 작용하는 방식을 제어합니다."
+msgstr "사용자가 컨텐츠 및 탐색 경험과 상호 작용하는 방식을 제어합니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-assignments-cpt.php:93
 msgid "Controls if comments are enabled."
@@ -2035,7 +2035,7 @@ msgstr "주석 활성화 여부를 제어합니다."
 msgid ""
 "Controls the global pagination for the LD shortcodes as well as courseinfo "
 "widget. These can be overridden individually."
-msgstr "LD 단축 코드 및 코스 정보 위젯에 대한 전역 페이지 매김을 제어합니다. 개별적으로 재정의 할 수 있습니다."
+msgstr "런대쉬 단축 코드 및 코스 정보 위젯에 대한 전역 페이지 매김을 제어합니다. 개별적으로 재정의 할 수 있습니다."
 
 #: includes/settings/shortcodes-sections/learndash_login.php:41
 msgid "Controls the Login functionality."
@@ -2664,7 +2664,7 @@ msgstr "내림차순"
 
 #: includes/settings/settings-sections/class-ld-settings-section-courses-themes.php:38
 msgid "Design & Content Elements"
-msgstr "디자인 및 콘텐츠 요소"
+msgstr "디자인 및 컨텐츠 요소 설정"
 
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-rename_wpproquiz-tables.php:192
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-rename_wpproquiz-tables.php:234
@@ -3187,7 +3187,7 @@ msgstr "구매 취소에 사용되는 URL을 입력하십시오."
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:101
 msgid "Enter your PayPal email here."
-msgstr "여기에 PayPal 이메일을 입력하세요."
+msgstr "여기에 페이팔 이메일을 입력하세요."
 
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_AdminToplist.php:89
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_FrontToplist.php:25
@@ -3429,7 +3429,7 @@ msgstr "인증서 온라인 문서에 대한 외부 링크"
 
 #: themes/ld30/includes/class-ld-settings-section-theme-ld30.php:178
 msgid "Extra-wide (1600px)"
-msgstr "매우 넓음 (1600 픽셀)"
+msgstr "매우 넓음 (1600px)"
 
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:1001
 msgid "FAQ"
@@ -3565,7 +3565,7 @@ msgstr "초점 모드"
 
 #: themes/ld30/includes/class-ld-settings-section-theme-ld30.php:171
 msgid "Focus Mode Content Width"
-msgstr "초점 모드 콘텐츠 너비"
+msgstr "초점 모드 컨텐츠 너비"
 
 #. translators: Focus mode welcome placeholder.
 #: themes/ld30/templates/focus/masthead.php:193
@@ -3613,7 +3613,7 @@ msgstr "체재"
 #: includes/settings/shortcodes-sections/student.php:69
 #: includes/settings/shortcodes-sections/visitor.php:67
 msgid "Format shortcode content into proper pararaphs."
-msgstr "단축 코드 콘텐츠를 적절한 파라 라프로 포맷합니다."
+msgstr "단축 코드 컨텐츠를 적절한 파라 라프로 포맷합니다."
 
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuizOverall.php:193
 msgid "Format:"
@@ -4400,19 +4400,19 @@ msgstr "\"계속하려면 여기를 클릭하십시오.\" 버튼을 대체할 �
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:79
 msgid "Label to replace \"course\" (singular)."
-msgstr "\"강의\" (단수)를 대체 할 레이블입니다."
+msgstr "\"강의(단수)\"를 대체 할 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:87
 msgid "Label to replace \"courses\" (plural)."
-msgstr "\"강좌\" (복수)를 대체 할 레이블입니다."
+msgstr "\"강좌(복수)\"를 대체 할 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:159
 msgid "Label to replace \"group\" (singular)."
-msgstr "\"그룹\" (단수)을 대체 할 레이블입니다."
+msgstr "\"그룹(단수)\"을 대체 할 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:167
 msgid "Label to replace \"groups\" (plural)."
-msgstr "\"그룹\" (복수)을 대체 할 레이블입니다."
+msgstr "\"그룹(복수)\"을 대체 할 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:191
 msgid "Label to replace \"Join Group\" button."
@@ -4420,11 +4420,11 @@ msgstr "\"그룹 가입\" 버튼을 대체 할 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:95
 msgid "Label to replace \"lesson\" (singular)."
-msgstr "\"수업\" (단수)을 대체 할 레이블입니다."
+msgstr "\"수업(단수)\"을 대체 할 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:103
 msgid "Label to replace \"lessons\" (plural)."
-msgstr "\"수업\" (복수)을 대체 할 레이블입니다."
+msgstr "\"수업(복수)\"을 대체 할 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:199
 msgid "Label to replace \"Mark Complete\" button."
@@ -4432,19 +4432,19 @@ msgstr "\"완료 표시\" 버튼을 대체 할 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:143
 msgid "Label to replace \"question\" (singular)."
-msgstr "\"문제\" (단수)를 대체 할 레이블입니다."
+msgstr "\"문제(단수)\"를 대체 할 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:151
 msgid "Label to replace \"questions\" (plural)."
-msgstr "\"문제\" (복수를 대체 할 레이블입니다."
+msgstr "\"문제(복수)\"를 대체 할 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:127
 msgid "Label to replace \"quiz\" (singular)."
-msgstr "\"문제\" (단수)를 대체 할 레이블입니다."
+msgstr "\"문제(단수)\"를 대체 할 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:135
 msgid "Label to replace \"quizzes\" (plural)."
-msgstr "\"문제\" (복수)를 대체 할 레이블입니다."
+msgstr "\"문제(복수)\"를 대체 할 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:183
 msgid "Label to replace \"Take this Course\" button."
@@ -4452,11 +4452,11 @@ msgstr "\"수강하기\" 버튼을 대체하는 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:111
 msgid "Label to replace \"topic\" (singular)."
-msgstr "\"주제\" (단수)를 대체 할 레이블입니다."
+msgstr "\"주제(단수)\"를 대체 할 레이블입니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-custom-labels.php:119
 msgid "Label to replace \"topics\" (plural)."
-msgstr "\"주제\" (복수)를 대체 할 레이블입니다."
+msgstr "\"주제(복수)\"를 대체 할 레이블입니다."
 
 #: includes/ld-certificates.php:332
 msgid "Landscape (default)"
@@ -4857,12 +4857,12 @@ msgstr "사용자 나열"
 
 #: includes/settings/settings-pages/class-ld-settings-page-license.php:27
 msgid "LMS License"
-msgstr "LMS 라이선스"
+msgstr "LMS 라이센스"
 
 #: includes/admin/class-learndash-admin-menus-tabs.php:782
 msgctxt "LMS License Tab Label"
 msgid "LMS License"
-msgstr "LMS 라이선스"
+msgstr "LMS 라이센스"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:754
 #: includes/admin/classes-posts-edits/class-learndash-admin-quiz-edit.php:509
@@ -5563,7 +5563,7 @@ msgstr "인증서를 찾을 수 없습니다."
 
 #: themes/ld30/templates/focus/index.php:192
 msgid "No content found at this address"
-msgstr "이 주소에 콘텐츠가 없습니다."
+msgstr "이 주소에 컨텐츠가 없습니다."
 
 #: includes/lib/wp-pro-quiz/lib/controller/WpProQuiz_Controller_Admin.php:309
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_FrontToplist.php:35
@@ -5674,7 +5674,7 @@ msgstr "모든 필드가 완료되지는 않았습니다."
 #: includes/rest-api/v2/class-ld-rest-users-quiz-progress-controller.php:368
 #: includes/rest-api/v2/class-ld-rest-users-quiz-progress-controller.php:388
 msgid "Not allowed to view other user content."
-msgstr "다른 사용자 콘텐츠를 볼 수 없습니다."
+msgstr "다른 사용자 컨텐츠를 볼 수 없습니다."
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-assignment-edit.php:183
 #: includes/admin/classes-posts-listings/class-learndash-admin-assignments-listing.php:51
@@ -5880,7 +5880,7 @@ msgstr "새 탭에서 열립니다."
 
 #: includes/class-ld-lms.php:1398 includes/class-ld-lms.php:1404
 msgid "Optional"
-msgstr "선택 과목"
+msgstr "선택 사항"
 
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:337
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuestionEdit.php:387
@@ -6098,7 +6098,7 @@ msgid ""
 "Path to the CA certificates not set. Please add it to curl.cainfo in the php."
 "ini file. Otherwise, PayPal may not work."
 msgstr ""
-"CA 인증서에 대한 경로가 설정되지 않았습니다. php.ini 파일의 curl.cainfo에 추가하십시오. 그렇지 않으면 PayPal이 "
+"CA 인증서에 대한 경로가 설정되지 않았습니다. php.ini 파일의 curl.cainfo에 추가하십시오. 그렇지 않으면 페이팔이 "
 "작동하지 않을 수 있습니다."
 
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-lesson-display-content.php:640
@@ -6120,51 +6120,51 @@ msgstr "페이팔"
 #: includes/lib/paypal/enhanced-paypal-shortcodes.php:568
 #: includes/lib/paypal/enhanced-paypal-shortcodes.php:767
 msgid "PayPal - The safer, easier way to pay online."
-msgstr "PayPal-더 안전하고 쉬운 온라인 결제 방법."
+msgstr "페이팔 - 더 안전하고 쉬운 온라인 결제 방법"
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:135
 msgid "PayPal Cancel URL"
-msgstr "PayPal 취소 URL"
+msgstr "페이팔 취소 URL"
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:122
 msgid "PayPal Country"
-msgstr "PayPal 국가"
+msgstr "페이팔 국가"
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:206
 msgid "PayPal Country Code cannot be empty."
-msgstr "PayPal 국가 코드는 비워 둘 수 없습니다."
+msgstr "페이팔 국가 코드는 비워 둘 수 없습니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:208
 msgid "PayPal Country Code should not be longer than 2 letters."
-msgstr "PayPal 국가 코드는 2자 이하 여야합니다."
+msgstr "페이팔 국가 코드는 2자 이하 여야합니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:109
 msgid "PayPal Currency"
-msgstr "PayPal 통화"
+msgstr "페이팔 통화"
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:228
 msgid "PayPal Currency Code cannot be empty."
-msgstr "PayPal 통화 코드는 비워 둘 수 없습니다"
+msgstr "페이팔 통화 코드는 비워 둘 수 없습니다"
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:230
 msgid "PayPal Currency Code should not be longer than 3 letters."
-msgstr "PayPal 통화 코드는 3자 이하 여야합니다."
+msgstr "페이팔 통화 코드는 3자 이하 여야합니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:100
 msgid "PayPal Email"
-msgstr "PayPal 이메일"
+msgstr "페이팔 이메일"
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:187
 msgid "PayPal Email must be a valid email."
-msgstr "PayPal 이메일은 유효한 이메일이어야합니다."
+msgstr "페이팔 이메일은 유효한 이메일이어야합니다."
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:151
 msgid "PayPal Notify URL"
-msgstr "PayPal 알림 URL"
+msgstr "페이팔 알림 URL"
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:143
 msgid "PayPal Return "
-msgstr "PayPal 반품"
+msgstr "페이팔 반품"
 
 #: includes/settings/settings-pages/class-ld-settings-page-paypal.php:26
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:35
@@ -6281,7 +6281,7 @@ msgstr "%s 페이지 "
 #: includes/group/ld-groups-membership.php:161
 msgctxt "placeholder Group"
 msgid "%s Content Protection"
-msgstr "%s 콘텐츠 보호"
+msgstr "%s 컨텐츠 보호"
 
 #. translators: placeholder: lesson.
 #: themes/legacy/templates/lesson.php:66
@@ -6332,7 +6332,7 @@ msgid ""
 "%1$s offer a convenient and organized way for you to deliver training "
 "content. Create a %2$s and include %3$s, %4$s, %5$s, Assignments, and more!"
 msgstr ""
-"%1$s는 교육 콘텐츠를 제공 할 수있는 편리하고 체계적인 방법을 제공합니다. %2$s를 만들고 %3$s, %4$s, %5$s, 과제 "
+"%1$s는 교육 컨텐츠를 제공 할 수있는 편리하고 체계적인 방법을 제공합니다. %2$s를 만들고 %3$s, %4$s, %5$s, 과제 "
 "등을 포함하세요!"
 
 #. translators: placeholder: %1$s: Lessons, %2$s: Course
@@ -6357,7 +6357,7 @@ msgid ""
 "the %4$s Builder, or you can create them individually and assign them to a "
 "%5$s later"
 msgstr ""
-"%1$s는 %2$s에 대한 콘텐츠를 추가하는 곳입니다. %4$s 빌더를 사용하여 %3$s을 추가하거나 개별적으로 생성 한 후 나중에 "
+"%1$s는 %2$s에 대한 컨텐츠를 추가하는 곳입니다. %4$s 빌더를 사용하여 %3$s을 추가하거나 개별적으로 생성 한 후 나중에 "
 "%5$s에 할당 할 수 있습니다."
 
 #. translators: placeholder: %1$s: Lessons, %2$s: Course, %3$s: Topics, %4$s: Topics, %5$s: Course, %6$s: Lesson
@@ -6407,7 +6407,7 @@ msgid ""
 "content. You can have a %3$s in the middle of a %4$s, or you can put it at "
 "the end"
 msgstr ""
-"%1$s는 학습자가 %2$s 콘텐츠를 이해하고 있는지 확인할 수있는 좋은 방법입니다. %4$s 중간에 %3$s를 넣거나 끝에 넣을 수 "
+"%1$s는 학습자가 %2$s 컨텐츠를 이해하고 있는지 확인할 수있는 좋은 방법입니다. %4$s 중간에 %3$s를 넣거나 끝에 넣을 수 "
 "있습니다."
 
 #. translators: placeholder: lessons, link to WP Permalins page.
@@ -7216,7 +7216,7 @@ msgstr "첫 번째 %s 추가"
 #: includes/settings/settings-sections/class-ld-settings-section-general-admin-user.php:131
 msgctxt "placeholder: course"
 msgid "Admin can access %s content in any order"
-msgstr "관리자는 순서에 상관없이 %s 콘텐츠에 액세스 할 수 있습니다."
+msgstr "관리자는 순서에 상관없이 %s 컨텐츠에 액세스 할 수 있습니다."
 
 #. translators: placeholder: Course.
 #: includes/class-ld-lms.php:912
@@ -7245,7 +7245,7 @@ msgctxt "placeholder: course"
 msgid ""
 "Allow %1$s users to access %2$s content in any order bypassing progression "
 "and access limitations"
-msgstr "%1$s 사용자가 진행률 및 액세스 제한을 무시하고 순서에 관계없이 %2$s 콘텐츠에 액세스하도록 허용합니다."
+msgstr "%1$s 사용자가 진행률 및 액세스 제한을 무시하고 순서에 상관없이 %2$s 컨텐츠에 액세스하도록 허용합니다."
 
 #. translators: placeholder:  course.
 #: includes/settings/settings-sections/class-ld-settings-section-general-admin-user.php:123
@@ -7253,7 +7253,7 @@ msgctxt "placeholder: course"
 msgid ""
 "Allow admin users to access %s content in any order bypassing progression "
 "and access limitations"
-msgstr "관리자가 진행률 및 액세스 제한을 무시하고 순서에 관계없이 %s 콘텐츠에 액세스 할 수 있도록 허용"
+msgstr "관리자가 진행률 및 액세스 제한을 무시하고 순서에 상관없이 %s 컨텐츠에 액세스 할 수 있도록 허용"
 
 #. translators: placeholder: Course.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-navigation-settings.php:91
@@ -8070,7 +8070,7 @@ msgstr "획득한 %s 포인트 표시"
 #: includes/settings/shortcodes-sections/ld_course_list.php:118
 msgctxt "placeholder: course"
 msgid "shows %s content."
-msgstr "%s 콘텐츠를 표시합니다."
+msgstr "%s 컨텐츠를 표시합니다."
 
 #. translators: placeholder: course.
 #: includes/settings/shortcodes-sections/ld_course_list.php:186
@@ -8137,7 +8137,7 @@ msgctxt "placeholder: course"
 msgid ""
 "The %s is protected. Registration and enrollment are required in order to "
 "access the content."
-msgstr "%s이(가) 보호됩니다. 콘텐츠에 액세스하려면 등록이 필요합니다."
+msgstr "%s이(가) 보호됩니다. 컨텐츠에 액세스하려면 등록이 필요합니다."
 
 #. translators: placeholder: Course.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-users.php:105
@@ -8204,7 +8204,7 @@ msgctxt "placeholder: course"
 msgid ""
 "This convert the %s access list setting to user meta where it can be managed "
 "more efficiently. (Optional)"
-msgstr "이렇게하면 %s 액세스 목록 설정이보다 효율적으로 관리 될 수있는 사용자 메타로 변환됩니다. (선택 과목)"
+msgstr "이렇게하면 %s 액세스 목록 설정이 보다 효율적으로 관리될 수 있는 사용자 메타로 변환됩니다. (선택 사항)"
 
 #. translators: placeholder: course.
 #: includes/settings/shortcodes-sections/student.php:25
@@ -8238,7 +8238,7 @@ msgstr "이 업그레이드는 더 나은보고를 위해 %s의 기존 사용자
 #: includes/admin/classes-data-upgrades-actions/class-learndash-admin-data-upgrades-course-access-list.php:58
 msgctxt "placeholder: course"
 msgid "This upgrade will upgrade the %s meta elements. (Optional)"
-msgstr "이 업그레이드는 %s 메타 요소를 업그레이드합니다. (선택 과목)"
+msgstr "이 업그레이드는 %s 메타 요소를 업그레이드합니다. (선택 사항)"
 
 #. translators: placeholder: Course.
 #: includes/rest-api/v2/class-ld-rest-users-course-progress-controller.php:220
@@ -8443,7 +8443,7 @@ msgid ""
 "The %1$s is protected via the LearnDash built-in PayPal and/or Stripe. Users "
 "need to purchase the %2$s (one-time fee) in order to gain access."
 msgstr ""
-"%1$s는 런대쉬 내장 PayPal 또는 Stripe를 통해 보호됩니다. 사용자가 액세스하려면 %2$s(일회성요금)을 구매해야합니다."
+"%1$s는 런대쉬 내장 페이팔 또는 Stripe를 통해 보호됩니다. 사용자가 액세스하려면 %2$s(일회성요금)을 구매해야합니다."
 
 #. translators: placeholder: course, course.
 #: includes/rest-api/v2/class-ld-rest-price-types-controller.php:128
@@ -8453,7 +8453,7 @@ msgid ""
 "The %1$s is protected via the LearnDash built-in PayPal and/or Stripe. Users "
 "need to purchase the %2$s (recurring fee) in order to gain access."
 msgstr ""
-"%1$s는 런대쉬 내장 PayPal 또는 Stripe를 통해 보호됩니다. 사용자가 액세스하려면 %2$s (반복요금)을 구매해야합니다."
+"%1$s는 런대쉬 내장 페이팔 또는 Stripe를 통해 보호됩니다. 사용자가 액세스하려면 %2$s (반복요금)을 구매해야합니다."
 
 #. translators: placeholder: course, course.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-access-settings.php:528
@@ -8793,7 +8793,7 @@ msgstr "%s로 돌아가기"
 #: includes/settings/settings-sections/class-ld-settings-section-general-admin-user.php:39
 msgctxt "placeholder: courses"
 msgid "Controls the admin user-experience navigating %s."
-msgstr "%s을(를) 탐색하는 관리자 사용자 환경을 제어합니다."
+msgstr "%s를 탐색하는 관리자 환경을 제어합니다."
 
 #. translators: placeholder: courses.
 #: includes/settings/settings-sections/class-ld-settings-section-groups-management-display.php:203
@@ -10112,7 +10112,7 @@ msgstr "%s 썸네일 표시"
 #: includes/settings/shortcodes-sections/ld_group_list.php:118
 msgctxt "placeholder: group"
 msgid "shows %s content."
-msgstr "%s 콘텐츠를 표시합니다."
+msgstr "%s 컨텐츠를 표시합니다."
 
 #. translators: placeholder: group.
 #: includes/settings/shortcodes-sections/ld_group_list.php:186
@@ -10151,7 +10151,7 @@ msgctxt "placeholder: group"
 msgid ""
 "The %s is protected. Registration and enrollment are required in order to "
 "access the content."
-msgstr "%s이(가) 보호됩니다. 콘텐츠에 액세스하려면 등록이 필요합니다."
+msgstr "%s이(가) 보호됩니다. 컨텐츠에 액세스하려면 등록이 필요합니다."
 
 #. translators: placeholder: group
 #: themes/ld30/templates/modules/infobar/group.php:219
@@ -10361,7 +10361,7 @@ msgstr "%s 사용자 ID가 없습니다."
 #: includes/settings/settings-sections/class-ld-settings-section-groups-group-leader-user.php:260
 msgctxt "placeholder: group leader, course"
 msgid "%1$s can access %2$s content in any order"
-msgstr "%1$s는 순서에 상관없이 %2$s 콘텐츠에 액세스 할 수 있습니다."
+msgstr "%1$s는 순서에 상관없이 %2$s 컨텐츠에 액세스 할 수 있습니다."
 
 #. translators: placeholder: Group leader, courses.
 #: includes/settings/settings-sections/class-ld-settings-section-groups-group-leader-user.php:354
@@ -10541,8 +10541,8 @@ msgid ""
 " Users need to purchase the %2$s to gain access and will be charged on a "
 "recurring basis."
 msgstr ""
-"%1$s는 내장 된 런대쉬 PayPal / Stripe 기능을 통해 보호됩니다. 사용자가 액세스하려면 %2$s을 (를) 구입해야하며 "
-"요금이 반복적으로 청구됩니다."
+"%1$s는 내장 된 런대쉬 페이팔 / Stripe 기능을 통해 보호됩니다. 사용자가 액세스하려면 %2$s을 (를) 구입해야하며 요금이 "
+"반복적으로 청구됩니다."
 
 #. translators: placeholder: course, group.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-group-access-settings.php:308
@@ -10551,8 +10551,7 @@ msgid ""
 "The %1$s is protected via the LearnDash built-in PayPal and/or Stripe. Users "
 "need to purchase the %2$s (one-time fee) in order to gain access."
 msgstr ""
-"%1$s는 런대쉬 내장 PayPal 및 / 또는 Stripe를 통해 보호됩니다. 사용자가 액세스하려면 %2$s (일회성 요금)을 "
-"구매해야합니다."
+"%1$s는 런대쉬 내장 페이팔 및 / 또는 Stripe를 통해 보호됩니다. 사용자가 액세스하려면 %2$s (일회성 요금)을 구매해야합니다."
 
 #. translators: group, group leader
 #: includes/rest-api/v1/class-ld-rest-groups-users-controller.php:50
@@ -12276,7 +12275,7 @@ msgstr "%1$s / %2$s 페이지"
 #: includes/admin/classes-posts-listings/class-learndash-admin-transactions-listing.php:196
 msgctxt "placeholder: PayPal Purchase price, Stripe Currency"
 msgid "PayPal: %1$s %2$s"
-msgstr "PayPal : %1$s %2$s"
+msgstr "페이팔 : %1$s %2$s"
 
 #. translators: placeholder: percent complete
 #: themes/legacy/templates/profile.php:163
@@ -13237,7 +13236,7 @@ msgstr "카테고리별로 %s 정렬"
 #: includes/rest-api/v1/class-ld-rest-questions-controller.php:314
 msgctxt "placeholder: question"
 msgid "The %s content"
-msgstr "%s 콘텐츠"
+msgstr "%s 컨텐츠"
 
 #. translators: question
 #: includes/rest-api/v1/class-ld-rest-questions-controller.php:54
@@ -13736,7 +13735,7 @@ msgstr "%s 액세스 설정"
 #: includes/gutenberg/blocks/ld-course-info/index.js:284
 msgctxt "placeholder: Quiz"
 msgid "%s Attempts"
-msgstr "%s회 시도"
+msgstr "%s 시도"
 
 #. translators: placeholder: Quiz.
 #: includes/settings/settings-sections/class-ld-settings-section-quizzes-management-display.php:227
@@ -14911,7 +14910,7 @@ msgstr "사용자 %s 시도 표시"
 #: includes/settings/shortcodes-sections/ld_quiz_list.php:136
 msgctxt "placeholder: quiz"
 msgid "shows %s content."
-msgstr "%s 콘텐츠를 표시합니다."
+msgstr "%s 컨텐츠를 표시합니다."
 
 #. translators: placeholder: quiz.
 #: includes/settings/shortcodes-sections/ld_quiz_list.php:217
@@ -15356,7 +15355,7 @@ msgctxt "placeholder: quiz, quiz"
 msgid ""
 "Manage the email content that will be sent out to the user when a %1$s is "
 "completed. You must enable \"User Notification\" on a per %2$s basis."
-msgstr "%1$s 완료시 사용자에게 보낼 이메일 콘텐츠를 관리합니다. %2$s 단위로 \"사용자 알림\"을 활성화해야합니다."
+msgstr "%1$s 완료시 사용자에게 보낼 이메일 컨텐츠를 관리합니다. %2$s 단위로 \"사용자 알림\"을 활성화해야합니다."
 
 #. translators: placeholder: Quiz, Quiz, Certificate.
 #: includes/gutenberg/blocks/ld-quizinfo/index.php:110
@@ -15817,7 +15816,7 @@ msgid ""
 "at the end. In this video we demonstrate how to create a %5$s and how to add "
 "%6$s."
 msgstr ""
-"%1$s는 학습자가 %2$s 콘텐츠를 이해하고 있는지 확인할 수있는 좋은 방법입니다. %4$s 동안 하나 이상의 %3$s를 가질 수도 "
+"%1$s는 학습자가 %2$s 컨텐츠를 이해하고 있는지 확인할 수있는 좋은 방법입니다. %4$s 동안 하나 이상의 %3$s를 가질 수도 "
 "있고 끝에 넣을 수도 있습니다. 이 비디오에서는 %5$s를 만드는 방법과 %6$s를 추가하는 방법을 보여줍니다."
 
 #. translators: placeholder: quizzes, Quiz.
@@ -16492,7 +16491,7 @@ msgstr "%s 썸네일 표시"
 #: includes/settings/shortcodes-sections/ld_topic_list.php:111
 msgctxt "placeholder: topic"
 msgid "shows %s content."
-msgstr "%s 콘텐츠를 표시합니다."
+msgstr "%s 컨텐츠를 표시합니다."
 
 #. translators: placeholder: topic.
 #: includes/settings/shortcodes-sections/ld_topic_list.php:193
@@ -16944,13 +16943,13 @@ msgstr "인증서 단축 코드에 대한 설명서가 온라인으로 이동되
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:125
 msgctxt "placeholder: URL to PayPal Country Codes."
 msgid "Enter your country code here. See PayPal %s Documentation"
-msgstr "여기에 국가 코드를 입력하십시오. PayPal %s 문서 참조"
+msgstr "여기에 국가 코드를 입력하십시오. 페이팔 %s 문서 참조"
 
 #. translators: placeholder: Link to PayPal.
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:112
 msgctxt "placeholder: URL to PayPal Currency Codes"
 msgid "Enter the currency code for transactions. See PayPal %s Documentation"
-msgstr "거래에 대한 통화 코드를 입력합니다. PayPal %s 문서 참조"
+msgstr "거래에 대한 통화 코드를 입력합니다. 페이팔 %s 문서 참조"
 
 #. translators: placeholder: user name.
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_StatisticsAjax.php:104
@@ -17491,8 +17490,8 @@ msgid ""
 "with PayPal and Stripe. In the second video we will show you how to sell "
 "%2$s using the popular WordPress shopping cart WooCommerce."
 msgstr ""
-"%1$s을(를) 판매하는 경우 다양한 옵션을 사용할 수 있습니다! 첫 번째 비디오에서는 PayPal 및 Stripe로 결제를 신속하게 "
-"수락하는 방법을 보여줍니다. 두 번째 동영상에서는 인기있는 워드프레스 장바구니 우커머스를 사용하여 %2$s를 판매하는 방법을 보여줍니다."
+"%1$s을(를) 판매하는 경우 다양한 옵션을 사용할 수 있습니다! 첫 번째 비디오에서는 페이팔 및 Stripe로 결제를 신속하게 수락하는 "
+"방법을 보여줍니다. 두 번째 동영상에서는 인기있는 워드프레스 장바구니 우커머스를 사용하여 %2$s를 판매하는 방법을 보여줍니다."
 
 #. translators: placeholders: courses, courses (URL slug).
 #: includes/settings/shortcodes-sections/ld_course_list.php:26
@@ -17572,7 +17571,7 @@ msgctxt "placeholders: FAQ update link."
 msgid ""
 "LearnDash update and license calls are temporarily disabled. Click %s for "
 "more information."
-msgstr "런대쉬 업데이트 및 라이선스 호출이 일시적으로 비활성화됩니다. 자세한 내용을 보려면 %s를 클릭하십시오."
+msgstr "런대쉬 업데이트 및 라이센스 호출이 일시적으로 비활성화됩니다. 자세한 내용을 보려면 %s를 클릭하십시오."
 
 #. translators: placeholders: group.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-group-display-content.php:277
@@ -17963,7 +17962,7 @@ msgstr ""
 #: includes/settings/settings-pages/class-ld-settings-page-overview.php:503
 msgctxt "placeholders: Lessons, Topics"
 msgid "Adding Content Using %1$s & %2$s"
-msgstr "%1$s 및 %2$s를 사용하여 콘텐츠 추가"
+msgstr "%1$s 및 %2$s를 사용하여 컨텐츠 추가"
 
 #. translators: placeholders: lessons, topics.
 #: includes/settings/settings-metaboxes/class-ld-settings-metabox-course-display-content.php:411
@@ -18027,7 +18026,7 @@ msgstr "이 %1$s을 %2$s에서 제거 하시겠습니까?"
 #: includes/admin/class-learndash-admin-posts-edit.php:298
 msgctxt "placeholders: Post Type singular label"
 msgid "Add %s content."
-msgstr "%s 콘텐츠를 추가합니다."
+msgstr "%s 컨텐츠를 추가합니다."
 
 #. translators: placeholders: Post Type singular label.
 #: includes/admin/class-learndash-admin-posts-edit.php:276
@@ -21064,7 +21063,7 @@ msgstr "보낸 사람의 이름입니다. 제공하지 않으면 기본적으로
 msgid ""
 "This logo will appear in the Focus Mode and LearnDash Login form when "
 "enabled. Optional."
-msgstr "이 로고는 활성화되면 포커스 모드 및 런대쉬 로그인 양식에 나타납니다. 선택 과목."
+msgstr "이 로고는 활성화되면 포커스 모드 및 런대쉬 로그인 양식에 나타납니다. (선택 사항)"
 
 #: includes/lib/wp-pro-quiz/lib/view/WpProQuiz_View_QuizEdit.php:309
 msgid "This option applies to:"
@@ -21607,11 +21606,11 @@ msgstr "오답에 다른 메시지 사용"
 
 #: includes/ld-misc-functions.php:506
 msgid "Use Paypal"
-msgstr "Paypal 사용"
+msgstr "페이팔 사용"
 
 #: includes/settings/settings-sections/class-ld-settings-section-paypal.php:159
 msgid "Use PayPal Sandbox"
-msgstr "PayPal Sandbox 사용"
+msgstr "페이팔 Sandbox 사용"
 
 #: includes/admin/classes-posts-edits/class-learndash-admin-question-edit.php:733
 #: includes/admin/classes-posts-edits/class-learndash-admin-quiz-edit.php:487
@@ -22146,7 +22145,7 @@ msgstr "경고 : 사용자 정의 데이터베이스 테이블을 포함한 모�
 msgid ""
 "We know you are excited to get started, but before you do it is very "
 "important that you first add your license details below!"
-msgstr "시작하게되어 기쁩니다. 시작하기 전에 먼저 아래에 라이선스 세부 정보를 추가하는 것이 매우 중요합니다!"
+msgstr "시작하게되어 기쁩니다. 시작하기 전에 먼저 아래에 라이센스 세부 정보를 추가하는 것이 매우 중요합니다!"
 
 #: themes/ld30/includes/helpers.php:64 themes/ld30/includes/helpers.php:3066
 msgid "week"
@@ -22374,7 +22373,7 @@ msgstr "WP 게시물 태그"
 
 #: includes/settings/settings-sections/class-ld-settings-section-general-per-page.php:124
 msgid "WP Profile"
-msgstr "WP 프로필"
+msgstr "WP 사용자"
 
 #: includes/settings/shortcodes-sections/ld_course_list.php:270
 #: includes/settings/shortcodes-sections/ld_group_list.php:270
