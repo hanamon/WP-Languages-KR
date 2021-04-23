@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Ultimate Member – User Profile, User Registration, Login &amp; Membership Plugin - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-04-22 01:22+0000\n"
+"PO-Revision-Date: 2021-04-23 07:46+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -58,7 +58,7 @@ msgstr "%s 전에"
 #: includes/core/class-date-time.php:84 includes/core/class-date-time.php:89
 #: includes/core/class-date-time.php:93 includes/core/class-date-time.php:97
 msgid "%s at %s"
-msgstr "%s at %s"
+msgstr "%s (%s)"
 
 #: templates/profile/posts-single.php:34
 msgid "%s comments"
@@ -66,7 +66,7 @@ msgstr "%s 댓글"
 
 #: includes/admin/templates/gdpr.php:36
 msgid "%s does not send any user data outside of your site by default."
-msgstr "%s 는 기본적으로 어떤 사용자 데이터도 이 사이트 외부로 전송하지 않습니다."
+msgstr "%s는 기본적으로 사이트 외부로 사용자 데이터를 보내지 않습니다."
 
 #: includes/core/class-date-time.php:72
 msgid "%s hr"
@@ -82,12 +82,12 @@ msgstr "%s은(는) 주요 업데이트이므로 업데이트하기 전에 사이
 
 #: includes/core/um-actions-form.php:524
 msgid "%s is required"
-msgstr "%s이(가) 필요합니다"
+msgstr "%s는 필수입니다."
 
 #: includes/core/um-actions-form.php:479 includes/core/um-actions-form.php:483
 #: includes/core/um-actions-form.php:487
 msgid "%s is required."
-msgstr "%s이 (가) 필요합니다."
+msgstr "%s가 필요합니다."
 
 #: includes/class-extensions.php:101
 msgid "%s License Key"
@@ -104,8 +104,8 @@ msgid ""
 "%s needs to create several pages (User Profiles, Account, Registration, "
 "Login, Password Reset, Logout, Member Directory) to function correctly."
 msgstr ""
-"%s 가 제대로 작동하기 위해서는 여러 페이지들 (유저 프로필, 계정, 가입, 로그인, 비밀번호 복구, 로그아웃, 멤버 디렉토리) 을 "
-"생성해야 합니다."
+"%s이(가) 올바르게 작동하려면 여러 페이지(사용자 프로필, 계정, 회원가입, 로그인, 비밀번호 재설정, 로그아웃, 멤버 디렉터리)를 "
+"만들어야합니다."
 
 #: includes/admin/core/class-admin-settings.php:250
 #: includes/admin/core/class-admin-settings.php:259
@@ -114,7 +114,7 @@ msgstr "%s 페이지"
 
 #: includes/admin/templates/gdpr.php:10
 msgid "%s provides you with forms for user registration, login and profiles."
-msgstr "%s는 회원가입, 로그인, 프로필 폼을 제공합니다."
+msgstr "%s는 회원가입, 로그인 및 프로필을 위한 양식을 제공합니다."
 
 #: includes/admin/core/class-admin-settings.php:297
 #: includes/admin/core/class-admin-settings.php:308
@@ -123,7 +123,7 @@ msgstr "%s 탭"
 
 #: includes/core/class-date-time.php:146
 msgid "%s year old"
-msgstr "%s 년"
+msgstr "%s년"
 
 #: includes/core/class-date-time.php:149
 msgid "%s years old"
@@ -153,11 +153,11 @@ msgstr "(제목 없음)"
 
 #: templates/profile/posts-single.php:36
 msgid "1 comment"
-msgstr "1개의 댓글이 있습니다"
+msgstr "1개의 댓글이 있습니다."
 
 #: includes/admin/core/class-admin-settings.php:1327
 msgid "1.0 version"
-msgstr "버전 1.0"
+msgstr "1.0 버전"
 
 #: includes/admin/core/class-admin-metabox.php:2359
 msgid "10 stars rating system"
@@ -165,7 +165,7 @@ msgstr "별 10개 평가 체계"
 
 #: includes/admin/core/class-admin-settings.php:1328
 msgid "2.0 version"
-msgstr "버전 2.0"
+msgstr "2.0 버전"
 
 #: includes/admin/core/class-admin-settings.php:610
 msgid "404 ( File Not Found response )"
@@ -187,7 +187,7 @@ msgstr ""
 
 #: includes/admin/core/class-admin-notices.php:592
 msgid "<strong>%s %s</strong> Successfully Upgraded"
-msgstr "<strong>%s %s</strong> 성공적으로 업그레이드 됨"
+msgstr "<strong>%s %s</strong>이(가) 성공적으로 업그레이드되었습니다."
 
 #: includes/admin/core/class-admin-notices.php:568
 msgid ""
@@ -205,16 +205,16 @@ msgid ""
 "<strong>%s</strong> future plans! Detailed future list is <a href=\"%s\" "
 "target=\"_blank\">here</a>"
 msgstr ""
-"<strong>%s</strong> 앞으로의 계획들! 자세한 향후 목록은 <a href=\"%s\" target=\"_blank\"> "
-"여기 </a>에 있습니다."
+"<strong>%s</strong> 앞으로의 계획들! 자세한 향후 목록은 <a href=\"%s\" target=\"_blank\">"
+"여기</a>에 있습니다."
 
 #: includes/core/class-member-directory.php:896
 msgid "<strong>Age:</strong>&nbsp;{min_range} - {max_range} years old"
-msgstr "<strong>나이:</strong>&nbsp;{min_range} - {max_range} 세"
+msgstr "<strong>나이 :</strong>&nbsp;{min_range} - {max_range}세"
 
 #: includes/core/class-member-directory.php:895
 msgid "<strong>Age:</strong>&nbsp;{value} years old"
-msgstr "<strong>나이:</strong>&nbsp;{value} 세"
+msgstr "<strong>나이 :</strong>&nbsp;{value}세"
 
 #: includes/admin/templates/extensions.php:179
 msgid ""
@@ -225,7 +225,7 @@ msgstr "<strong>모든 엑세스 패스</strong>를 통해 대폭 할인된 가�
 #: includes/admin/templates/form/mode.php:9
 msgid ""
 "<strong>Note:</strong> Form type cannot be changed for the default forms."
-msgstr "<strong>참고:</strong> 이미 지정된 양식 양식을 변경할 수는 없습니다."
+msgstr "<strong>참고 :</strong> 이미 지정된 양식 양식을 변경할 수는 없습니다."
 
 #: includes/core/um-actions-account.php:550
 #: includes/core/um-actions-account.php:624
@@ -239,7 +239,7 @@ msgstr "확인 이메일이 귀하의 이메일로 전송되었습니다. 이메
 msgid ""
 "A logged out user will be redirected to this url If he is not permitted to "
 "access the site"
-msgstr "로그 아웃 한 사용자는 사이트에 액세스 할 수없는 경우 이 URL로 리디렉션됩니다. "
+msgstr "로그아웃한 사용자는 사이트에 액세스 할 수 없는 경우 이 URL로 리디렉션됩니다. "
 
 #: includes/admin/core/class-admin-metabox.php:2190
 msgid ""
@@ -301,7 +301,7 @@ msgstr "계정 삭제 알림"
 
 #: includes/admin/core/class-admin-settings.php:675
 msgid "Account Deletion without password Custom Text"
-msgstr "비밀번호 사용자 지정 텍스트 없이 계정 삭제"
+msgstr "비밀번호없이 계정 삭제 안내 문구"
 
 #: includes/class-config.php:491
 msgid "Account Needs Review Notification"
@@ -333,15 +333,15 @@ msgstr "계정 환영 메일"
 
 #: includes/admin/templates/role/delete.php:15
 msgid "Action to be taken after account is deleted"
-msgstr "계정이 삭제 된 후 취할 조치"
+msgstr "계정이 삭제 된 후 수행 할 작업"
 
 #: includes/admin/templates/role/login.php:15
 msgid "Action to be taken after login"
-msgstr "로그인 후 취해야 할 조치"
+msgstr "로그인 후 수행할 작업"
 
 #: includes/admin/templates/role/logout.php:15
 msgid "Action to be taken after logout"
-msgstr "로그 아웃 후 수행 할 작업"
+msgstr "로그아웃 후 수행할 작업"
 
 #: includes/admin/templates/role/register.php:26
 #: includes/admin/templates/role/register.php:53
@@ -390,7 +390,7 @@ msgstr "이름과 성 필드 추가"
 
 #: includes/admin/templates/modal/dynamic_new_divider.php:9
 msgid "Add a New Divider"
-msgstr "새 디바이더 추가"
+msgstr "새로운 구분선 추가"
 
 #: includes/admin/templates/modal/dynamic_new_field.php:9
 msgid "Add a New Field"
@@ -414,24 +414,24 @@ msgstr "새로추가"
 #: includes/admin/templates/directory/profile.php:64
 #: includes/admin/templates/directory/search.php:63
 msgid "Add New Custom Field"
-msgstr "사용자 정의 필드 추가하기:"
+msgstr "사용자 정의 필드 추가하기 :"
 
 #: includes/admin/templates/directory/sorting.php:49
 #: includes/admin/templates/form/profile_settings.php:25
 msgid "Add New Field"
-msgstr "새 필드 추가"
+msgstr "새로운 필드 추가"
 
 #: includes/admin/templates/directory/search.php:90
 msgid "Add New Filter"
-msgstr "새 필터 추가하기"
+msgstr "새로운 필터 추가하기"
 
 #: includes/core/class-common.php:61
 msgid "Add New Form"
-msgstr "새 Form 추가"
+msgstr "새로운 양식 추가"
 
 #: includes/core/class-common.php:91
 msgid "Add New Member Directory"
-msgstr "새로운 회원 디렉토리 추가"
+msgstr "새로운 멤버 디렉토리 추가"
 
 #: includes/admin/templates/role/role-edit.php:154
 msgid "Add New Role"
@@ -439,7 +439,7 @@ msgstr "새로운 역할 추가"
 
 #: includes/admin/core/class-admin-builder.php:237
 msgid "Add new rule"
-msgstr "새 규칙 추가하기"
+msgstr "새로운 규칙 추가하기"
 
 #: includes/admin/core/class-admin-settings.php:764
 #: includes/admin/core/class-admin-settings.php:774
@@ -448,7 +448,7 @@ msgstr "새로운 크기 추가"
 
 #: includes/admin/core/class-admin-settings.php:425
 msgid "Add New URL"
-msgstr "새 URL 추가"
+msgstr "새로운 URL 추가"
 
 #: includes/admin/core/class-admin-settings.php:251
 msgid "Add page ID"
@@ -532,15 +532,15 @@ msgstr "모든"
 
 #: includes/admin/core/class-admin-settings.php:438
 msgid "Allow Category pages to be accessible"
-msgstr "카테고리 페이지를 접속가능 하도록 허락"
+msgstr "범주 페이지에 액세스 할 수 있도록 허용"
 
 #: includes/admin/core/class-admin-settings.php:454
 msgid "Allow Gutenberg Blocks restriction options"
-msgstr "구텐버그 블락 제한 기능 활성화"
+msgstr "구텐베르크 차단 제한 옵션 허용"
 
 #: includes/admin/core/class-admin-settings.php:432
 msgid "Allow Homepage to be accessible"
-msgstr "홈페이지를 접속가능 하도록 허락"
+msgstr "홈페이지에 액세스 할 수 있도록 허용"
 
 #: includes/admin/core/class-admin-metabox.php:2042
 msgid "Allow multiple selections"
@@ -549,7 +549,7 @@ msgstr "다중 선택 허용하기"
 #: includes/admin/templates/role/general.php:22
 msgid ""
 "Allow this role to delete their account and end their membership on your site"
-msgstr "이 역할이 자신의 계정을 삭제하고 사이트에서 회원 자격을 종료하도록 허용하십시오."
+msgstr "이 역할이 계정을 삭제하고 사이트에서 멤버십을 종료하도록 허용"
 
 #: includes/admin/templates/role/admin-permissions.php:29
 #: includes/admin/templates/role/admin-permissions.php:46
@@ -595,7 +595,7 @@ msgstr "알파벳-숫자 값"
 
 #: includes/core/class-builtin.php:1364
 msgid "Alphabetic value only"
-msgstr "알파벳 값 만"
+msgstr "알파벳 값만"
 
 #: includes/core/class-builtin.php:1617
 msgid "American Samoa"
@@ -607,7 +607,7 @@ msgstr "Amharic"
 
 #: includes/core/um-actions-misc.php:153
 msgid "An error has been encountered"
-msgstr "오류가 발생했습니다"
+msgstr "오류가 발생했습니다."
 
 #: includes/core/um-actions-misc.php:190
 msgid ""
@@ -638,7 +638,7 @@ msgstr "Antigua and Barbuda"
 msgid ""
 "Any image upload above this width will be resized to this limit "
 "automatically."
-msgstr "모든 이미지가 업로드시 자동으로 리사이징 됨."
+msgstr "이 너비를 초과하는 이미지 업로드는 자동으로 이 제한으로 크기가 조정됩니다."
 
 #: includes/core/class-profile.php:100
 msgid "Anyone"
@@ -646,7 +646,7 @@ msgstr "누구나"
 
 #: includes/admin/core/class-admin-settings.php:881
 msgid "Appearance"
-msgstr "외모"
+msgstr "외관"
 
 #: includes/admin/core/class-admin-users.php:163
 #: includes/core/class-fields.php:2685
@@ -684,7 +684,7 @@ msgstr "확실합니다. 일부 설정이 저장되지 않았을 수 있습니�
 
 #: includes/core/um-actions-account.php:15
 msgid "Are you hacking? Please try again!"
-msgstr "해킹하려는 건지? 다시 시도해 보시기 바랍니다!"
+msgstr "해킹하고 있습니까? 다시 시도하십시오!"
 
 #: assets/js/um-profile.js:128
 msgid "Are you sure that you want to delete this user?"
@@ -694,7 +694,7 @@ msgstr "이 사용자를 삭제 하시겠습니까?"
 msgid ""
 "Are you sure you want to delete the selected user(s)? The following users "
 "will be deleted: <p>%s</p> <strong>This cannot be undone!</strong>"
-msgstr "이용자를 삭제 하시겠습니까? 삭제될 이용자: <p>%s</p> <strong>삭제되면 복구할 수 없습니다.</strong>"
+msgstr "선택한 사용자를 삭제 하시겠습니까? 다음 사용자가 삭제됩니다. %s 이 작업은 취소 할 수 없습니다!"
 
 #: includes/admin/core/list-tables/roles-list-table.php:342
 msgid "Are you sure you want to delete this role?"
@@ -705,14 +705,14 @@ msgid ""
 "Are you sure you want to delete your account? This will erase all of your "
 "account data from the site. To delete your account enter your password below."
 msgstr ""
-"계정을 삭제하기 원하는 것이 확실한가요? 사이트에서 모든 계정 데이터가 지워집니다. 계정을 지우려면 아래에 비밀번호를 입력하세요."
+"계정을 삭제 하시겠습니까? 이렇게하면 사이트에서 모든 계정 데이터가 지워집니다. 계정을 삭제하려면 아래에 비밀번호를 입력하세요."
 
 #: includes/class-config.php:530
 msgid ""
 "Are you sure you want to delete your account? This will erase all of your "
 "account data from the site. To delete your account, click on the button "
 "below."
-msgstr "정말 계정 삭제하기를 원하시나요? 사이트에서 모든 계정 데이터를 지웁니다. 계정을 지우려면 아래의 버튼을 누르세요."
+msgstr "계정을 삭제 하시겠습니까? 이렇게하면 사이트에서 모든 계정 데이터가 지워집니다. 계정을 삭제하려면 아래 버튼을 클릭하십시오."
 
 #: includes/admin/core/list-tables/roles-list-table.php:347
 msgid "Are you sure you want to reset UM role meta?"
@@ -772,12 +772,12 @@ msgstr "Avestan"
 
 #: includes/core/class-builtin.php:1134 includes/core/class-builtin.php:1137
 msgid "Avoid indexing my profile by search engines"
-msgstr "검색 엔진으로부터 내 프로필 색인 생성 방지하기"
+msgstr "검색 엔진에서 내 프로필 색인 생성 방지"
 
 #: includes/admin/templates/dashboard/users.php:73
 #: includes/core/class-user.php:987
 msgid "Awaiting E-mail Confirmation"
-msgstr "이메일 확인 대기 중"
+msgstr "이메일 확인을 기다리는 중"
 
 #: includes/core/class-builtin.php:1434
 msgid "Aymara"
@@ -793,7 +793,7 @@ msgstr "Azerbaijani"
 
 #: includes/admin/core/class-admin-metabox.php:1617
 msgid "Background Color"
-msgstr "배경 색상"
+msgstr "배경색"
 
 #: includes/core/class-builtin.php:1629
 msgid "Bahamas"
@@ -982,7 +982,7 @@ msgstr "자신의 계정을 삭제할 수 있습니까?"
 
 #: includes/admin/templates/role/admin-permissions.php:52
 msgid "Can delete these user roles only"
-msgstr "이 사용자 역할 만 삭제할 수 있습니다."
+msgstr "이 사용자 역할만 삭제할 수 있습니다."
 
 #: includes/admin/templates/role/admin-permissions.php:28
 msgid "Can edit other member accounts?"
@@ -994,11 +994,11 @@ msgstr "자신의 프로필을 편집할 수 있습니까?"
 
 #: includes/admin/templates/role/admin-permissions.php:35
 msgid "Can edit these user roles only"
-msgstr "이 사용자 역할 만 편집 할 수 있습니다."
+msgstr "이 사용자 역할만 편집 할 수 있습니다."
 
 #: includes/admin/templates/directory/search.php:78
 msgid "Can filter bar be collapsed"
-msgstr "필터 막대를 접을 수 있습니다."
+msgstr "필터 막대를 접을 수 있음"
 
 #: includes/admin/templates/role/profile.php:32
 msgid "Can make their profile private?"
@@ -1096,7 +1096,7 @@ msgstr "Chamorro"
 
 #: includes/core/um-actions-profile.php:807
 msgid "Change cover photo"
-msgstr "커버 사진 변경"
+msgstr "표지 사진 변경"
 
 #: includes/core/class-fields.php:2754
 msgid "Change file"
@@ -1132,11 +1132,11 @@ msgstr "%s로 변경하기"
 #: includes/core/class-builtin.php:1093
 #: includes/core/um-actions-profile.php:772
 msgid "Change your cover photo"
-msgstr "커버사진을 변경하세요"
+msgstr "표지 사진 변경"
 
 #: includes/core/class-builtin.php:1079
 msgid "Change your profile photo"
-msgstr "프로필 사진을 변경하세요"
+msgstr "프로필 사진 변경"
 
 #: includes/admin/core/class-admin-metabox.php:440
 #: includes/admin/core/class-admin-metabox.php:460
@@ -1149,11 +1149,11 @@ msgstr "전역 제한 메시지 변경됨"
 
 #: includes/admin/core/class-admin-notices.php:437
 msgid "Changed roles."
-msgstr "권한이 바뀌었습니다."
+msgstr "역할이 변경되었습니다."
 
 #: includes/class-init.php:159 includes/class-init.php:168
 msgid "Cheatin&#8217; huh?"
-msgstr "무슨 수작이신지?"
+msgstr "속임수?"
 
 #: includes/core/class-builtin.php:1447
 msgid "Chechen"
@@ -1173,14 +1173,14 @@ msgstr "얼티밋 멤버 사용자 캐시를 비활성화하려면 이 박스를
 msgid ""
 "Check this box if you would like to enable the use of a custom table for "
 "user metadata. Improved performance for member directory searches."
-msgstr "사용자 메타데이터에 대해 사용자 정의 테이블을 사용하려면 이 체크박스를 선택하세요. 회원 디렉터리 검색 성능이 향상되었습니다."
+msgstr "사용자 메타 데이터에 사용자 정의 테이블을 사용하려면이 체크 박스를 선택하십시오. 멤버 디렉터리 검색 성능이 향상되었습니다."
 
 #: includes/admin/core/class-admin-settings.php:1319
 msgid ""
 "Check this box if you would like to use Ultimate Member blocks in Gutenberg "
 "editor. Important some themes have the conflicts with Gutenberg editor."
 msgstr ""
-"얼티밋 멤버 블락을 구텐버그 에디터에서 사용하기 원하시면 이 체크박스를 체크하십시오. 어떤 테마들은 구텐버그 에디터와 충돌을 일으키는 "
+"얼티밋 멤버 블락을 구텐베르크 에디터에서 사용하기 원하시면 이 체크박스를 체크하십시오. 어떤 테마들은 구텐베르크 에디터와 충돌을 일으키는 "
 "것을 염두해 두세요."
 
 #: includes/admin/core/class-admin-settings.php:1336
@@ -1219,7 +1219,7 @@ msgstr "국가 선택"
 
 #: includes/admin/core/class-admin-settings.php:261
 msgid "Choose a page..."
-msgstr "페이지를 선택하십시오..."
+msgstr "페이지 선택..."
 
 #: includes/admin/assets/js/um-admin-blocks-shortcode.js:137
 msgid "Choose display directory"
@@ -1231,11 +1231,11 @@ msgstr "표시 형식 선택"
 
 #: includes/admin/templates/directory/profile.php:62
 msgid "Choose field(s) to display in extra user information section"
-msgstr "추가 사용자 정보 섹션에 표시 할 필드 선택하기"
+msgstr "추가 사용자 정보 섹션에 표시할 필드 선택하기"
 
 #: includes/admin/templates/directory/profile.php:45
 msgid "Choose field(s) to display in tagline"
-msgstr "태그 라인에 표시 할 필드를 선택하십시오."
+msgstr "태그 라인에 표시 할 필드 선택"
 
 #: includes/admin/templates/directory/sorting.php:46
 msgid "Choose field(s) to enable in sorting"
@@ -1243,25 +1243,25 @@ msgstr "검색에서 활성화할 필드를 선택"
 
 #: includes/admin/templates/directory/search.php:59
 msgid "Choose filter(s) meta to enable"
-msgstr "활성화 할 필터 메타 선택하기"
+msgstr "활성화 할 필터 메타 선택"
 
 #: includes/admin/templates/modal/fonticons.php:7
 msgid "Choose from %s available icons"
-msgstr "%s사용 가능한 아이콘 중에서 선택하십시오"
+msgstr "사용 가능한 %s 아이콘에서 선택"
 
 #: includes/admin/core/class-admin-settings.php:1005
 msgid "Choose global ratio for cover photos of profiles"
-msgstr "프로필의 표지 사진에 대한 전체 비율 선택"
+msgstr "프로필 표지 사진의 글로벌 비율 선택"
 
 #: includes/admin/core/class-admin-forms.php:526
 #: includes/admin/core/class-admin-metabox.php:1449
 #: includes/admin/core/class-admin-metabox.php:1477
 msgid "Choose Icon"
-msgstr "아이콘 선택하기"
+msgstr "아이콘 선택"
 
 #: includes/admin/core/class-admin-metabox.php:1562
 msgid "Choose the border style"
-msgstr "테두리 스타일 선택하기"
+msgstr "테두리 스타일 선택"
 
 #: includes/admin/core/class-admin-metabox.php:1773
 msgid "Choose the displayed time-format for this field"
@@ -1273,11 +1273,11 @@ msgstr "시간 선택기에서 각 시간 사이의 분 간격을 선택하세�
 
 #: includes/admin/core/class-admin-settings.php:328
 msgid "Choose user roles..."
-msgstr "사용자 역할 선택 ..."
+msgstr "사용자 역할 선택..."
 
 #: includes/admin/core/class-admin-metabox.php:1687
 msgid "Choose whether to open this link in same window or in a new window"
-msgstr "이 링크를 같은 창에서 열지 새 창에서 열지 선택하기"
+msgstr "이 링크를 같은 창에서 열지 새 창에서 열지 선택"
 
 #: includes/admin/core/class-admin-metabox.php:2356
 msgid "Choose whether you want a 5-stars or 10-stars ratings based here."
@@ -1297,7 +1297,7 @@ msgstr "Chuvash"
 
 #: includes/admin/core/class-admin-notices.php:508
 msgid "Claim 20% discount code"
-msgstr "20 % 할인 코드 청구하기"
+msgstr "20% 할인 코드 청구"
 
 #: includes/admin/core/class-admin-forms.php:1258
 msgid "Clear"
@@ -1373,7 +1373,7 @@ msgstr "계속 편집"
 
 #: includes/admin/core/class-admin-settings.php:595
 msgid "Control whether to enable or disable member directories on this site"
-msgstr "이 사이트에서 구성원 디렉토리를 사용할지 여부를 제어합니다."
+msgstr "이 사이트의 멤버 디렉터리 활성화 또는 비활성화 여부 제어"
 
 #: includes/core/class-builtin.php:1664
 msgid "Cook Islands"
@@ -1402,19 +1402,19 @@ msgstr "국가"
 
 #: includes/core/class-builtin.php:1090
 msgid "Cover Photo"
-msgstr "커버사진"
+msgstr "표지 사진"
 
 #: includes/admin/core/class-admin-settings.php:754
 msgid "Cover Photo Maximum File Size (bytes)"
-msgstr "커버 사진 최대 사이즈 (bytes)"
+msgstr "표지 사진 최대 사이즈 (bytes)"
 
 #: includes/admin/core/class-admin-settings.php:804
 msgid "Cover Photo Minimum Width (px)"
-msgstr "커버 사진 최소 너비 (px)"
+msgstr "표지 사진 최소 너비 (px)"
 
 #: includes/admin/templates/form/profile_customize.php:126
 msgid "Cover photo ratio"
-msgstr "커버 사진 비율"
+msgstr "표지 사진 비율"
 
 #: includes/admin/templates/form/profile_customize.php:117
 msgid "Cover Photo Size"
@@ -1426,7 +1426,7 @@ msgstr "표지 사진 썸네일 이미지 크기 (px)"
 
 #: includes/admin/core/packages/2.1.3-beta3/init.php:75
 msgid "Create additional metadata table..."
-msgstr "추가 메타 데이터 테이블 생성하기…"
+msgstr "추가 메타 데이터 테이블 생성…"
 
 #: includes/admin/core/class-admin-notices.php:312
 msgid "Create Pages"
@@ -1450,11 +1450,11 @@ msgstr "Croatian"
 
 #: includes/admin/core/class-admin-metabox.php:1921
 msgid "Crop and force 1:1 ratio"
-msgstr "1:1 비율 자르기와 강제하기"
+msgstr "자르기 및 강제 1 : 1 비율"
 
 #: includes/admin/core/class-admin-metabox.php:1922
 msgid "Crop and force user-defined ratio"
-msgstr "사용자 정의 비율 자르기와 강제하기"
+msgstr "사용자 정의 비율 자르기 및 강제"
 
 #: includes/admin/core/class-admin-metabox.php:1918
 msgid "Crop Feature"
@@ -1490,7 +1490,7 @@ msgstr "사용자 정의 필드가 업데이트 되었습니다."
 
 #: includes/admin/core/class-admin-settings.php:574
 msgid "Custom field(s)"
-msgstr "사용자정의 필드"
+msgstr "사용자 정의 필드"
 
 #: includes/admin/core/class-admin-builder.php:891
 msgid "Custom Fields"
@@ -1544,7 +1544,7 @@ msgid ""
 "Customize the search result text . e.g. Found 3,000 Members. Leave this "
 "blank to not show result text"
 msgstr ""
-"검색 결과 텍스트를 사용자 정의하십시오. 예 : 3,000 명의 회원을 찾았습니다. 결과 텍스트를 표시하지 않으려면이 입력란을 비워 둡니다"
+"검색 결과 텍스트를 사용자 정의하십시오. 예 : 3,000명의 회원을 찾았습니다. 결과 텍스트를 표시하지 않으려면이 입력란을 비워 둡니다."
 
 #: includes/admin/core/class-admin-metabox.php:977
 #: includes/admin/core/class-admin-metabox.php:998
@@ -1585,7 +1585,7 @@ msgstr "굵은 점선"
 msgid ""
 "Data can be exported or removed upon users request via the existing "
 "WordPress data exporter or eraser."
-msgstr "데이터는 사용자의 워드프레스 데이터 내보내기나 삭제하기를 통한 요청에 의해 내보내지거나 삭제될 수 있습니다. "
+msgstr "사용자가 기존 워드프레스 데이터 내보내기 또는 삭제하기를 통해 요청하면 데이터를 내보내거나 제거 할 수 있습니다."
 
 #: includes/admin/core/class-admin-columns.php:155
 msgid "Date"
@@ -1991,11 +1991,11 @@ msgstr "비어 있는"
 
 #: includes/admin/templates/directory/profile.php:26
 msgid "Enable Cover Photo"
-msgstr "커버사진 사용"
+msgstr "표지 사진 사용"
 
 #: includes/admin/templates/form/profile_customize.php:106
 msgid "Enable Cover Photos"
-msgstr "커버사진 사용가능"
+msgstr "표지 사진 사용가능"
 
 #: includes/admin/templates/directory/sorting.php:39
 msgid "Enable custom sorting"
@@ -2003,7 +2003,7 @@ msgstr "사용자 지정 정렬 사용하기"
 
 #: includes/admin/core/class-admin-settings.php:502
 msgid "Enable custom table for usermeta"
-msgstr "사용자 메타데이터에 대한 사용자 정의 테이블 활성화하기"
+msgstr "usermeta에 대한 사용자 정의 테이블 활성화"
 
 #: includes/admin/templates/directory/search.php:42
 msgid "Enable Filters feature"
@@ -2011,11 +2011,11 @@ msgstr "필터 기능 활성화하기"
 
 #: includes/admin/core/class-admin-settings.php:1318
 msgid "Enable Gutenberg Blocks"
-msgstr "구텐버그 블락 활성화"
+msgstr "구텐베르크 블록 활성화"
 
 #: includes/admin/core/class-admin-settings.php:1047
 msgid "Enable HTML support for user description"
-msgstr "사용자 설명에 html 지원 사용가능"
+msgstr "사용자 설명에 대한 HTML 지원 활성화"
 
 #: includes/admin/core/class-admin-settings.php:594
 msgid "Enable Members Directory"
@@ -2033,7 +2033,7 @@ msgstr "이 폼에 활성화하기"
 msgid ""
 "Enable or disable a strong password rules on account page / change password "
 "tab"
-msgstr "계정 페이지의 사용가능 또는 불가한 강력한 비밀번호 규칙 / 비밀번호 변경"
+msgstr "계정 페이지 / 암호 변경 탭에서 강력한 암호 규칙 활성화 또는 비활성화"
 
 #: includes/admin/core/class-admin-settings.php:632
 msgid ""
@@ -2075,7 +2075,7 @@ msgstr "계정 페이지 내의 계정 탭 삭제 가능 / 불가능"
 
 #: includes/admin/core/class-admin-settings.php:655
 msgid "Enable/disable the Notifications account tab in account page"
-msgstr "알림 계정 페이지 에서 탭을 계정 활성화 / 비활성화"
+msgstr "계정 페이지에서 '알림 계정' 탭 활성화/비활성화"
 
 #: includes/admin/core/class-admin-settings.php:643
 msgid "Enable/disable the Password account tab in account page"
@@ -2083,7 +2083,7 @@ msgstr "계정 페이지에서 비밀번호 계정 탭 활성화/비활성화"
 
 #: includes/admin/core/class-admin-settings.php:649
 msgid "Enable/disable the Privacy account tab in account page"
-msgstr "계정 페이지의 개인 정보 계정 탭 사용 / 사용 중지"
+msgstr "계정 페이지의 개인정보 탭 활성화/비활성화"
 
 #: includes/core/class-builtin.php:1461
 msgid "English"
@@ -2127,7 +2127,7 @@ msgstr "여기에 행 제목 텍스트를 입력하세요."
 msgid ""
 "Enter the shortcode in the following textarea and it will be displayed on "
 "the fields"
-msgstr "다음 텍스트 영역에 단축 코드를 입력하면 필드에 표시됩니다"
+msgstr "다음 텍스트 영역에 단축 코드를 입력하면 필드에 표시됩니다."
 
 #: includes/admin/templates/role/role-edit.php:194
 msgid "Enter Title Here"
@@ -2357,7 +2357,7 @@ msgstr "팔로우"
 msgid ""
 "For incompatible themes, please make the menu open from left instead of "
 "bottom by default."
-msgstr "호환되지 않는 테마의 경우 기본적으로 아래쪽이 아닌 왼쪽에서 메뉴가 열리도록하십시오."
+msgstr "호환되지 않는 테마의 경우 기본적으로 메뉴가 하단이 아닌 왼쪽에서 열리도록하십시오."
 
 #: includes/admin/templates/role/admin-permissions.php:21
 msgid "Force hiding adminbar in frontend?"
@@ -2562,7 +2562,7 @@ msgstr "글로벌 사이트 액세스"
 msgid ""
 "Globally control the access of your site, you can have seperate restrict "
 "options per post/page by editing the desired item."
-msgstr "사이트의 액세스를 전 세계적으로 제어하고 원하는 항목을 편집하여 게시물 / 페이지별로 별도의 제한 옵션을 설정할 수 있습니다."
+msgstr "사이트에 대한 액세스를 전역적으로 제어하고 원하는 항목을 편집하여 게시물/페이지별로 별도의 제한 옵션을 가질 수 있습니다."
 
 #: includes/admin/templates/role/delete.php:20
 #: includes/admin/templates/role/logout.php:20
@@ -2585,7 +2585,7 @@ msgstr "Google+ URL"
 #: includes/admin/core/class-admin-settings.php:607
 msgid ""
 "Gravatar has a number of built in options which you can also use as defaults"
-msgstr "Gravatar는 기본 설정으로 사용할 수있는 다양한 옵션을 제공합니다"
+msgstr "Gravatar는 기본 설정으로 사용할 수있는 다양한 옵션을 제공합니다."
 
 #: includes/core/class-builtin.php:1696
 msgid "Greece"
@@ -2916,7 +2916,7 @@ msgstr "확인하면 프로필과 관련된 모든 내용이 사이트에서 영
 msgid ""
 "If you do not want to show all members, select only user roles to appear in "
 "this directory"
-msgstr "모든 구성원을 표시하지 않으려면 이 디렉토리에 표시할 사용자 역할만 선택하세요."
+msgstr "모든 회원을 표시하지 않으려면 이 디렉토리에 표시할 사용자 역할만 선택하세요."
 
 #: includes/admin/templates/gdpr.php:39
 msgid ""
@@ -3776,7 +3776,7 @@ msgstr "멤버"
 
 #: includes/core/class-profile.php:102
 msgid "Members only"
-msgstr "멤버 전용"
+msgstr "회원 전용"
 
 #: includes/core/class-user.php:999
 msgid "Membership Inactive"
@@ -4570,15 +4570,15 @@ msgstr "보안"
 
 #: includes/admin/core/class-admin-settings.php:648
 msgid "Privacy Account Tab"
-msgstr "비밀 계정 탭"
+msgstr "개인정보 탭"
 
 #: includes/admin/core/class-admin-gdpr.php:42
 msgid "Privacy Policy"
-msgstr "개인 정보 정책"
+msgstr "개인정보정책"
 
 #: includes/admin/core/class-admin-gdpr.php:82
 msgid "Privacy Policy Agreement"
-msgstr "개인 정보 보호 정책 동의"
+msgstr "개인정보보호정책 동의"
 
 #: includes/admin/core/class-admin-gdpr.php:73
 msgid "Private Content Post ID"
@@ -4614,7 +4614,7 @@ msgstr "프로필 표지 사진"
 
 #: includes/admin/core/class-admin-settings.php:1004
 msgid "Profile Cover Ratio"
-msgstr "프로필 커버 비율"
+msgstr "프로필 표지 비율"
 
 #: includes/admin/core/class-admin-settings.php:994
 msgid "Profile Cover Size"
@@ -4836,7 +4836,7 @@ msgstr "활성화 페이지 새로고침"
 #: includes/class-config.php:133 includes/class-config.php:262
 #: includes/class-config.php:276 includes/class-config.php:793
 msgid "Register"
-msgstr "회원 가입"
+msgstr "회원가입"
 
 #: includes/admin/templates/gdpr.php:23
 msgid ""
@@ -4863,7 +4863,7 @@ msgstr "가입 필드 아이콘"
 #: includes/admin/core/class-admin-settings.php:1093
 #: includes/admin/templates/form/mode.php:12
 msgid "Registration Form"
-msgstr "등록 양식"
+msgstr "회원가입 양식"
 
 #: includes/admin/core/class-admin-gdpr.php:59
 msgid "Registration Form ID"
@@ -4924,7 +4924,7 @@ msgstr "등록 타임스탬프"
 #: includes/admin/core/class-admin-users.php:208
 #: includes/core/um-filters-user.php:20
 msgid "Reject Membership"
-msgstr "회원 가입 거부"
+msgstr "회원가입 거부"
 
 #: includes/admin/core/class-admin-users.php:382
 #: includes/admin/templates/dashboard/users.php:41
@@ -4954,7 +4954,7 @@ msgstr "모든 필터 제거하기"
 
 #: includes/admin/core/class-admin-settings.php:1335
 msgid "Remove Data on Uninstall?"
-msgstr "제거시 데이터를 제거 하시겠습니까?"
+msgstr "플러플러그인 제거 시 데이터를 제거 하시겠습니까?"
 
 #: templates/members.php:311
 msgid "Remove filter"
@@ -4978,7 +4978,7 @@ msgstr "강력한 암호 사용?"
 
 #: includes/admin/core/class-admin-settings.php:631
 msgid "Require a strong password? (when user resets password only)"
-msgstr "강력한 암호가 필요하십니까? (사용자가 암호 만 재설정 한 경우)"
+msgstr "강력한 암호가 필요하십니까? (사용자가 암호만 재설정한 경우)"
 
 #: includes/admin/templates/role/register.php:20
 msgid "Require Admin Review"
@@ -5024,7 +5024,7 @@ msgstr "패스워드 재설정"
 
 #: includes/admin/core/class-admin-settings.php:829
 msgid "Reset Password Limit"
-msgstr "비밀 번호 재설정 제한"
+msgstr "비밀번호 재설정 제한"
 
 #: includes/admin/core/list-tables/roles-list-table.php:347
 msgid "Reset UM Role meta"
@@ -5046,7 +5046,7 @@ msgstr "액세스를 제한 하시겠습니까?"
 
 #: includes/admin/core/class-admin-settings.php:444
 msgid "Restricted Access Message"
-msgstr "제한된 액세스 메시지"
+msgstr "제한된 액세스 메세지"
 
 #: includes/admin/core/class-admin-settings.php:478
 msgid "Restricted Access to Posts"
@@ -5394,7 +5394,7 @@ msgstr "이 필드를 통해 업로드 할 이미지 유형을 선택하세요."
 #: includes/admin/core/class-admin-navmenu.php:88
 #: includes/admin/core/class-admin-navmenu.php:254
 msgid "Select the member roles that can see this link"
-msgstr "이 링크를 볼 수 있는 멤버 역할을 선택"
+msgstr "이 링크를 볼 수 있는 회원 역할을 선택"
 
 #: includes/admin/core/class-admin-metabox.php:2303
 msgid "Select the member roles that can view this field on the front-end."
@@ -5535,7 +5535,7 @@ msgstr "최대 날짜/일을 YYYY/MM/DD 형식으로 설정하기"
 msgid ""
 "Set the maximum reset password limit. If reached the maximum limit, user "
 "will be locked from using this."
-msgstr "최대 재설정 암호 제한을 설정하십시오. 최대 한도에 도달하면 사용자는이를 사용하지 못하게됩니다."
+msgstr "최대 재설정 암호 제한을 설정합니다. 최대 한도에 도달하면 사용자가 이를 사용할 수 없게됩니다."
 
 #: includes/admin/core/class-admin-metabox.php:1859
 msgid "Set the minimum date/day in range in the format YYYY/MM/DD"
@@ -5544,11 +5544,11 @@ msgstr "최소 날짜/일을 YYYY/MM/DD 형식으로 설정하기"
 #: includes/admin/templates/form/profile_customize.php:118
 #: includes/admin/templates/form/profile_customize.php:153
 msgid "Set the profile photo size in pixels here"
-msgstr "프로필 사진 크기를 픽셀값으로 여기에 설정하십시오"
+msgstr "여기에서 프로필 사진 크기를 픽셀로 설정하세요."
 
 #: includes/admin/core/class-admin-settings.php:755
 msgid "Sets a maximum size for the uploaded cover"
-msgstr "업로드 한 커버 사진의 최대 크기를 설정합니다."
+msgstr "업로드 된 표지의 최대 크기를 설정합니다."
 
 #: includes/admin/core/class-admin-settings.php:747
 msgid "Sets a maximum size for the uploaded photo"
@@ -5587,11 +5587,11 @@ msgstr "단축코드"
 
 #: includes/admin/core/class-admin-settings.php:1271
 msgid "Show \"Remember Me\""
-msgstr "“로그인 상태 유지” 보여주기"
+msgstr "“로그인 상태 유지” 표시"
 
 #: includes/admin/templates/form/login_customize.php:90
 msgid "Show \"Remember Me\"?"
-msgstr "“기억하기”를 보이겠습니까?"
+msgstr "\"로그인 상태 유지\"를 표시 하시겠습니까?"
 
 #: includes/admin/core/class-admin-settings.php:1074
 msgid "Show a custom message if profile is empty"
@@ -5961,11 +5961,11 @@ msgstr "Swedish"
 
 #: includes/admin/core/class-admin-settings.php:1076
 msgid "Switch on/off the custom message that appears when the profile is empty"
-msgstr "프로필이 비어있을 때 나타나는 맞춤 메시지를 켜거나 끕니다."
+msgstr "프로필이 비어있을 때 표시되는 사용자 지정 메시지 켜기/끄기"
 
 #: includes/admin/core/class-admin-settings.php:1083
 msgid "Switch on/off the emoticon (sad face) that appears above the message"
-msgstr "메시지 위에 표시되는 이모티콘 (슬픈 얼굴) 켜기 / 끄기"
+msgstr "메시지 위에 표시되는 이모티콘(슬픈 얼굴)을 켜거나 끕니다."
 
 #: includes/admin/core/class-admin-settings.php:1266
 msgid "Switch on/off the forgot password link in login form"
@@ -5973,7 +5973,7 @@ msgstr "로그인 양식에서 암호 분실 링크 켜기 / 끄기"
 
 #: includes/admin/core/class-admin-settings.php:989
 msgid "Switch on/off the profile cover photos"
-msgstr "프로필 커버 사진 켜기/끄기"
+msgstr "프로필 표지 사진 켜기/끄기"
 
 #: includes/admin/core/class-admin-settings.php:972
 #: includes/admin/templates/form/profile_customize.php:141
@@ -5996,12 +5996,12 @@ msgstr "프로필 헤더에서 사용자 설명 켜기 / 끄기"
 
 #: includes/admin/core/class-admin-settings.php:1028
 msgid "Switch on/off the user name on profile header"
-msgstr "프로필 헤더에서 사용자 이름을 켜거나 끕니다"
+msgstr "프로필 헤더에서 사용자 이름을 켜거나 끕니다."
 
 #: includes/admin/core/class-admin-settings.php:1048
 msgid ""
 "Switch on/off to enable/disable support for html tags on user description."
-msgstr "사용자 설명에서 html 태그에 대한 지원을 사용 / 사용 중지하려면 사용 / 사용 중지를 선택합니다."
+msgstr "사용자 설명에서 HTML 태그 지원을 활성화/비활성화하려면 켜기/끄기를 전환하시오."
 
 #: includes/admin/templates/form/login_customize.php:13
 #: includes/admin/templates/form/profile_customize.php:22
@@ -6100,8 +6100,8 @@ msgid ""
 "details and send you an email letting you know whether your application has "
 "been successful or not."
 msgstr ""
-"저희 사이트에 회원 가입해 주셔서 감사 합니다. 우리는 귀하의 세부 정보를 검토 하고 당신의 요청이 성공적인지 아닌지 알 수 있는 "
-"이메일을 보낼 것입니다."
+"저희 사이트에 회원가입해 주셔서 감사 합니다. 우리는 귀하의 세부 정보를 검토 하고 당신의 요청이 성공적인지 아닌지 알 수 있는 이메일을 "
+"보낼 것입니다."
 
 #: includes/admin/templates/role/register.php:66
 msgid ""
@@ -6208,7 +6208,7 @@ msgstr "단축 코드의 최대 너비(px)입니다. (예: 600px)"
 #: includes/admin/templates/form/profile_customize.php:59
 msgid ""
 "The maximum width of the profile area inside profile (below profile header)"
-msgstr "프로파일 내부의 프로파일 영역의 최대 너비 (프로파일 헤더 아래)"
+msgstr "프로필 내부의 프로필 영역의 최대 너비 (프로필 헤더 아래)"
 
 #: includes/admin/core/class-admin-settings.php:900
 #: includes/admin/core/class-admin-settings.php:1109
@@ -6233,7 +6233,7 @@ msgstr "입력한 비밀번호가 맞지 않습니다."
 #: includes/admin/core/class-admin-settings.php:1206
 #: includes/admin/templates/form/profile_customize.php:127
 msgid "The shortcode is centered by default unless you specify otherwise here"
-msgstr "단축키는 사용자가 여기에서 다르게 지정하지 않으면 기본적으로 중앙에 위치합니다"
+msgstr "단축키는 사용자가 여기에서 다르게 지정하지 않으면 기본적으로 중앙에 위치합니다."
 
 #: includes/admin/core/class-admin-metabox.php:2002
 msgid "The text that appears on the button. e.g. Upload"
@@ -6320,7 +6320,7 @@ msgstr "로그인 폼의 필드 아이콘들의 형태를 제어합니다. "
 
 #: includes/admin/core/class-admin-settings.php:1129
 msgid "This controls the display of field icons in the registration form"
-msgstr "등록 양식의 필드 아이콘 표시를 제어합니다"
+msgstr "회원가입의 필드 아이콘 표시를 제어합니다."
 
 #: includes/admin/core/class-admin-settings.php:1325
 msgid ""
@@ -6384,7 +6384,7 @@ msgstr "이미지가 너무 작아요!"
 
 #: includes/admin/core/class-admin-settings.php:916
 msgid "This is applicable for edit mode only"
-msgstr "이것은 편집 모드에만 적용됩니다."
+msgstr "이것은 편집 모드에서이것은 편집 모드에서만 적용됩니다."
 
 #: includes/admin/core/class-admin-settings.php:667
 msgid ""
@@ -6443,7 +6443,7 @@ msgstr "블락에 대한 권한이 없는 사용자들에게 보여지는 메시
 msgid ""
 "This is the message shown to users that do not have permission to view the "
 "content"
-msgstr "콘텐츠를 볼 수있는 권한이 없는 사용자에게 표시되는 메시지입니다."
+msgstr "콘텐츠를 볼 수 없는 사용자에게 표시되는 메시지입니다."
 
 #: includes/admin/core/class-admin-settings.php:564
 msgid ""
@@ -6573,7 +6573,7 @@ msgstr "선택한 아이콘의 색상이 됩니다. 기본적으로 제목 텍�
 msgid ""
 "This will be the default role assigned to users registering thru "
 "registration form"
-msgstr "이것은 등록 양식을 통해 등록하는 사용자에게 지정된 기본 역할이됩니다."
+msgstr "이것은 회원가입을 통해 등록하는 사용자에게 지정된 기본 역할이됩니다."
 
 #: includes/admin/core/class-admin-settings.php:342
 msgid "This will be the default tab on user profile page"
@@ -6762,7 +6762,7 @@ msgid ""
 "Turn on to add a confirm password field. If turned on the confirm password "
 "field will only show on register forms and not on login forms."
 msgstr ""
-"암호 확인 필드를 추가하려면 켜십시오. 이 옵션을 선택하면 로그인 확인 양식이 아닌 등록 양식에만 비밀번호 확인 필드가 표시됩니다."
+"암호 확인 필드를 추가하려면 켜십시오. 이 옵션을 선택하면 로그인 확인 양식이 아닌 회원가입에만 비밀번호 확인 필드가 표시됩니다."
 
 #: includes/admin/core/class-admin-metabox.php:1713
 msgid ""
@@ -6771,7 +6771,7 @@ msgid ""
 "option is only applied to register forms and not to login forms."
 msgstr ""
 "사용자가 강력한 암호 (소문자 한 개, 대문자 한 개, 한 개의 숫자 조합)를 강제로 만들도록 설정하십시오. 이 옵션을 켜면 로그인 "
-"양식이 아닌 양식 등록에만 적용됩니다."
+"양식이 아닌 회원가입에만 적용됩니다."
 
 #: includes/admin/core/class-admin-metabox.php:2132
 msgid "Turn on/off HTML tags for this textarea"
@@ -6940,7 +6940,7 @@ msgstr "비밀번호 업데이트"
 
 #: includes/core/class-account.php:110
 msgid "Update Privacy"
-msgstr "개인 정보 업데이트"
+msgstr "개인정보 업데이트"
 
 #: includes/class-config.php:252
 msgid "Update Profile"
@@ -7050,7 +7050,7 @@ msgstr "올리기"
 #: includes/core/um-actions-profile.php:823
 #: includes/core/um-actions-profile.php:894
 msgid "Upload a cover photo"
-msgstr "커버 사진 업로드"
+msgstr "표지 사진 업로드"
 
 #: includes/admin/core/class-admin-metabox.php:1982
 #: includes/admin/core/class-admin-metabox.php:2002
@@ -7071,7 +7071,7 @@ msgstr "사진 업로드 "
 
 #: includes/core/class-builtin.php:1094
 msgid "Upload profile cover here"
-msgstr "이곳에 프로필 커버 업로드"
+msgstr "이곳에 프로필 표지 업로드"
 
 #: includes/core/class-builtin.php:1080
 msgid "Upload your photo here"
@@ -7111,7 +7111,7 @@ msgstr "Gravatar 내장 이미지 사용"
 
 #: includes/admin/core/class-admin-settings.php:600
 msgid "Use Gravatars?"
-msgstr "그라바타 사용?"
+msgstr "그라바타 사용"
 
 #: includes/admin/core/class-admin-settings.php:875
 msgid "Use HTML for E-mails?"
@@ -7471,7 +7471,7 @@ msgstr "사용자가 계정 페이지에서 이름과 성을 변경하도록 허
 msgid ""
 "Whether to allow users changing their profile visibility from member "
 "directory in account page."
-msgstr "계정 페이지의 구성원 디렉토리에서 사용자가 프로필 표시 여부를 변경할 수 있도록 허용할지 여부."
+msgstr "사용자가 계정 페이지의 회원 디렉토리에서 프로필 표시 여부를 변경할 수 있는지 여부입니다."
 
 #: includes/admin/core/class-admin-metabox.php:1597
 msgid "Whether to enable a heading for this row"
@@ -7574,13 +7574,13 @@ msgstr "날짜 전체를 표시할지 연도만 표시할지 여부. 예: 25년"
 msgid ""
 "Which roles that role can edit, choose none to allow role to edit all member "
 "roles"
-msgstr "역할이 편집 할 수있는 역할, none을 선택하여 역할이 모든 구성원 역할을 편집 할 수 있도록 허용"
+msgstr "역할이 편집 할 수있는 역할, none을 선택하여 역할이 모든 회원 역할을 편집 할 수 있도록 허용"
 
 #: includes/admin/templates/role/profile.php:22
 msgid ""
 "Which roles that role can view, choose none to allow role to view all member "
 "roles"
-msgstr "역할이 볼 수있는 역할, none을 선택하여 역할이 모든 구성원 역할을 볼 수 있도록 허용"
+msgstr "역할이 볼 수있는 역할, none을 선택하여 역할이 모든 회원 역할을 볼 수 있도록 허용"
 
 #: includes/admin/core/class-admin-metabox.php:393
 #: includes/admin/core/class-admin-metabox.php:545
@@ -8105,7 +8105,7 @@ msgstr "라이센스 키가 활성화 제한에 도달했습니다. 지금 <a hr
 
 #: includes/core/um-actions-misc.php:186 includes/core/um-filters-login.php:104
 msgid "Your membership request has been rejected."
-msgstr "회원 가입 요청이 거절되었습니다."
+msgstr "회원가입 요청이 거절되었습니다."
 
 #: includes/core/class-builtin.php:143
 msgid "Your meta key already exists in your fields list"
@@ -8177,7 +8177,7 @@ msgstr "요청을 인증 할 수 없습니다."
 #: includes/core/class-mail.php:615 includes/core/class-password.php:703
 #: includes/core/class-profile.php:484
 msgid "Your set password"
-msgstr "설정한 패스워드"
+msgstr "설정한 비밀번호"
 
 #: includes/admin/templates/dashboard/purge.php:19
 msgid ""
@@ -8200,15 +8200,15 @@ msgstr "업그레이드가 중단되었습니다. 지원팀에 문의하세요."
 
 #: includes/admin/core/class-admin-notices.php:413
 msgid "Your user cache is now removed."
-msgstr "사용자 캐시가 제거되었습니다."
+msgstr "이제 사용자 캐시가 제거되었습니다."
 
 #: includes/core/um-actions-form.php:839
 msgid "Your user description must contain less than %s characters"
-msgstr "사용자 설명에 %s자보다 적게 포함해야합니다"
+msgstr "사용자 설명은 %s자 미만이어야합니다."
 
 #: includes/core/um-actions-form.php:710 includes/core/um-actions-form.php:724
 msgid "Your username contains invalid characters"
-msgstr "사용자 이름에 잘못된 문자가 포함되어 있습니다"
+msgstr "사용자 이름에 잘못된 문자가 있습니다."
 
 #: includes/core/um-actions-form.php:706 includes/core/um-actions-form.php:720
 msgid "Your username is already taken"
