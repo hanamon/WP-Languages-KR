@@ -4,9 +4,10 @@
 
 ## 테마 목록
 01. 디비 테마
-	: /wp-content/themes/Divi/includes/builder/languages/ko_KR.mo 파일 업로드
+	: /wp-content/themes/Divi/includes/builder/languages/ko_KR.mo 파일 업로드 하면 된다.
 
 ## 플러그인 목록
+	: /wp-content/languages/plugins/ or /wp-content/languages/loco/plugins/ 파일 업로드 하면 된다.
 01. 런대쉬 (LearnDash LMS)
 	: 버전 3.4.0.6
 02. 런대쉬 프로패널 (LearnDash ProPanel)
