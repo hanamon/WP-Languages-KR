@@ -1,0 +1,123 @@
+# Translation of the WordPress plugin Import Users from CSV 0.3 by PubPoet.
+# Copyright (C) 2011 PubPoet
+# This file is distributed under the same license as the Import Users from CSV package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: Import Users from CSV 0.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/import-users-from-csv\n"
+"POT-Creation-Date: 2011-12-17 16:55+0100\n"
+"PO-Revision-Date: 2021-04-30 06:28+0000\n"
+"Last-Translator: 이러닝솔루션 에듀베이직\n"
+"Language-Team: 한국어\n"
+"Language: ko-KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1"
+
+#: import-users-from-csv.php:59
+msgid "Import From CSV"
+msgstr "CSV에서 가져 오기"
+
+#: import-users-from-csv.php:212
+msgid "You do not have sufficient permissions to access this page."
+msgstr "이 페이지에 액세스 할 수있는 권한이 없습니다."
+
+#: import-users-from-csv.php:216
+msgid "Import users from a CSV file"
+msgstr "CSV 파일에서 사용자 가져 오기"
+
+#: import-users-from-csv.php:223
+#, php-format
+msgid ""
+"Notice: please make the directory %s writable so that you can see the error "
+"log."
+msgstr "주의 : 오류 로그를 볼 수 있도록 %s 디렉토리를 쓰기 가능하게 만드십시오."
+
+#: import-users-from-csv.php:229
+#, php-format
+msgid ", please <a href=\"%s\">check the error log</a>"
+msgstr ", <a href=\"%s\">오류 로그를 확인하십시오.</a>"
+
+#: import-users-from-csv.php:233
+msgid "Error during file upload."
+msgstr "파일 업로드 중 오류가 발생했습니다."
+
+#: import-users-from-csv.php:236
+msgid "Cannot extract data from uploaded file or no file was uploaded."
+msgstr "업로드 된 파일에서 데이터를 추출 할 수 없거나 업로드 된 파일이 없습니다."
+
+#: import-users-from-csv.php:239
+#, php-format
+msgid "No user was successfully imported%s."
+msgstr "성공적으로 가져온 사용자가 없습니다 %s."
+
+#: import-users-from-csv.php:242
+#, php-format
+msgid "Some users were successfully imported but some were not%s."
+msgstr "일부 사용자를 성공적으로 가져 왔지만 일부는 %s가 아닙니다."
+
+#: import-users-from-csv.php:245
+msgid "Users import was successful."
+msgstr "사용자 가져 오기에 성공했습니다."
+
+#: import-users-from-csv.php:256
+msgid "CSV file"
+msgstr "CSV 파일"
+
+#: import-users-from-csv.php:260 import-users-from-csv.php:262
+msgid "Notification"
+msgstr "공고"
+
+#: import-users-from-csv.php:270 import-users-from-csv.php:272
+msgid "Password nag"
+msgstr "암호 nag"
+
+#: import-users-from-csv.php:281
+msgid "Import"
+msgstr "가져오기"
+
+#: import-users-from-csv.php:159
+msgid "You may want to see <a href=\"%s\">the example of the CSV file</a>."
+msgstr "CSV 파일의 예를 볼 수 있습니다."
+
+#: import-users-from-csv.php:165
+msgid "Send to new users"
+msgstr "새 사용자에게 보내기"
+
+#: import-users-from-csv.php:175
+msgid "Show password nag on new users signon"
+msgstr "새 사용자 로그인시 암호 nag 표시"
+
+#: import-users-from-csv.php:297
+#, php-format
+msgid "BEGIN %s"
+msgstr "시작 %s"
+
+#: import-users-from-csv.php:302
+#, php-format
+msgid "[Line %1$s] %2$s"
+msgstr "[행 %1$s] %2$s"
+
+#. Plugin Name of the plugin/theme
+msgid "Import Users from CSV"
+msgstr "CSV에서 사용자 가져 오기"
+
+#. Plugin URI of the plugin/theme
+msgid "http://pubpoet.com/plugins/"
+msgstr "http://pubpoet.com/plugins/"
+
+#. Description of the plugin/theme
+msgid "Import Users data and metadata from a csv file."
+msgstr "csv 파일에서 사용자 데이터 및 메타 데이터를 가져옵니다."
+
+#. Author of the plugin/theme
+msgid "PubPoet"
+msgstr "PubPoet"
+
+#. Author URI of the plugin/theme
+msgid "http://pubpoet.com/"
+msgstr "http://pubpoet.com/"

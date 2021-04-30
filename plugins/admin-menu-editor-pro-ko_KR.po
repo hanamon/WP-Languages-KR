@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Menu Editor Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-26 08:29+0000\n"
+"PO-Revision-Date: 2021-04-26 08:29+0000\n"
+"Last-Translator: 이러닝솔루션 에듀베이직\n"
+"Language-Team: 한국어\n"
+"Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: admin-menu-editor-pro"
+
+#. Name of the plugin
+msgid "Admin Menu Editor Pro"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Lets you directly edit the WordPress admin menu. You can re-order, hide or "
+"rename existing menus, add custom menus and more."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://adminmenueditor.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Janis Elsts"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://w-shadow.com/"
+msgstr ""
